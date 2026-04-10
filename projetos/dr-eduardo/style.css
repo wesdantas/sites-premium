@@ -111,6 +111,15 @@ strong {
   text-decoration: none;
   transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
   line-height: 1.3;
+  text-align: center;
+}
+
+.btn__main {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .btn--primary {
@@ -126,22 +135,25 @@ strong {
 }
 
 .btn--lg {
-  padding: 22px 48px;
-  font-size: 1.1rem;
+  padding: 20px 44px;
+  font-size: 1.05rem;
+  letter-spacing: 0.01em;
 }
 
 .btn--xl {
-  padding: 26px 56px;
-  font-size: 1.15rem;
+  padding: 24px 52px;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
 }
 
 .btn__arrow {
-  font-size: 1.2em;
+  font-size: 1.1em;
   transition: transform 0.2s ease;
+  flex-shrink: 0;
 }
 
 .btn--primary:hover .btn__arrow {
-  transform: translateX(4px);
+  transform: translateX(5px);
 }
 
 .btn__sub {
@@ -344,244 +356,220 @@ strong {
   height: 100%;
 }
 
-/* ── LIVRO 3D ── */
-.book-3d {
-  position: relative;
-  width: 200px;
-  height: 280px;
-  transform-style: preserve-3d;
-  transform: perspective(1000px) rotateY(-15deg) rotateX(4deg);
-  animation: bookFloat3d 5s ease-in-out infinite;
-  cursor: pointer;
-  z-index: 2;
+/* ── LIVRO 3D ESTÁTICO PREMIUM ── */
+.hero__book-mockup {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
 }
 
-@keyframes bookFloat3d {
-  0%,100% { transform: perspective(1000px) rotateY(-15deg) rotateX(4deg) translateY(0px); }
-  50%     { transform: perspective(1000px) rotateY(-15deg) rotateX(4deg) translateY(-14px); }
+.book-3d {
+  position: relative;
+  width: 210px;
+  height: 290px;
+  transform-style: preserve-3d;
+  transform: perspective(900px) rotateY(-22deg) rotateX(3deg);
+  animation: bookFloat 5s ease-in-out infinite;
+  filter: drop-shadow(0 40px 60px rgba(90,29,107,0.7));
+}
+
+@keyframes bookFloat {
+  0%,100% { transform: perspective(900px) rotateY(-22deg) rotateX(3deg) translateY(0px); }
+  50%     { transform: perspective(900px) rotateY(-22deg) rotateX(3deg) translateY(-12px); }
 }
 
 /* Lombada */
 .book-3d__spine {
   position: absolute;
-  left: -18px;
-  top: 2px;
-  width: 18px;
-  height: 100%;
-  background: linear-gradient(180deg, #3D1050, #1a0730);
-  transform: rotateY(-90deg) translateZ(-9px);
+  left: -22px;
+  top: 0;
+  bottom: 0;
+  width: 22px;
+  background: linear-gradient(90deg, #1a0527 0%, #2e0d45 40%, #3d1256 100%);
   transform-origin: right center;
-  border-radius: 2px 0 0 2px;
-  box-shadow: inset -3px 0 8px rgba(0,0,0,0.5);
+  transform: rotateY(-90deg) translateZ(-11px);
+  border-radius: 3px 0 0 3px;
+  box-shadow:
+    inset -4px 0 10px rgba(0,0,0,0.6),
+    inset 2px 0 6px rgba(255,255,255,0.04);
 }
 
-/* Miolo de páginas */
+/* Miolo de páginas visível na lateral */
 .book-3d__pages {
   position: absolute;
-  inset: 2px 0 2px 0;
-  background: linear-gradient(90deg, #e8e0f0, #f5f0fa, #e8e0f0);
-  transform: translateZ(-2px);
-  border-radius: 1px;
-  overflow: hidden;
-}
-
-.book-3d__page-stack {
-  position: absolute;
-  inset: 0;
-  background: repeating-linear-gradient(
-    0deg,
-    transparent,
-    transparent 3px,
-    rgba(168,85,247,0.06) 3px,
-    rgba(168,85,247,0.06) 4px
+  inset: 3px 0;
+  background: linear-gradient(
+    90deg,
+    #d4c8e0 0%,
+    #ede8f5 30%,
+    #f5f0fa 50%,
+    #ede8f5 70%,
+    #d4c8e0 100%
   );
+  transform: translateZ(-3px);
+  border-radius: 1px;
+  box-shadow: inset 0 0 8px rgba(168,85,247,0.1);
 }
 
-/* Capa traseira */
-.book-3d__back {
+/* Capa frontal */
+.book-3d__cover {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, #2a0a3d, #1a0730);
-  border-radius: 2px 10px 10px 2px;
-  transform: translateZ(-4px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.book-3d__back-inner {
-  font-size: 3rem;
-  opacity: 0.2;
-}
-
-/* Capa frontal — abre com GSAP */
-.book-3d__front {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(145deg, #6B1F80 0%, #A855F7 50%, #7B2D8B 100%);
-  border-radius: 2px 10px 10px 2px;
-  transform-origin: left center;
-  transform-style: preserve-3d;
-  box-shadow:
-    6px 6px 20px rgba(0,0,0,0.5),
-    inset 0 0 40px rgba(255,255,255,0.05),
-    0 0 60px rgba(168,85,247,0.3);
+  border-radius: 3px 10px 10px 3px;
+  background:
+    linear-gradient(160deg,
+      #5A1D6B 0%,
+      #7B2D8B 30%,
+      #9333EA 60%,
+      #6D28D9 85%,
+      #4C1D95 100%
+    );
   overflow: hidden;
-  z-index: 3;
+  box-shadow:
+    4px 0 0 rgba(0,0,0,0.3),
+    8px 8px 24px rgba(0,0,0,0.4),
+    inset 1px 0 0 rgba(255,255,255,0.08),
+    0 0 0 1px rgba(168,85,247,0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-.book-3d__front-inner {
-  position: absolute;
-  inset: 0;
+/* Faixa decorativa no topo */
+.book-3d__top-band {
+  height: 6px;
+  background: linear-gradient(90deg, #F59E0B, #FDE68A, #F59E0B);
+  flex-shrink: 0;
+}
+
+/* Conteúdo central da capa */
+.book-3d__cover-inner {
+  flex: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  padding: 16px 18px 10px;
   text-align: center;
-  backface-visibility: hidden;
+  gap: 8px;
+}
+
+.book-3d__badge {
+  background: rgba(245,158,11,0.18);
+  border: 1px solid rgba(245,158,11,0.4);
+  color: #FDE68A;
+  font-size: 0.52rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-radius: 50px;
+  padding: 3px 10px;
 }
 
 .book-3d__emoji {
-  font-size: 2.2rem;
+  font-size: 2rem;
   display: block;
-  margin-bottom: 12px;
-  filter: drop-shadow(0 0 12px rgba(168,85,247,0.8));
+  filter: drop-shadow(0 0 16px rgba(168,85,247,0.9));
+  line-height: 1;
 }
 
 .book-3d__title {
   font-family: var(--font-display);
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: #fff;
-  line-height: 1.35;
-  margin-bottom: 12px;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  line-height: 1.3;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+  font-weight: 400;
+}
+
+.book-3d__divider {
+  width: 40px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(245,158,11,0.6), transparent);
+  flex-shrink: 0;
 }
 
 .book-3d__author {
-  font-size: 0.65rem;
-  color: rgba(255,255,255,0.75);
+  font-size: 0.7rem;
+  color: rgba(255,255,255,0.85);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.book-3d__cred {
+  font-size: 0.58rem;
+  color: rgba(255,255,255,0.45);
   font-style: italic;
-  margin-bottom: 10px;
+}
+
+/* Rodapé da capa */
+.book-3d__footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 14px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  background: rgba(0,0,0,0.2);
+  flex-shrink: 0;
 }
 
 .book-3d__isbn {
-  font-size: 0.55rem;
-  color: rgba(255,255,255,0.4);
+  font-size: 0.5rem;
+  color: rgba(255,255,255,0.35);
   letter-spacing: 0.04em;
-  border-top: 1px solid rgba(255,255,255,0.15);
-  padding-top: 8px;
-  width: 100%;
-  text-align: center;
+  font-family: monospace;
 }
 
-/* Brilho deslizante na capa */
+.book-3d__pages-count {
+  font-size: 0.5rem;
+  color: rgba(255,255,255,0.35);
+  letter-spacing: 0.04em;
+}
+
+/* Brilho deslizante sutil */
 .book-3d__sheen {
   position: absolute;
-  top: -100%;
-  left: -60%;
-  width: 40%;
-  height: 300%;
+  top: 0;
+  left: -80%;
+  width: 50%;
+  height: 100%;
   background: linear-gradient(
     105deg,
-    transparent 40%,
-    rgba(255,255,255,0.12) 50%,
-    transparent 60%
+    transparent 35%,
+    rgba(255,255,255,0.07) 50%,
+    transparent 65%
   );
-  animation: sheenSlide 4s ease-in-out infinite 2s;
+  animation: sheenSlide 6s ease-in-out infinite 1.5s;
   pointer-events: none;
 }
 
 @keyframes sheenSlide {
-  0%   { left: -60%; }
-  40%  { left: 140%; }
-  100% { left: 140%; }
+  0%,60% { left: -80%; }
+  80%    { left: 130%; }
+  100%   { left: 130%; }
 }
 
-/* ── PÁGINAS VOANDO ── */
-.flying-page {
+/* Sombra / glow embaixo */
+.book-shadow {
   position: absolute;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-  width: 90px;
-  height: 90px;
-  background: rgba(26, 13, 36, 0.9);
-  border: 1px solid rgba(168,85,247,0.5);
-  border-radius: 14px;
-  backdrop-filter: blur(8px);
-  box-shadow:
-    0 8px 32px rgba(0,0,0,0.4),
-    0 0 20px rgba(168,85,247,0.2);
-  opacity: 0;
-  z-index: 4;
-  pointer-events: none;
-}
-
-.flying-page__icon { font-size: 1.5rem; }
-
-.flying-page__label {
-  font-size: 0.6rem;
-  color: var(--text-secondary);
-  text-align: center;
-  line-height: 1.3;
-  font-weight: 500;
-}
-
-.flying-page--1 { top: 10%;  right: 8%; }
-.flying-page--2 { top: 40%;  left: 4%; }
-.flying-page--3 { bottom: 12%; right: 6%; }
-
-/* ── PARTÍCULAS ── */
-.book-particles {
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  z-index: 1;
-}
-
-.particle {
-  position: absolute;
-  border-radius: 50%;
-  pointer-events: none;
-}
-
-/* ── REFLEXO ── */
-.book-reflection {
-  position: absolute;
-  bottom: 8%;
+  bottom: 12%;
   left: 50%;
-  transform: translateX(-50%) scaleY(-1);
-  width: 200px;
-  height: 80px;
-  background: linear-gradient(145deg, #6B1F80, #A855F7, #7B2D8B);
-  border-radius: 2px 10px 10px 2px;
-  opacity: 0.12;
-  filter: blur(4px);
-  mask-image: linear-gradient(to bottom, rgba(0,0,0,0.5), transparent);
-  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0.5), transparent);
-  z-index: 1;
-}
-
-.book-ground-glow {
-  position: absolute;
-  bottom: 10%;
-  left: 50%;
-  transform: translateX(-55%);
-  width: 220px;
-  height: 28px;
-  background: rgba(168, 85, 247, 0.45);
-  filter: blur(20px);
+  transform: translateX(-58%);
+  width: 180px;
+  height: 20px;
+  background: rgba(90, 29, 107, 0.6);
+  filter: blur(18px);
   border-radius: 50%;
-  z-index: 0;
-  animation: glowPulse 5s ease-in-out infinite;
+  animation: shadowPulse 5s ease-in-out infinite;
 }
 
-@keyframes glowPulse {
-  0%,100% { opacity: 0.45; transform: translateX(-55%) scaleX(1); }
-  50%     { opacity: 0.7;  transform: translateX(-55%) scaleX(1.1); }
+@keyframes shadowPulse {
+  0%,100% { opacity: 0.6; width: 180px; }
+  50%     { opacity: 0.9; width: 210px; }
 }
 
 /* Scroll indicator */
