@@ -296,23 +296,184 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
 })();
 
 /* ============================================================
-   BOOK MOCKUP — rotação extra ao mover mouse
+   BOOK 3D — abertura + páginas voando + partículas
 ============================================================ */
-(function bookMouseEffect() {
-  const book = document.querySelector('.book-cover');
-  if (!book) return;
+(function bookEpicAnimation() {
+  const book      = document.getElementById('book3d');
+  const bookFront = document.getElementById('bookFront');
+  const fallback  = document.getElementById('heroFallback');
+  if (!book || !bookFront) return;
 
-  document.addEventListener('mousemove', (e) => {
-    const cx = window.innerWidth / 2;
-    const cy = window.innerHeight / 2;
-    const dx = (e.clientX - cx) / cx;
-    const dy = (e.clientY - cy) / cy;
+  // ── 1. PARTÍCULAS ──────────────────────────────────────────
+  const particlesContainer = document.getElementById('bookParticles');
+  if (particlesContainer) {
+    const colors = ['#A855F7', '#F59E0B', '#C084FC', '#FDE68A', '#7C3AED'];
+    for (let i = 0; i < 28; i++) {
+      const p = document.createElement('div');
+      p.className = 'particle';
+      const size = Math.random() * 5 + 2;
+      p.style.cssText = `
+        width: ${size}px;
+        height: ${size}px;
+        background: ${colors[Math.floor(Math.random() * colors.length)]};
+        left: ${Math.random() * 100}%;
+        top: ${Math.random() * 100}%;
+        opacity: 0;
+        box-shadow: 0 0 ${size * 2}px ${colors[Math.floor(Math.random() * colors.length)]};
+      `;
+      particlesContainer.appendChild(p);
 
-    gsap.to(book, {
-      rotateY: -8 + dx * 6,
-      rotateX: dy * -4,
-      duration: 0.8,
-      ease: 'power2.out',
+      // Anima cada partícula em loop independente
+      gsap.to(p, {
+        opacity: Math.random() * 0.8 + 0.2,
+        x: (Math.random() - 0.5) * 60,
+        y: (Math.random() - 0.5) * 60,
+        scale: Math.random() * 1.5 + 0.5,
+        duration: Math.random() * 3 + 2,
+        repeat: -1,
+        yoyo: true,
+        ease: 'sine.inOut',
+        delay: Math.random() * 3,
+      });
+    }
+  }
+
+  // ── 2. SEQUÊNCIA DE ABERTURA ───────────────────────────────
+  const tl = gsap.timeline({ delay: 1.2 });
+
+  // Livro entra do lado direito
+  tl.from(book, {
+    x: 60,
+    opacity: 0,
+    duration: 0.8,
+    ease: 'back.out(1.4)',
+  });
+
+  // Pausa flutuando fechado
+  tl.to({}, { duration: 0.8 });
+
+  // Capa frontal abre — rotaciona no eixo Y pela lombada
+  tl.to(bookFront, {
+    rotationY: -155,
+    duration: 1.2,
+    ease: 'power3.inOut',
+    transformOrigin: 'left center',
+    transformStyle: 'preserve-3d',
+    boxShadow: '0 0 80px rgba(168,85,247,0.6)',
+  });
+
+  // Glow explode ao abrir
+  tl.to('.book-ground-glow', {
+    opacity: 1,
+    scale: 1.6,
+    duration: 0.4,
+    ease: 'power2.out',
+  }, '<+0.5');
+
+  tl.to('.book-ground-glow', {
+    scale: 1,
+    opacity: 0.45,
+    duration: 0.6,
+    ease: 'power2.in',
+  });
+
+  // ── 3. PÁGINAS VOAM ────────────────────────────────────────
+  const pages = [
+    { el: document.getElementById('flyPage1'), delay: 0 },
+    { el: document.getElementById('flyPage2'), delay: 0.2 },
+    { el: document.getElementById('flyPage3'), delay: 0.4 },
+  ];
+
+  pages.forEach(({ el, delay }) => {
+    if (!el) return;
+
+    // Emerge do centro do livro e voa pro lugar
+    tl.fromTo(el,
+      {
+        opacity: 0,
+        scale: 0.3,
+        x: 0,
+        y: 0,
+        xPercent: -50,
+        yPercent: -50,
+        left: '50%',
+        top: '50%',
+      },
+      {
+        opacity: 1,
+        scale: 1,
+        xPercent: 0,
+        yPercent: 0,
+        left: el.style.cssText.includes('right') ? 'auto' : undefined,
+        duration: 0.7,
+        ease: 'back.out(1.6)',
+      },
+      `<+${delay}`
+    );
+
+    // Flutua suavemente após posicionado
+    gsap.to(el, {
+      y: -8,
+      duration: 2.5 + Math.random(),
+      repeat: -1,
+      yoyo: true,
+      ease: 'sine.inOut',
+      delay: 2.5 + delay,
     });
   });
+
+  // ── 4. PARALLAX MOUSE ─────────────────────────────────────
+  const wrapper = fallback;
+  if (wrapper) {
+    wrapper.addEventListener('mousemove', (e) => {
+      const rect = wrapper.getBoundingClientRect();
+      const cx = rect.left + rect.width / 2;
+      const cy = rect.top + rect.height / 2;
+      const dx = (e.clientX - cx) / (rect.width / 2);
+      const dy = (e.clientY - cy) / (rect.height / 2);
+
+      gsap.to(book, {
+        rotateY: -15 + dx * 10,
+        rotateX: 4 + dy * -6,
+        duration: 0.6,
+        ease: 'power2.out',
+        overwrite: 'auto',
+      });
+    });
+
+    wrapper.addEventListener('mouseleave', () => {
+      gsap.to(book, {
+        rotateY: -15,
+        rotateX: 4,
+        duration: 1,
+        ease: 'elastic.out(1, 0.5)',
+      });
+    });
+  }
+
+  // ── 5. CLICK — fecha e abre de novo ───────────────────────
+  let isOpen = false;
+  book.addEventListener('click', () => {
+    if (isOpen) {
+      gsap.to(bookFront, {
+        rotationY: 0,
+        duration: 0.9,
+        ease: 'power3.inOut',
+      });
+      pages.forEach(({ el }) => {
+        if (el) gsap.to(el, { opacity: 0, scale: 0.3, duration: 0.4 });
+      });
+    } else {
+      gsap.to(bookFront, {
+        rotationY: -155,
+        duration: 0.9,
+        ease: 'power3.inOut',
+      });
+      pages.forEach(({ el }, i) => {
+        if (el) gsap.to(el, { opacity: 1, scale: 1, duration: 0.5, delay: i * 0.1 });
+      });
+    }
+    isOpen = !isOpen;
+  });
+
 })();

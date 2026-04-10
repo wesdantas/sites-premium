@@ -83,15 +83,57 @@
           </video>
           <!-- Fallback visual enquanto vídeo não está disponível -->
           <div class="hero__video-fallback" id="heroFallback">
-            <div class="hero__book-mockup">
-              <div class="book-cover">
-                <div class="book-cover__inner">
-                  <span class="book-cover__emoji">💜</span>
-                  <h3 class="book-cover__title">Super Poderes<br />Contra Relações<br />Abusivas</h3>
-                  <p class="book-cover__author">Psicólogo Eduardo Santos</p>
+            <div class="hero__book-mockup" id="bookMockup">
+
+              <!-- Partículas douradas -->
+              <div class="book-particles" id="bookParticles" aria-hidden="true"></div>
+
+              <!-- Páginas voando com bônus -->
+              <div class="flying-page flying-page--1" id="flyPage1">
+                <span class="flying-page__icon">📝</span>
+                <span class="flying-page__label">Diário de<br/>Autoestima</span>
+              </div>
+              <div class="flying-page flying-page--2" id="flyPage2">
+                <span class="flying-page__icon">✅</span>
+                <span class="flying-page__label">Questionários<br/>de Autoavaliação</span>
+              </div>
+              <div class="flying-page flying-page--3" id="flyPage3">
+                <span class="flying-page__icon">🛡️</span>
+                <span class="flying-page__label">Lista de<br/>Direitos</span>
+              </div>
+
+              <!-- Livro 3D -->
+              <div class="book-3d" id="book3d">
+                <!-- Lombada -->
+                <div class="book-3d__spine"></div>
+                <!-- Páginas internas -->
+                <div class="book-3d__pages">
+                  <div class="book-3d__page-stack"></div>
+                </div>
+                <!-- Capa traseira -->
+                <div class="book-3d__back">
+                  <div class="book-3d__back-inner">
+                    <span>💜</span>
+                  </div>
+                </div>
+                <!-- Capa frontal (abre) -->
+                <div class="book-3d__front" id="bookFront">
+                  <div class="book-3d__front-inner">
+                    <span class="book-3d__emoji">💜</span>
+                    <h3 class="book-3d__title">Super Poderes<br/>Contra Relações<br/>Abusivas</h3>
+                    <p class="book-3d__author">Psicólogo Eduardo Santos</p>
+                    <div class="book-3d__isbn">ISBN 978-65-01-54489-2</div>
+                  </div>
+                  <!-- Brilho da capa -->
+                  <div class="book-3d__sheen" aria-hidden="true"></div>
                 </div>
               </div>
-              <div class="book-glow" aria-hidden="true"></div>
+
+              <!-- Reflexo -->
+              <div class="book-reflection" aria-hidden="true"></div>
+              <!-- Glow chão -->
+              <div class="book-ground-glow" aria-hidden="true"></div>
+
             </div>
           </div>
         </div>
