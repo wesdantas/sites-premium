@@ -1,0 +1,8035 @@
+1
+00:00:00,000 --> 00:00:01,910
+
+You can build gorgeous websites with
+
+2
+00:00:01,910 --> 00:00:01,920
+You can build gorgeous websites with
+ 
+
+3
+00:00:01,920 --> 00:00:04,510
+You can build gorgeous websites with
+Claude code and Nano Banana 2, even if
+
+4
+00:00:04,510 --> 00:00:04,520
+Claude code and Nano Banana 2, even if
+ 
+
+5
+00:00:04,520 --> 00:00:07,270
+Claude code and Nano Banana 2, even if
+you're starting with zero experience.
+
+6
+00:00:07,270 --> 00:00:07,280
+you're starting with zero experience.
+ 
+
+7
+00:00:07,280 --> 00:00:09,630
+you're starting with zero experience.
+But 99% of people don't know how to
+
+8
+00:00:09,630 --> 00:00:09,640
+But 99% of people don't know how to
+ 
+
+9
+00:00:09,640 --> 00:00:12,070
+But 99% of people don't know how to
+build profitable websites, which is why
+
+10
+00:00:12,070 --> 00:00:12,080
+build profitable websites, which is why
+ 
+
+11
+00:00:12,080 --> 00:00:13,390
+build profitable websites, which is why
+in this video, I'm going to show you
+
+12
+00:00:13,390 --> 00:00:13,400
+in this video, I'm going to show you
+ 
+
+13
+00:00:13,400 --> 00:00:15,830
+in this video, I'm going to show you
+exactly how to build animated websites
+
+14
+00:00:15,830 --> 00:00:15,840
+exactly how to build animated websites
+ 
+
+15
+00:00:15,840 --> 00:00:17,910
+exactly how to build animated websites
+that people pay thousands of dollars
+
+16
+00:00:17,910 --> 00:00:17,920
+that people pay thousands of dollars
+ 
+
+17
+00:00:17,920 --> 00:00:20,030
+that people pay thousands of dollars
+for. I'm a new website intelligence
+
+18
+00:00:20,030 --> 00:00:20,040
+for. I'm a new website intelligence
+ 
+
+19
+00:00:20,040 --> 00:00:22,270
+for. I'm a new website intelligence
+system that turns viewers into buyers.
+
+20
+00:00:22,270 --> 00:00:22,280
+system that turns viewers into buyers.
+ 
+
+21
+00:00:22,280 --> 00:00:23,470
+system that turns viewers into buyers.
+And if you don't know who I am, my name
+
+22
+00:00:23,470 --> 00:00:23,480
+And if you don't know who I am, my name
+ 
+
+23
+00:00:23,480 --> 00:00:24,950
+And if you don't know who I am, my name
+is Jack Roberts. I built and sold my
+
+24
+00:00:24,950 --> 00:00:24,960
+is Jack Roberts. I built and sold my
+ 
+
+25
+00:00:24,960 --> 00:00:26,830
+is Jack Roberts. I built and sold my
+last tech startup [music] to over 60,000
+
+26
+00:00:26,830 --> 00:00:26,840
+last tech startup [music] to over 60,000
+ 
+
+27
+00:00:26,840 --> 00:00:28,470
+last tech startup [music] to over 60,000
+customers, and I've sold websites like
+
+28
+00:00:28,470 --> 00:00:28,480
+customers, and I've sold websites like
+ 
+
+29
+00:00:28,480 --> 00:00:30,190
+customers, and I've sold websites like
+these for thousands of dollars. And this
+
+30
+00:00:30,190 --> 00:00:30,200
+these for thousands of dollars. And this
+ 
+
+31
+00:00:30,200 --> 00:00:32,085
+these for thousands of dollars. And this
+is all I do, all day, every day. So,
+
+32
+00:00:32,085 --> 00:00:32,095
+is all I do, all day, every day. So,
+ 
+
+33
+00:00:32,095 --> 00:00:32,269
+is all I do, all day, every day. So,
+>> [music]
+
+34
+00:00:32,269 --> 00:00:32,279
+>> [music]
+ 
+
+35
+00:00:32,279 --> 00:00:34,390
+>> [music]
+>> if you haven't already, grab that coffee
+
+36
+00:00:34,390 --> 00:00:34,400
+>> if you haven't already, grab that coffee
+ 
+
+37
+00:00:34,400 --> 00:00:35,790
+>> if you haven't already, grab that coffee
+and let's dive straight in. Gorgeous
+
+38
+00:00:35,790 --> 00:00:35,800
+and let's dive straight in. Gorgeous
+ 
+
+39
+00:00:35,800 --> 00:00:37,830
+and let's dive straight in. Gorgeous
+websites can sell for thousands of
+
+40
+00:00:37,830 --> 00:00:37,840
+websites can sell for thousands of
+ 
+
+41
+00:00:37,840 --> 00:00:40,590
+websites can sell for thousands of
+dollars using Claude code and the new
+
+42
+00:00:40,590 --> 00:00:40,600
+dollars using Claude code and the new
+ 
+
+43
+00:00:40,600 --> 00:00:42,990
+dollars using Claude code and the new
+Nano Banana 2, stuff that wasn't really
+
+44
+00:00:42,990 --> 00:00:43,000
+Nano Banana 2, stuff that wasn't really
+ 
+
+45
+00:00:43,000 --> 00:00:44,710
+Nano Banana 2, stuff that wasn't really
+possible previously. And I'm going to
+
+46
+00:00:44,710 --> 00:00:44,720
+possible previously. And I'm going to
+ 
+
+47
+00:00:44,720 --> 00:00:45,870
+possible previously. And I'm going to
+show you exactly how to do it in this
+
+48
+00:00:45,870 --> 00:00:45,880
+show you exactly how to do it in this
+ 
+
+49
+00:00:45,880 --> 00:00:48,870
+show you exactly how to do it in this
+video, but you also need intelligence.
+
+50
+00:00:48,870 --> 00:00:48,880
+video, but you also need intelligence.
+ 
+
+51
+00:00:48,880 --> 00:00:50,590
+video, but you also need intelligence.
+Now, what kind of intelligence do you
+
+52
+00:00:50,590 --> 00:00:50,600
+Now, what kind of intelligence do you
+ 
+
+53
+00:00:50,600 --> 00:00:52,030
+Now, what kind of intelligence do you
+need? Well, we need intelligence about
+
+54
+00:00:52,030 --> 00:00:52,040
+need? Well, we need intelligence about
+ 
+
+55
+00:00:52,040 --> 00:00:53,910
+need? Well, we need intelligence about
+the niche that the website sits in. We
+
+56
+00:00:53,910 --> 00:00:53,920
+the niche that the website sits in. We
+ 
+
+57
+00:00:53,920 --> 00:00:56,310
+the niche that the website sits in. We
+need to be able to analyze what the best
+
+58
+00:00:56,310 --> 00:00:56,320
+need to be able to analyze what the best
+ 
+
+59
+00:00:56,320 --> 00:00:58,350
+need to be able to analyze what the best
+performing businesses in that niche are
+
+60
+00:00:58,350 --> 00:00:58,360
+performing businesses in that niche are
+ 
+
+61
+00:00:58,360 --> 00:01:00,430
+performing businesses in that niche are
+actually doing. We need a website that
+
+62
+00:01:00,430 --> 00:01:00,440
+actually doing. We need a website that
+ 
+
+63
+00:01:00,440 --> 00:01:02,630
+actually doing. We need a website that
+actually supports our core offer,
+
+64
+00:01:02,630 --> 00:01:02,640
+actually supports our core offer,
+ 
+
+65
+00:01:02,640 --> 00:01:04,390
+actually supports our core offer,
+whatever that might be. A law firm
+
+66
+00:01:04,390 --> 00:01:04,400
+whatever that might be. A law firm
+ 
+
+67
+00:01:04,400 --> 00:01:06,630
+whatever that might be. A law firm
+versus a HVAC company, completely
+
+68
+00:01:06,630 --> 00:01:06,640
+versus a HVAC company, completely
+ 
+
+69
+00:01:06,640 --> 00:01:07,990
+versus a HVAC company, completely
+different business model. And we can do
+
+70
+00:01:07,990 --> 00:01:08,000
+different business model. And we can do
+ 
+
+71
+00:01:08,000 --> 00:01:10,390
+different business model. And we can do
+all of this using Fire Crawl
+
+72
+00:01:10,390 --> 00:01:10,400
+all of this using Fire Crawl
+ 
+
+73
+00:01:10,400 --> 00:01:12,390
+all of this using Fire Crawl
+intelligence, super exciting technology.
+
+74
+00:01:12,390 --> 00:01:12,400
+intelligence, super exciting technology.
+ 
+
+75
+00:01:12,400 --> 00:01:13,670
+intelligence, super exciting technology.
+And basically, I'm also going to show
+
+76
+00:01:13,670 --> 00:01:13,680
+And basically, I'm also going to show
+ 
+
+77
+00:01:13,680 --> 00:01:14,950
+And basically, I'm also going to show
+you in this video as well how you can
+
+78
+00:01:14,950 --> 00:01:14,960
+you in this video as well how you can
+ 
+
+79
+00:01:14,960 --> 00:01:16,710
+you in this video as well how you can
+set up a system to enable your client to
+
+80
+00:01:16,710 --> 00:01:16,720
+set up a system to enable your client to
+ 
+
+81
+00:01:16,720 --> 00:01:18,790
+set up a system to enable your client to
+request changes to that very specific
+
+82
+00:01:18,790 --> 00:01:18,800
+request changes to that very specific
+ 
+
+83
+00:01:18,800 --> 00:01:20,030
+request changes to that very specific
+website and how you might want to handle
+
+84
+00:01:20,030 --> 00:01:20,040
+website and how you might want to handle
+ 
+
+85
+00:01:20,040 --> 00:01:21,630
+website and how you might want to handle
+that if you're selling it. So, by using
+
+86
+00:01:21,630 --> 00:01:21,640
+that if you're selling it. So, by using
+ 
+
+87
+00:01:21,640 --> 00:01:23,030
+that if you're selling it. So, by using
+Claude code, Nano Banana, and Fire
+
+88
+00:01:23,030 --> 00:01:23,040
+Claude code, Nano Banana, and Fire
+ 
+
+89
+00:01:23,040 --> 00:01:24,630
+Claude code, Nano Banana, and Fire
+Crawl, we can do five things. I'm going
+
+90
+00:01:24,630 --> 00:01:24,640
+Crawl, we can do five things. I'm going
+ 
+
+91
+00:01:24,640 --> 00:01:26,150
+Crawl, we can do five things. I'm going
+to show you exactly how you can scrape a
+
+92
+00:01:26,150 --> 00:01:26,160
+to show you exactly how you can scrape a
+ 
+
+93
+00:01:26,160 --> 00:01:27,950
+to show you exactly how you can scrape a
+logo from any website, how you can get
+
+94
+00:01:27,950 --> 00:01:27,960
+logo from any website, how you can get
+ 
+
+95
+00:01:27,960 --> 00:01:30,070
+logo from any website, how you can get
+the copy from that website, how you can
+
+96
+00:01:30,070 --> 00:01:30,080
+the copy from that website, how you can
+ 
+
+97
+00:01:30,080 --> 00:01:32,710
+the copy from that website, how you can
+get intelligence on competitors and the
+
+98
+00:01:32,710 --> 00:01:32,720
+get intelligence on competitors and the
+ 
+
+99
+00:01:32,720 --> 00:01:35,270
+get intelligence on competitors and the
+top performers in any niche on the
+
+100
+00:01:35,270 --> 00:01:35,280
+top performers in any niche on the
+ 
+
+101
+00:01:35,280 --> 00:01:37,630
+top performers in any niche on the
+planet systematically, how you can then
+
+102
+00:01:37,630 --> 00:01:37,640
+planet systematically, how you can then
+ 
+
+103
+00:01:37,640 --> 00:01:40,550
+planet systematically, how you can then
+actually create a 3D animated hero asset
+
+104
+00:01:40,550 --> 00:01:40,560
+actually create a 3D animated hero asset
+ 
+
+105
+00:01:40,560 --> 00:01:42,150
+actually create a 3D animated hero asset
+that makes your website stand out, and
+
+106
+00:01:42,150 --> 00:01:42,160
+that makes your website stand out, and
+ 
+
+107
+00:01:42,160 --> 00:01:43,670
+that makes your website stand out, and
+how we can then go ahead and create
+
+108
+00:01:43,670 --> 00:01:43,680
+how we can then go ahead and create
+ 
+
+109
+00:01:43,680 --> 00:01:45,350
+how we can then go ahead and create
+something that is pretty exceptional.
+
+110
+00:01:45,350 --> 00:01:45,360
+something that is pretty exceptional.
+ 
+
+111
+00:01:45,360 --> 00:01:46,630
+something that is pretty exceptional.
+And to do this, there's only three
+
+112
+00:01:46,630 --> 00:01:46,640
+And to do this, there's only three
+ 
+
+113
+00:01:46,640 --> 00:01:48,310
+And to do this, there's only three
+things that we need to do. Step one is
+
+114
+00:01:48,310 --> 00:01:48,320
+things that we need to do. Step one is
+ 
+
+115
+00:01:48,320 --> 00:01:50,190
+things that we need to do. Step one is
+going to be gathering intelligence on
+
+116
+00:01:50,190 --> 00:01:50,200
+going to be gathering intelligence on
+ 
+
+117
+00:01:50,200 --> 00:01:51,750
+going to be gathering intelligence on
+the website in the niche so we can
+
+118
+00:01:51,750 --> 00:01:51,760
+the website in the niche so we can
+ 
+
+119
+00:01:51,760 --> 00:01:53,790
+the website in the niche so we can
+actually find out what best in class
+
+120
+00:01:53,790 --> 00:01:53,800
+actually find out what best in class
+ 
+
+121
+00:01:53,800 --> 00:01:55,510
+actually find out what best in class
+looks like, then build our beautiful
+
+122
+00:01:55,510 --> 00:01:55,520
+looks like, then build our beautiful
+ 
+
+123
+00:01:55,520 --> 00:01:57,550
+looks like, then build our beautiful
+website all around that. Now, to do
+
+124
+00:01:57,550 --> 00:01:57,560
+website all around that. Now, to do
+ 
+
+125
+00:01:57,560 --> 00:01:59,230
+website all around that. Now, to do
+this, we need to pick a niche. I suggest
+
+126
+00:01:59,230 --> 00:01:59,240
+this, we need to pick a niche. I suggest
+ 
+
+127
+00:01:59,240 --> 00:02:00,910
+this, we need to pick a niche. I suggest
+for this one that we go ahead and we do
+
+128
+00:02:00,910 --> 00:02:00,920
+for this one that we go ahead and we do
+ 
+
+129
+00:02:00,920 --> 00:02:02,830
+for this one that we go ahead and we do
+something along the lines of pool
+
+130
+00:02:02,830 --> 00:02:02,840
+something along the lines of pool
+ 
+
+131
+00:02:02,840 --> 00:02:04,830
+something along the lines of pool
+cleaners in Texas. So, let's say for
+
+132
+00:02:04,830 --> 00:02:04,840
+cleaners in Texas. So, let's say for
+ 
+
+133
+00:02:04,840 --> 00:02:06,710
+cleaners in Texas. So, let's say for
+example, we work with a company in pool
+
+134
+00:02:06,710 --> 00:02:06,720
+example, we work with a company in pool
+ 
+
+135
+00:02:06,720 --> 00:02:08,109
+example, we work with a company in pool
+cleaners in Texas, or we wanted to work
+
+136
+00:02:08,109 --> 00:02:08,119
+cleaners in Texas, or we wanted to work
+ 
+
+137
+00:02:08,119 --> 00:02:09,350
+cleaners in Texas, or we wanted to work
+with these companies directly. What
+
+138
+00:02:09,350 --> 00:02:09,360
+with these companies directly. What
+ 
+
+139
+00:02:09,360 --> 00:02:10,710
+with these companies directly. What
+we're going to do is find a random
+
+140
+00:02:10,710 --> 00:02:10,720
+we're going to do is find a random
+ 
+
+141
+00:02:10,720 --> 00:02:12,630
+we're going to do is find a random
+website. I found one here that we're
+
+142
+00:02:12,630 --> 00:02:12,640
+website. I found one here that we're
+ 
+
+143
+00:02:12,640 --> 00:02:14,710
+website. I found one here that we're
+going to use, which is diamondpools.com.
+
+144
+00:02:14,710 --> 00:02:14,720
+going to use, which is diamondpools.com.
+ 
+
+145
+00:02:14,720 --> 00:02:16,390
+going to use, which is diamondpools.com.
+So, we use this as an example to see how
+
+146
+00:02:16,390 --> 00:02:16,400
+So, we use this as an example to see how
+ 
+
+147
+00:02:16,400 --> 00:02:18,630
+So, we use this as an example to see how
+we can take that website into stellar.
+
+148
+00:02:18,630 --> 00:02:18,640
+we can take that website into stellar.
+ 
+
+149
+00:02:18,640 --> 00:02:20,590
+we can take that website into stellar.
+This is what it looks like. Cool. So,
+
+150
+00:02:20,590 --> 00:02:20,600
+This is what it looks like. Cool. So,
+ 
+
+151
+00:02:20,600 --> 00:02:21,990
+This is what it looks like. Cool. So,
+now, the first thing we need to do is
+
+152
+00:02:21,990 --> 00:02:22,000
+now, the first thing we need to do is
+ 
+
+153
+00:02:22,000 --> 00:02:24,270
+now, the first thing we need to do is
+basically open up Claude code, which
+
+154
+00:02:24,270 --> 00:02:24,280
+basically open up Claude code, which
+ 
+
+155
+00:02:24,280 --> 00:02:25,990
+basically open up Claude code, which
+we're going to use in Anti-Gravity. And
+
+156
+00:02:25,990 --> 00:02:26,000
+we're going to use in Anti-Gravity. And
+ 
+
+157
+00:02:26,000 --> 00:02:27,350
+we're going to use in Anti-Gravity. And
+then we're going to bring a pre-packaged
+
+158
+00:02:27,350 --> 00:02:27,360
+then we're going to bring a pre-packaged
+ 
+
+159
+00:02:27,360 --> 00:02:28,910
+then we're going to bring a pre-packaged
+skill that I designed for you, so you
+
+160
+00:02:28,910 --> 00:02:28,920
+skill that I designed for you, so you
+ 
+
+161
+00:02:28,920 --> 00:02:30,190
+skill that I designed for you, so you
+can just literally download it. All the
+
+162
+00:02:30,190 --> 00:02:30,200
+can just literally download it. All the
+ 
+
+163
+00:02:30,200 --> 00:02:31,870
+can just literally download it. All the
+resources are completely free for you.
+
+164
+00:02:31,870 --> 00:02:31,880
+resources are completely free for you.
+ 
+
+165
+00:02:31,880 --> 00:02:33,030
+resources are completely free for you.
+Just click the links in the description
+
+166
+00:02:33,030 --> 00:02:33,040
+Just click the links in the description
+ 
+
+167
+00:02:33,040 --> 00:02:34,390
+Just click the links in the description
+down below. So, I'm going to download
+
+168
+00:02:34,390 --> 00:02:34,400
+down below. So, I'm going to download
+ 
+
+169
+00:02:34,400 --> 00:02:36,270
+down below. So, I'm going to download
+Anti-Gravity. That sounds like Spanish.
+
+170
+00:02:36,270 --> 00:02:36,280
+Anti-Gravity. That sounds like Spanish.
+ 
+
+171
+00:02:36,280 --> 00:02:37,870
+Anti-Gravity. That sounds like Spanish.
+Check out the video on screen. It runs
+
+172
+00:02:37,870 --> 00:02:37,880
+Check out the video on screen. It runs
+ 
+
+173
+00:02:37,880 --> 00:02:39,190
+Check out the video on screen. It runs
+through everything that you need to
+
+174
+00:02:39,190 --> 00:02:39,200
+through everything that you need to
+ 
+
+175
+00:02:39,200 --> 00:02:40,830
+through everything that you need to
+know. So, within Anti-Gravity, it's
+
+176
+00:02:40,830 --> 00:02:40,840
+know. So, within Anti-Gravity, it's
+ 
+
+177
+00:02:40,840 --> 00:02:41,950
+know. So, within Anti-Gravity, it's
+basically software that just called
+
+178
+00:02:41,950 --> 00:02:41,960
+basically software that just called
+ 
+
+179
+00:02:41,960 --> 00:02:43,470
+basically software that just called
+software. You can click on file in the
+
+180
+00:02:43,470 --> 00:02:43,480
+software. You can click on file in the
+ 
+
+181
+00:02:43,480 --> 00:02:45,510
+software. You can click on file in the
+top left, come down to open folder, come
+
+182
+00:02:45,510 --> 00:02:45,520
+top left, come down to open folder, come
+ 
+
+183
+00:02:45,520 --> 00:02:46,990
+top left, come down to open folder, come
+down here, click on new folder, and
+
+184
+00:02:46,990 --> 00:02:47,000
+down here, click on new folder, and
+ 
+
+185
+00:02:47,000 --> 00:02:48,990
+down here, click on new folder, and
+we'll call this one pool cleaner.
+
+186
+00:02:48,990 --> 00:02:49,000
+we'll call this one pool cleaner.
+ 
+
+187
+00:02:49,000 --> 00:02:50,630
+we'll call this one pool cleaner.
+Awesome. Then click on create, and then
+
+188
+00:02:50,630 --> 00:02:50,640
+Awesome. Then click on create, and then
+ 
+
+189
+00:02:50,640 --> 00:02:52,830
+Awesome. Then click on create, and then
+click on open. Now we're in the pool
+
+190
+00:02:52,830 --> 00:02:52,840
+click on open. Now we're in the pool
+ 
+
+191
+00:02:52,840 --> 00:02:54,630
+click on open. Now we're in the pool
+cleaner folder. Yes, we trust the
+
+192
+00:02:54,630 --> 00:02:54,640
+cleaner folder. Yes, we trust the
+ 
+
+193
+00:02:54,640 --> 00:02:56,350
+cleaner folder. Yes, we trust the
+authors. Now, we want to leverage Claude
+
+194
+00:02:56,350 --> 00:02:56,360
+authors. Now, we want to leverage Claude
+ 
+
+195
+00:02:56,360 --> 00:02:57,550
+authors. Now, we want to leverage Claude
+code. So, to do that, on the left-hand
+
+196
+00:02:57,550 --> 00:02:57,560
+code. So, to do that, on the left-hand
+ 
+
+197
+00:02:57,560 --> 00:02:58,670
+code. So, to do that, on the left-hand
+side and if you haven't already, you can
+
+198
+00:02:58,670 --> 00:02:58,680
+side and if you haven't already, you can
+ 
+
+199
+00:02:58,680 --> 00:02:59,910
+side and if you haven't already, you can
+just download Claude code so you can
+
+200
+00:02:59,910 --> 00:02:59,920
+just download Claude code so you can
+ 
+
+201
+00:02:59,920 --> 00:03:01,790
+just download Claude code so you can
+access it with Anti-Gravity. Once that
+
+202
+00:03:01,790 --> 00:03:01,800
+access it with Anti-Gravity. Once that
+ 
+
+203
+00:03:01,800 --> 00:03:03,350
+access it with Anti-Gravity. Once that
+happens, you'll see this thing appear on
+
+204
+00:03:03,350 --> 00:03:03,360
+happens, you'll see this thing appear on
+ 
+
+205
+00:03:03,360 --> 00:03:04,870
+happens, you'll see this thing appear on
+the left. You can just click on that and
+
+206
+00:03:04,870 --> 00:03:04,880
+the left. You can just click on that and
+ 
+
+207
+00:03:04,880 --> 00:03:06,470
+the left. You can just click on that and
+have a full conversation with it by
+
+208
+00:03:06,470 --> 00:03:06,480
+have a full conversation with it by
+ 
+
+209
+00:03:06,480 --> 00:03:08,070
+have a full conversation with it by
+clicking on a new session. Cool.
+
+210
+00:03:08,070 --> 00:03:08,080
+clicking on a new session. Cool.
+ 
+
+211
+00:03:08,080 --> 00:03:09,630
+clicking on a new session. Cool.
+Alternatively, if you want, you can just
+
+212
+00:03:09,630 --> 00:03:09,640
+Alternatively, if you want, you can just
+ 
+
+213
+00:03:09,640 --> 00:03:10,830
+Alternatively, if you want, you can just
+double-click in the middle and then
+
+214
+00:03:10,830 --> 00:03:10,840
+double-click in the middle and then
+ 
+
+215
+00:03:10,840 --> 00:03:12,030
+double-click in the middle and then
+click on the orange thing at the top.
+
+216
+00:03:12,030 --> 00:03:12,040
+click on the orange thing at the top.
+ 
+
+217
+00:03:12,040 --> 00:03:13,310
+click on the orange thing at the top.
+Now, what we're going to do is download
+
+218
+00:03:13,310 --> 00:03:13,320
+Now, what we're going to do is download
+ 
+
+219
+00:03:13,320 --> 00:03:15,190
+Now, what we're going to do is download
+a skill that I've already pre-built for
+
+220
+00:03:15,190 --> 00:03:15,200
+a skill that I've already pre-built for
+ 
+
+221
+00:03:15,200 --> 00:03:16,230
+a skill that I've already pre-built for
+you, and then we're going to connect
+
+222
+00:03:16,230 --> 00:03:16,240
+you, and then we're going to connect
+ 
+
+223
+00:03:16,240 --> 00:03:17,950
+you, and then we're going to connect
+that to Fire Crawl, which is this
+
+224
+00:03:17,950 --> 00:03:17,960
+that to Fire Crawl, which is this
+ 
+
+225
+00:03:17,960 --> 00:03:19,430
+that to Fire Crawl, which is this
+beautiful website here, which is going
+
+226
+00:03:19,430 --> 00:03:19,440
+beautiful website here, which is going
+ 
+
+227
+00:03:19,440 --> 00:03:21,470
+beautiful website here, which is going
+to go out and find literally the top
+
+228
+00:03:21,470 --> 00:03:21,480
+to go out and find literally the top
+ 
+
+229
+00:03:21,480 --> 00:03:23,550
+to go out and find literally the top
+performing pool cleaning websites that
+
+230
+00:03:23,550 --> 00:03:23,560
+performing pool cleaning websites that
+ 
+
+231
+00:03:23,560 --> 00:03:25,390
+performing pool cleaning websites that
+exist in that area. It's going to find
+
+232
+00:03:25,390 --> 00:03:25,400
+exist in that area. It's going to find
+ 
+
+233
+00:03:25,400 --> 00:03:27,030
+exist in that area. It's going to find
+out what do they have in common? What
+
+234
+00:03:27,030 --> 00:03:27,040
+out what do they have in common? What
+ 
+
+235
+00:03:27,040 --> 00:03:28,870
+out what do they have in common? What
+features do they have? What product is
+
+236
+00:03:28,870 --> 00:03:28,880
+features do they have? What product is
+ 
+
+237
+00:03:28,880 --> 00:03:30,390
+features do they have? What product is
+our website trying to sell? And use all
+
+238
+00:03:30,390 --> 00:03:30,400
+our website trying to sell? And use all
+ 
+
+239
+00:03:30,400 --> 00:03:32,030
+our website trying to sell? And use all
+of that to build us a blueprint for a
+
+240
+00:03:32,030 --> 00:03:32,040
+of that to build us a blueprint for a
+ 
+
+241
+00:03:32,040 --> 00:03:33,990
+of that to build us a blueprint for a
+really incredible website, and then
+
+242
+00:03:33,990 --> 00:03:34,000
+really incredible website, and then
+ 
+
+243
+00:03:34,000 --> 00:03:34,830
+really incredible website, and then
+we're going to build something
+
+244
+00:03:34,830 --> 00:03:34,840
+we're going to build something
+ 
+
+245
+00:03:34,840 --> 00:03:36,510
+we're going to build something
+incredibly animated on top of it. So,
+
+246
+00:03:36,510 --> 00:03:36,520
+incredibly animated on top of it. So,
+ 
+
+247
+00:03:36,520 --> 00:03:37,910
+incredibly animated on top of it. So,
+let's go ahead and grab the resources.
+
+248
+00:03:37,910 --> 00:03:37,920
+let's go ahead and grab the resources.
+ 
+
+249
+00:03:37,920 --> 00:03:39,150
+let's go ahead and grab the resources.
+And again, I'll put this all for you
+
+250
+00:03:39,150 --> 00:03:39,160
+And again, I'll put this all for you
+ 
+
+251
+00:03:39,160 --> 00:03:40,230
+And again, I'll put this all for you
+down below in the description, so you
+
+252
+00:03:40,230 --> 00:03:40,240
+down below in the description, so you
+ 
+
+253
+00:03:40,240 --> 00:03:41,710
+down below in the description, so you
+can just grab it. Let's come over to the
+
+254
+00:03:41,710 --> 00:03:41,720
+can just grab it. Let's come over to the
+ 
+
+255
+00:03:41,720 --> 00:03:43,750
+can just grab it. Let's come over to the
+vault and grab this one here. So, we're
+
+256
+00:03:43,750 --> 00:03:43,760
+vault and grab this one here. So, we're
+ 
+
+257
+00:03:43,760 --> 00:03:44,830
+vault and grab this one here. So, we're
+looking for this one here, which is
+
+258
+00:03:44,830 --> 00:03:44,840
+looking for this one here, which is
+ 
+
+259
+00:03:44,840 --> 00:03:46,070
+looking for this one here, which is
+awesome. And all I want you to do is
+
+260
+00:03:46,070 --> 00:03:46,080
+awesome. And all I want you to do is
+ 
+
+261
+00:03:46,080 --> 00:03:47,550
+awesome. And all I want you to do is
+come here and click on website builder
+
+262
+00:03:47,550 --> 00:03:47,560
+come here and click on website builder
+ 
+
+263
+00:03:47,560 --> 00:03:48,750
+come here and click on website builder
+system. Obviously, it'll be slightly
+
+264
+00:03:48,750 --> 00:03:48,760
+system. Obviously, it'll be slightly
+ 
+
+265
+00:03:48,760 --> 00:03:49,990
+system. Obviously, it'll be slightly
+different for you when you click on it.
+
+266
+00:03:49,990 --> 00:03:50,000
+different for you when you click on it.
+ 
+
+267
+00:03:50,000 --> 00:03:51,030
+different for you when you click on it.
+Great. And then what I want you to do is
+
+268
+00:03:51,030 --> 00:03:51,040
+Great. And then what I want you to do is
+ 
+
+269
+00:03:51,040 --> 00:03:52,470
+Great. And then what I want you to do is
+come over here to website builder, click
+
+270
+00:03:52,470 --> 00:03:52,480
+come over here to website builder, click
+ 
+
+271
+00:03:52,480 --> 00:03:54,510
+come over here to website builder, click
+on this, and literally just download the
+
+272
+00:03:54,510 --> 00:03:54,520
+on this, and literally just download the
+ 
+
+273
+00:03:54,520 --> 00:03:56,550
+on this, and literally just download the
+entire file together. And it'll download
+
+274
+00:03:56,550 --> 00:03:56,560
+entire file together. And it'll download
+ 
+
+275
+00:03:56,560 --> 00:03:57,870
+entire file together. And it'll download
+it as a zip. You can open up your
+
+276
+00:03:57,870 --> 00:03:57,880
+it as a zip. You can open up your
+ 
+
+277
+00:03:57,880 --> 00:03:59,150
+it as a zip. You can open up your
+downloads, just double-click on this guy
+
+278
+00:03:59,150 --> 00:03:59,160
+downloads, just double-click on this guy
+ 
+
+279
+00:03:59,160 --> 00:04:00,590
+downloads, just double-click on this guy
+like so, and now we've got the website
+
+280
+00:04:00,590 --> 00:04:00,600
+like so, and now we've got the website
+ 
+
+281
+00:04:00,600 --> 00:04:02,110
+like so, and now we've got the website
+builder and then Anti-Gravity. Just
+
+282
+00:04:02,110 --> 00:04:02,120
+builder and then Anti-Gravity. Just
+ 
+
+283
+00:04:02,120 --> 00:04:03,950
+builder and then Anti-Gravity. Just
+click these to get to the document area.
+
+284
+00:04:03,950 --> 00:04:03,960
+click these to get to the document area.
+ 
+
+285
+00:04:03,960 --> 00:04:05,510
+click these to get to the document area.
+Come back to downloads and just drag
+
+286
+00:04:05,510 --> 00:04:05,520
+Come back to downloads and just drag
+ 
+
+287
+00:04:05,520 --> 00:04:07,230
+Come back to downloads and just drag
+this guy over to the left-hand side and
+
+288
+00:04:07,230 --> 00:04:07,240
+this guy over to the left-hand side and
+ 
+
+289
+00:04:07,240 --> 00:04:08,790
+this guy over to the left-hand side and
+click on add folder to workspace. And
+
+290
+00:04:08,790 --> 00:04:08,800
+click on add folder to workspace. And
+ 
+
+291
+00:04:08,800 --> 00:04:09,510
+click on add folder to workspace. And
+then we're going to give Claude the
+
+292
+00:04:09,510 --> 00:04:09,520
+then we're going to give Claude the
+ 
+
+293
+00:04:09,520 --> 00:04:10,830
+then we're going to give Claude the
+following prompt. Either, I'd like you
+
+294
+00:04:10,830 --> 00:04:10,840
+following prompt. Either, I'd like you
+ 
+
+295
+00:04:10,840 --> 00:04:12,790
+following prompt. Either, I'd like you
+to familiarize yourself with the website
+
+296
+00:04:12,790 --> 00:04:12,800
+to familiarize yourself with the website
+ 
+
+297
+00:04:12,800 --> 00:04:14,790
+to familiarize yourself with the website
+builder skill on the left-hand side. I
+
+298
+00:04:14,790 --> 00:04:14,800
+builder skill on the left-hand side. I
+ 
+
+299
+00:04:14,800 --> 00:04:16,349
+builder skill on the left-hand side. I
+want you to repeat back to me everything
+
+300
+00:04:16,349 --> 00:04:16,359
+want you to repeat back to me everything
+ 
+
+301
+00:04:16,359 --> 00:04:17,910
+want you to repeat back to me everything
+you're going to do step by step. Once
+
+302
+00:04:17,910 --> 00:04:17,920
+you're going to do step by step. Once
+ 
+
+303
+00:04:17,920 --> 00:04:18,910
+you're going to do step by step. Once
+you've done that, I want you to turn
+
+304
+00:04:18,910 --> 00:04:18,920
+you've done that, I want you to turn
+ 
+
+305
+00:04:18,920 --> 00:04:20,509
+you've done that, I want you to turn
+that into a skill that you yourself are
+
+306
+00:04:20,509 --> 00:04:20,519
+that into a skill that you yourself are
+ 
+
+307
+00:04:20,519 --> 00:04:22,430
+that into a skill that you yourself are
+going to save so I can use it whenever I
+
+308
+00:04:22,430 --> 00:04:22,440
+going to save so I can use it whenever I
+ 
+
+309
+00:04:22,440 --> 00:04:23,990
+going to save so I can use it whenever I
+want to in the future. And if you ever
+
+310
+00:04:23,990 --> 00:04:24,000
+want to in the future. And if you ever
+ 
+
+311
+00:04:24,000 --> 00:04:25,270
+want to in the future. And if you ever
+find that this Claude code is
+
+312
+00:04:25,270 --> 00:04:25,280
+find that this Claude code is
+ 
+
+313
+00:04:25,280 --> 00:04:27,190
+find that this Claude code is
+misbehaving, you can also click on the
+
+314
+00:04:27,190 --> 00:04:27,200
+misbehaving, you can also click on the
+ 
+
+315
+00:04:27,200 --> 00:04:28,590
+misbehaving, you can also click on the
+terminal at the top, click on new
+
+316
+00:04:28,590 --> 00:04:28,600
+terminal at the top, click on new
+ 
+
+317
+00:04:28,600 --> 00:04:30,310
+terminal at the top, click on new
+terminal, open it up, click enter, and
+
+318
+00:04:30,310 --> 00:04:30,320
+terminal, open it up, click enter, and
+ 
+
+319
+00:04:30,320 --> 00:04:31,430
+terminal, open it up, click enter, and
+then essentially down here, what you can
+
+320
+00:04:31,430 --> 00:04:31,440
+then essentially down here, what you can
+ 
+
+321
+00:04:31,440 --> 00:04:33,310
+then essentially down here, what you can
+do is just simply come down, bring this
+
+322
+00:04:33,310 --> 00:04:33,320
+do is just simply come down, bring this
+ 
+
+323
+00:04:33,320 --> 00:04:35,510
+do is just simply come down, bring this
+up, type in the word Claude, and then
+
+324
+00:04:35,510 --> 00:04:35,520
+up, type in the word Claude, and then
+ 
+
+325
+00:04:35,520 --> 00:04:37,230
+up, type in the word Claude, and then
+you can do the exact same prompt here.
+
+326
+00:04:37,230 --> 00:04:37,240
+you can do the exact same prompt here.
+ 
+
+327
+00:04:37,240 --> 00:04:38,830
+you can do the exact same prompt here.
+It's just in case you ever run into any
+
+328
+00:04:38,830 --> 00:04:38,840
+It's just in case you ever run into any
+ 
+
+329
+00:04:38,840 --> 00:04:40,750
+It's just in case you ever run into any
+issues within the actual interface. And
+
+330
+00:04:40,750 --> 00:04:40,760
+issues within the actual interface. And
+ 
+
+331
+00:04:40,760 --> 00:04:42,670
+issues within the actual interface. And
+since this one is struggling a little
+
+332
+00:04:42,670 --> 00:04:42,680
+since this one is struggling a little
+ 
+
+333
+00:04:42,680 --> 00:04:43,670
+since this one is struggling a little
+bit, what I'm going to do is close this
+
+334
+00:04:43,670 --> 00:04:43,680
+bit, what I'm going to do is close this
+ 
+
+335
+00:04:43,680 --> 00:04:45,030
+bit, what I'm going to do is close this
+one down and we're going to use this one
+
+336
+00:04:45,030 --> 00:04:45,040
+one down and we're going to use this one
+ 
+
+337
+00:04:45,040 --> 00:04:46,110
+one down and we're going to use this one
+here. We're going to right-click and
+
+338
+00:04:46,110 --> 00:04:46,120
+here. We're going to right-click and
+ 
+
+339
+00:04:46,120 --> 00:04:47,710
+here. We're going to right-click and
+then click on panel position and just
+
+340
+00:04:47,710 --> 00:04:47,720
+then click on panel position and just
+ 
+
+341
+00:04:47,720 --> 00:04:49,270
+then click on panel position and just
+put this on the right-hand side. I
+
+342
+00:04:49,270 --> 00:04:49,280
+put this on the right-hand side. I
+ 
+
+343
+00:04:49,280 --> 00:04:50,750
+put this on the right-hand side. I
+always like to keep these things in so
+
+344
+00:04:50,750 --> 00:04:50,760
+always like to keep these things in so
+ 
+
+345
+00:04:50,760 --> 00:04:52,430
+always like to keep these things in so
+you get a fully 100% realistic
+
+346
+00:04:52,430 --> 00:04:52,440
+you get a fully 100% realistic
+ 
+
+347
+00:04:52,440 --> 00:04:54,190
+you get a fully 100% realistic
+experience of building everything and
+
+348
+00:04:54,190 --> 00:04:54,200
+experience of building everything and
+ 
+
+349
+00:04:54,200 --> 00:04:55,630
+experience of building everything and
+that you can crush it. So, within Claude
+
+350
+00:04:55,630 --> 00:04:55,640
+that you can crush it. So, within Claude
+ 
+
+351
+00:04:55,640 --> 00:04:56,830
+that you can crush it. So, within Claude
+code, there's only three things that
+
+352
+00:04:56,830 --> 00:04:56,840
+code, there's only three things that
+ 
+
+353
+00:04:56,840 --> 00:04:57,910
+code, there's only three things that
+we're going to do. It's going to be a
+
+354
+00:04:57,910 --> 00:04:57,920
+we're going to do. It's going to be a
+ 
+
+355
+00:04:57,920 --> 00:04:59,390
+we're going to do. It's going to be a
+process. It's going to study the market,
+
+356
+00:04:59,390 --> 00:04:59,400
+process. It's going to study the market,
+ 
+
+357
+00:04:59,400 --> 00:05:00,990
+process. It's going to study the market,
+learn from winners, and build a website
+
+358
+00:05:00,990 --> 00:05:01,000
+learn from winners, and build a website
+ 
+
+359
+00:05:01,000 --> 00:05:02,710
+learn from winners, and build a website
+grounded in intelligence. First of all,
+
+360
+00:05:02,710 --> 00:05:02,720
+grounded in intelligence. First of all,
+ 
+
+361
+00:05:02,720 --> 00:05:03,950
+grounded in intelligence. First of all,
+it's to gather and understand. We're
+
+362
+00:05:03,950 --> 00:05:03,960
+it's to gather and understand. We're
+ 
+
+363
+00:05:03,960 --> 00:05:05,430
+it's to gather and understand. We're
+going to scrape the entire website that
+
+364
+00:05:05,430 --> 00:05:05,440
+going to scrape the entire website that
+ 
+
+365
+00:05:05,440 --> 00:05:07,150
+going to scrape the entire website that
+we're given with the Fire Crawl API.
+
+366
+00:05:07,150 --> 00:05:07,160
+we're given with the Fire Crawl API.
+ 
+
+367
+00:05:07,160 --> 00:05:08,070
+we're given with the Fire Crawl API.
+We're going to build a full picture of
+
+368
+00:05:08,070 --> 00:05:08,080
+We're going to build a full picture of
+ 
+
+369
+00:05:08,080 --> 00:05:09,190
+We're going to build a full picture of
+the business, and then we're going to
+
+370
+00:05:09,190 --> 00:05:09,200
+the business, and then we're going to
+ 
+
+371
+00:05:09,200 --> 00:05:10,110
+the business, and then we're going to
+audit the current messaging, the
+
+372
+00:05:10,110 --> 00:05:10,120
+audit the current messaging, the
+ 
+
+373
+00:05:10,120 --> 00:05:11,950
+audit the current messaging, the
+strengths, the gaps, so we know what the
+
+374
+00:05:11,950 --> 00:05:11,960
+strengths, the gaps, so we know what the
+ 
+
+375
+00:05:11,960 --> 00:05:13,870
+strengths, the gaps, so we know what the
+starting position is. Again, it isn't
+
+376
+00:05:13,870 --> 00:05:13,880
+starting position is. Again, it isn't
+ 
+
+377
+00:05:13,880 --> 00:05:15,270
+starting position is. Again, it isn't
+just a gorgeous website, it's got
+
+378
+00:05:15,270 --> 00:05:15,280
+just a gorgeous website, it's got
+ 
+
+379
+00:05:15,280 --> 00:05:16,190
+just a gorgeous website, it's got
+substance. Then we're going to do
+
+380
+00:05:16,190 --> 00:05:16,200
+substance. Then we're going to do
+ 
+
+381
+00:05:16,200 --> 00:05:17,310
+substance. Then we're going to do
+competitive research. We're going to
+
+382
+00:05:17,310 --> 00:05:17,320
+competitive research. We're going to
+ 
+
+383
+00:05:17,320 --> 00:05:18,910
+competitive research. We're going to
+find the top five competitors ranked by
+
+384
+00:05:18,910 --> 00:05:18,920
+find the top five competitors ranked by
+ 
+
+385
+00:05:18,920 --> 00:05:20,270
+find the top five competitors ranked by
+Google Reviews, Trustpilot, and search
+
+386
+00:05:20,270 --> 00:05:20,280
+Google Reviews, Trustpilot, and search
+ 
+
+387
+00:05:20,280 --> 00:05:21,510
+Google Reviews, Trustpilot, and search
+visibility. We're going to scrape each
+
+388
+00:05:21,510 --> 00:05:21,520
+visibility. We're going to scrape each
+ 
+
+389
+00:05:21,520 --> 00:05:22,950
+visibility. We're going to scrape each
+competitor, their design, content,
+
+390
+00:05:22,950 --> 00:05:22,960
+competitor, their design, content,
+ 
+
+391
+00:05:22,960 --> 00:05:24,750
+competitor, their design, content,
+branding, logos, and SEO. We're going to
+
+392
+00:05:24,750 --> 00:05:24,760
+branding, logos, and SEO. We're going to
+ 
+
+393
+00:05:24,760 --> 00:05:26,390
+branding, logos, and SEO. We're going to
+synthesize what all the five winners
+
+394
+00:05:26,390 --> 00:05:26,400
+synthesize what all the five winners
+ 
+
+395
+00:05:26,400 --> 00:05:28,390
+synthesize what all the five winners
+have in common and the blueprint of what
+
+396
+00:05:28,390 --> 00:05:28,400
+have in common and the blueprint of what
+ 
+
+397
+00:05:28,400 --> 00:05:29,750
+have in common and the blueprint of what
+actually works in your market. Then
+
+398
+00:05:29,750 --> 00:05:29,760
+actually works in your market. Then
+ 
+
+399
+00:05:29,760 --> 00:05:30,790
+actually works in your market. Then
+finally, we're going to have a beautiful
+
+400
+00:05:30,790 --> 00:05:30,800
+finally, we're going to have a beautiful
+ 
+
+401
+00:05:30,800 --> 00:05:32,030
+finally, we're going to have a beautiful
+print-ready report with competitor
+
+402
+00:05:32,030 --> 00:05:32,040
+print-ready report with competitor
+ 
+
+403
+00:05:32,040 --> 00:05:33,350
+print-ready report with competitor
+profiles, logos,
+
+404
+00:05:33,350 --> 00:05:33,360
+profiles, logos,
+ 
+
+405
+00:05:33,360 --> 00:05:35,390
+profiles, logos,
+and brand colors side by side, SEO
+
+406
+00:05:35,390 --> 00:05:35,400
+and brand colors side by side, SEO
+ 
+
+407
+00:05:35,400 --> 00:05:37,350
+and brand colors side by side, SEO
+landscape, keyword gaps, and a polished
+
+408
+00:05:37,350 --> 00:05:37,360
+landscape, keyword gaps, and a polished
+ 
+
+409
+00:05:37,360 --> 00:05:38,710
+landscape, keyword gaps, and a polished
+deliverable that we can actually also
+
+410
+00:05:38,710 --> 00:05:38,720
+deliverable that we can actually also
+ 
+
+411
+00:05:38,720 --> 00:05:40,910
+deliverable that we can actually also
+give to the client and in addition to
+
+412
+00:05:40,910 --> 00:05:40,920
+give to the client and in addition to
+ 
+
+413
+00:05:40,920 --> 00:05:42,630
+give to the client and in addition to
+the website or for your own benefit so
+
+414
+00:05:42,630 --> 00:05:42,640
+the website or for your own benefit so
+ 
+
+415
+00:05:42,640 --> 00:05:44,430
+the website or for your own benefit so
+you get a real sense of what everything
+
+416
+00:05:44,430 --> 00:05:44,440
+you get a real sense of what everything
+ 
+
+417
+00:05:44,440 --> 00:05:45,950
+you get a real sense of what everything
+exists in your own market. And then what
+
+418
+00:05:45,950 --> 00:05:45,960
+exists in your own market. And then what
+ 
+
+419
+00:05:45,960 --> 00:05:47,070
+exists in your own market. And then what
+we're going to say to Claude code is,
+
+420
+00:05:47,070 --> 00:05:47,080
+we're going to say to Claude code is,
+ 
+
+421
+00:05:47,080 --> 00:05:48,270
+we're going to say to Claude code is,
+"Look, I want you to turn this into a
+
+422
+00:05:48,270 --> 00:05:48,280
+"Look, I want you to turn this into a
+ 
+
+423
+00:05:48,280 --> 00:05:49,550
+"Look, I want you to turn this into a
+Claude code skill." And once you've done
+
+424
+00:05:49,550 --> 00:05:49,560
+Claude code skill." And once you've done
+ 
+
+425
+00:05:49,560 --> 00:05:50,910
+Claude code skill." And once you've done
+that, you can do forward slash and then
+
+426
+00:05:50,910 --> 00:05:50,920
+that, you can do forward slash and then
+ 
+
+427
+00:05:50,920 --> 00:05:52,710
+that, you can do forward slash and then
+you can come down and do website builder
+
+428
+00:05:52,710 --> 00:05:52,720
+you can come down and do website builder
+ 
+
+429
+00:05:52,720 --> 00:05:54,270
+you can come down and do website builder
+like so, hit enter, and then we can
+
+430
+00:05:54,270 --> 00:05:54,280
+like so, hit enter, and then we can
+ 
+
+431
+00:05:54,280 --> 00:05:55,990
+like so, hit enter, and then we can
+begin the entire process. Now, the first
+
+432
+00:05:55,990 --> 00:05:56,000
+begin the entire process. Now, the first
+ 
+
+433
+00:05:56,000 --> 00:05:57,070
+begin the entire process. Now, the first
+thing we're going to need is a Fire
+
+434
+00:05:57,070 --> 00:05:57,080
+thing we're going to need is a Fire
+ 
+
+435
+00:05:57,080 --> 00:05:58,750
+thing we're going to need is a Fire
+Crawl API. So, let's come ahead and go
+
+436
+00:05:58,750 --> 00:05:58,760
+Crawl API. So, let's come ahead and go
+ 
+
+437
+00:05:58,760 --> 00:06:00,390
+Crawl API. So, let's come ahead and go
+ahead and grab this from Fire Crawl. You
+
+438
+00:06:00,390 --> 00:06:00,400
+ahead and grab this from Fire Crawl. You
+ 
+
+439
+00:06:00,400 --> 00:06:01,830
+ahead and grab this from Fire Crawl. You
+can get started right completely for
+
+440
+00:06:01,830 --> 00:06:01,840
+can get started right completely for
+ 
+
+441
+00:06:01,840 --> 00:06:02,990
+can get started right completely for
+free. So, let's head over to the
+
+442
+00:06:02,990 --> 00:06:03,000
+free. So, let's head over to the
+ 
+
+443
+00:06:03,000 --> 00:06:04,470
+free. So, let's head over to the
+dashboard and literally on the homepage
+
+444
+00:06:04,470 --> 00:06:04,480
+dashboard and literally on the homepage
+ 
+
+445
+00:06:04,480 --> 00:06:06,030
+dashboard and literally on the homepage
+itself, you can see the API key. So,
+
+446
+00:06:06,030 --> 00:06:06,040
+itself, you can see the API key. So,
+ 
+
+447
+00:06:06,040 --> 00:06:07,310
+itself, you can see the API key. So,
+we're going to grab this right here.
+
+448
+00:06:07,310 --> 00:06:07,320
+we're going to grab this right here.
+ 
+
+449
+00:06:07,320 --> 00:06:08,350
+we're going to grab this right here.
+We're going to skip this for now and
+
+450
+00:06:08,350 --> 00:06:08,360
+We're going to skip this for now and
+ 
+
+451
+00:06:08,360 --> 00:06:09,750
+We're going to skip this for now and
+then hit that, but give it basically
+
+452
+00:06:09,750 --> 00:06:09,760
+then hit that, but give it basically
+ 
+
+453
+00:06:09,760 --> 00:06:11,590
+then hit that, but give it basically
+back over to Claude code. And then in
+
+454
+00:06:11,590 --> 00:06:11,600
+back over to Claude code. And then in
+ 
+
+455
+00:06:11,600 --> 00:06:12,790
+back over to Claude code. And then in
+Claude code, we're going to give it two
+
+456
+00:06:12,790 --> 00:06:12,800
+Claude code, we're going to give it two
+ 
+
+457
+00:06:12,800 --> 00:06:14,230
+Claude code, we're going to give it two
+things. One is going to be the Fire
+
+458
+00:06:14,230 --> 00:06:14,240
+things. One is going to be the Fire
+ 
+
+459
+00:06:14,240 --> 00:06:15,910
+things. One is going to be the Fire
+Crawl API key, and then we're also going
+
+460
+00:06:15,910 --> 00:06:15,920
+Crawl API key, and then we're also going
+ 
+
+461
+00:06:15,920 --> 00:06:18,270
+Crawl API key, and then we're also going
+to give it the website URL, which for us
+
+462
+00:06:18,270 --> 00:06:18,280
+to give it the website URL, which for us
+ 
+
+463
+00:06:18,280 --> 00:06:20,390
+to give it the website URL, which for us
+is going to be diamondpools.com. We head
+
+464
+00:06:20,390 --> 00:06:20,400
+is going to be diamondpools.com. We head
+ 
+
+465
+00:06:20,400 --> 00:06:21,950
+is going to be diamondpools.com. We head
+back over and give that to Claude. Guys,
+
+466
+00:06:21,950 --> 00:06:21,960
+back over and give that to Claude. Guys,
+ 
+
+467
+00:06:21,960 --> 00:06:23,270
+back over and give that to Claude. Guys,
+and just like that, it's come back and
+
+468
+00:06:23,270 --> 00:06:23,280
+and just like that, it's come back and
+ 
+
+469
+00:06:23,280 --> 00:06:24,950
+and just like that, it's come back and
+processed everything without touching a
+
+470
+00:06:24,950 --> 00:06:24,960
+processed everything without touching a
+ 
+
+471
+00:06:24,960 --> 00:06:26,510
+processed everything without touching a
+single thing. And what it's done is
+
+472
+00:06:26,510 --> 00:06:26,520
+single thing. And what it's done is
+ 
+
+473
+00:06:26,520 --> 00:06:28,790
+single thing. And what it's done is
+given us a Diamond D Pool Services
+
+474
+00:06:28,790 --> 00:06:28,800
+given us a Diamond D Pool Services
+ 
+
+475
+00:06:28,800 --> 00:06:30,790
+given us a Diamond D Pool Services
+Market Intelligence Report. So, this is
+
+476
+00:06:30,790 --> 00:06:30,800
+Market Intelligence Report. So, this is
+ 
+
+477
+00:06:30,800 --> 00:06:32,510
+Market Intelligence Report. So, this is
+an asset that we could give to clients
+
+478
+00:06:32,510 --> 00:06:32,520
+an asset that we could give to clients
+ 
+
+479
+00:06:32,520 --> 00:06:33,550
+an asset that we could give to clients
+or just good for us to know
+
+480
+00:06:33,550 --> 00:06:33,560
+or just good for us to know
+ 
+
+481
+00:06:33,560 --> 00:06:34,870
+or just good for us to know
+individually, you know what I mean? Oh
+
+482
+00:06:34,870 --> 00:06:34,880
+individually, you know what I mean? Oh
+ 
+
+483
+00:06:34,880 --> 00:06:36,710
+individually, you know what I mean? Oh
+my goodness, I'm I'm excited to dive
+
+484
+00:06:36,710 --> 00:06:36,720
+my goodness, I'm I'm excited to dive
+ 
+
+485
+00:06:36,720 --> 00:06:37,910
+my goodness, I'm I'm excited to dive
+into this. So, a research driven
+
+486
+00:06:37,910 --> 00:06:37,920
+into this. So, a research driven
+ 
+
+487
+00:06:37,920 --> 00:06:39,790
+into this. So, a research driven
+analysis of the East Texas Pool Service
+
+488
+00:06:39,790 --> 00:06:39,800
+analysis of the East Texas Pool Service
+ 
+
+489
+00:06:39,800 --> 00:06:41,350
+analysis of the East Texas Pool Service
+Market, competitor profiles, success
+
+490
+00:06:41,350 --> 00:06:41,360
+Market, competitor profiles, success
+ 
+
+491
+00:06:41,360 --> 00:06:43,070
+Market, competitor profiles, success
+patterns, and strategic recommendations
+
+492
+00:06:43,070 --> 00:06:43,080
+patterns, and strategic recommendations
+ 
+
+493
+00:06:43,080 --> 00:06:44,910
+patterns, and strategic recommendations
+for building a website that wins. Cool.
+
+494
+00:06:44,910 --> 00:06:44,920
+for building a website that wins. Cool.
+ 
+
+495
+00:06:44,920 --> 00:06:47,190
+for building a website that wins. Cool.
+Executive summary. I love the premium
+
+496
+00:06:47,190 --> 00:06:47,200
+Executive summary. I love the premium
+ 
+
+497
+00:06:47,200 --> 00:06:48,630
+Executive summary. I love the premium
+feel that we've got with this. I think
+
+498
+00:06:48,630 --> 00:06:48,640
+feel that we've got with this. I think
+ 
+
+499
+00:06:48,640 --> 00:06:50,470
+feel that we've got with this. I think
+it's fantastic. So, what do we learn
+
+500
+00:06:50,470 --> 00:06:50,480
+it's fantastic. So, what do we learn
+ 
+
+501
+00:06:50,480 --> 00:06:51,910
+it's fantastic. So, what do we learn
+here? So, you're in a competitive East
+
+502
+00:06:51,910 --> 00:06:51,920
+here? So, you're in a competitive East
+ 
+
+503
+00:06:51,920 --> 00:06:53,950
+here? So, you're in a competitive East
+Texas Pool Service Market. Here are
+
+504
+00:06:53,950 --> 00:06:53,960
+Texas Pool Service Market. Here are
+ 
+
+505
+00:06:53,960 --> 00:06:56,190
+Texas Pool Service Market. Here are
+these specific niches. Trust signals are
+
+506
+00:06:56,190 --> 00:06:56,200
+these specific niches. Trust signals are
+ 
+
+507
+00:06:56,200 --> 00:06:57,710
+these specific niches. Trust signals are
+table stakes. Professional photography
+
+508
+00:06:57,710 --> 00:06:57,720
+table stakes. Professional photography
+ 
+
+509
+00:06:57,720 --> 00:07:00,590
+table stakes. Professional photography
+wins. Content depth drives SEO. The top
+
+510
+00:07:00,590 --> 00:07:00,600
+wins. Content depth drives SEO. The top
+ 
+
+511
+00:07:00,600 --> 00:07:02,230
+wins. Content depth drives SEO. The top
+five all showcase real complete project
+
+512
+00:07:02,230 --> 00:07:02,240
+five all showcase real complete project
+ 
+
+513
+00:07:02,240 --> 00:07:03,990
+five all showcase real complete project
+photos, name designs, galleries, before
+
+514
+00:07:03,990 --> 00:07:04,000
+photos, name designs, galleries, before
+ 
+
+515
+00:07:04,000 --> 00:07:06,270
+photos, name designs, galleries, before
+and after shots, stock imagery signals,
+
+516
+00:07:06,270 --> 00:07:06,280
+and after shots, stock imagery signals,
+ 
+
+517
+00:07:06,280 --> 00:07:08,630
+and after shots, stock imagery signals,
+small operation. How cool is that, by
+
+518
+00:07:08,630 --> 00:07:08,640
+small operation. How cool is that, by
+ 
+
+519
+00:07:08,640 --> 00:07:10,150
+small operation. How cool is that, by
+the way, that you just get to share this
+
+520
+00:07:10,150 --> 00:07:10,160
+the way, that you just get to share this
+ 
+
+521
+00:07:10,160 --> 00:07:11,710
+the way, that you just get to share this
+insight? And I get people reaching out
+
+522
+00:07:11,710 --> 00:07:11,720
+insight? And I get people reaching out
+ 
+
+523
+00:07:11,720 --> 00:07:13,350
+insight? And I get people reaching out
+to me very often with, "Jack, I did a
+
+524
+00:07:13,350 --> 00:07:13,360
+to me very often with, "Jack, I did a
+ 
+
+525
+00:07:13,360 --> 00:07:14,710
+to me very often with, "Jack, I did a
+full deep dive analysis on your
+
+526
+00:07:14,710 --> 00:07:14,720
+full deep dive analysis on your
+ 
+
+527
+00:07:14,720 --> 00:07:16,070
+full deep dive analysis on your
+business. Here's what you're missing."
+
+528
+00:07:16,070 --> 00:07:16,080
+business. Here's what you're missing."
+ 
+
+529
+00:07:16,080 --> 00:07:17,230
+business. Here's what you're missing."
+It doesn't look like this. I can tell
+
+530
+00:07:17,230 --> 00:07:17,240
+It doesn't look like this. I can tell
+ 
+
+531
+00:07:17,240 --> 00:07:19,070
+It doesn't look like this. I can tell
+you that for a fact. It's very obviously
+
+532
+00:07:19,070 --> 00:07:19,080
+you that for a fact. It's very obviously
+ 
+
+533
+00:07:19,080 --> 00:07:20,830
+you that for a fact. It's very obviously
+AI generated. This looks like it's had
+
+534
+00:07:20,830 --> 00:07:20,840
+AI generated. This looks like it's had
+ 
+
+535
+00:07:20,840 --> 00:07:22,310
+AI generated. This looks like it's had
+some care and attention. You know, I
+
+536
+00:07:22,310 --> 00:07:22,320
+some care and attention. You know, I
+ 
+
+537
+00:07:22,320 --> 00:07:23,670
+some care and attention. You know, I
+challenge you to tell me the last time
+
+538
+00:07:23,670 --> 00:07:23,680
+challenge you to tell me the last time
+ 
+
+539
+00:07:23,680 --> 00:07:25,350
+challenge you to tell me the last time
+you had something look this good that
+
+540
+00:07:25,350 --> 00:07:25,360
+you had something look this good that
+ 
+
+541
+00:07:25,360 --> 00:07:27,230
+you had something look this good that
+came uh for free. Content depth drives
+
+542
+00:07:27,230 --> 00:07:27,240
+came uh for free. Content depth drives
+ 
+
+543
+00:07:27,240 --> 00:07:29,030
+came uh for free. Content depth drives
+SEO. Winners have service pages, FAQ
+
+544
+00:07:29,030 --> 00:07:29,040
+SEO. Winners have service pages, FAQ
+ 
+
+545
+00:07:29,040 --> 00:07:30,590
+SEO. Winners have service pages, FAQ
+section, blog content. Really cool,
+
+546
+00:07:30,590 --> 00:07:30,600
+section, blog content. Really cool,
+ 
+
+547
+00:07:30,600 --> 00:07:32,630
+section, blog content. Really cool,
+really helpful insights. Current website
+
+548
+00:07:32,630 --> 00:07:32,640
+really helpful insights. Current website
+ 
+
+549
+00:07:32,640 --> 00:07:33,830
+really helpful insights. Current website
+audit. So, we can come down here.
+
+550
+00:07:33,830 --> 00:07:33,840
+audit. So, we can come down here.
+ 
+
+551
+00:07:33,840 --> 00:07:35,510
+audit. So, we can come down here.
+Strengths, trust what sets us apart, and
+
+552
+00:07:35,510 --> 00:07:35,520
+Strengths, trust what sets us apart, and
+ 
+
+553
+00:07:35,520 --> 00:07:37,830
+Strengths, trust what sets us apart, and
+critical gaps. Interesting. Duplicate H4
+
+554
+00:07:37,830 --> 00:07:37,840
+critical gaps. Interesting. Duplicate H4
+ 
+
+555
+00:07:37,840 --> 00:07:39,430
+critical gaps. Interesting. Duplicate H4
+headings. It's done a full SEO review.
+
+556
+00:07:39,430 --> 00:07:39,440
+headings. It's done a full SEO review.
+ 
+
+557
+00:07:39,440 --> 00:07:41,510
+headings. It's done a full SEO review.
+Gmail contact address. Interesting. Come
+
+558
+00:07:41,510 --> 00:07:41,520
+Gmail contact address. Interesting. Come
+ 
+
+559
+00:07:41,520 --> 00:07:43,110
+Gmail contact address. Interesting. Come
+down here. Bottom line, the current site
+
+560
+00:07:43,110 --> 00:07:43,120
+down here. Bottom line, the current site
+ 
+
+561
+00:07:43,120 --> 00:07:44,870
+down here. Bottom line, the current site
+communicates part-time side gig rather
+
+562
+00:07:44,870 --> 00:07:44,880
+communicates part-time side gig rather
+ 
+
+563
+00:07:44,880 --> 00:07:46,590
+communicates part-time side gig rather
+than professional pool service company.
+
+564
+00:07:46,590 --> 00:07:46,600
+than professional pool service company.
+ 
+
+565
+00:07:46,600 --> 00:07:47,990
+than professional pool service company.
+Then we've got competitor profiles, and
+
+566
+00:07:47,990 --> 00:07:48,000
+Then we've got competitor profiles, and
+ 
+
+567
+00:07:48,000 --> 00:07:49,470
+Then we've got competitor profiles, and
+again, it's got all this key information
+
+568
+00:07:49,470 --> 00:07:49,480
+again, it's got all this key information
+ 
+
+569
+00:07:49,480 --> 00:07:50,550
+again, it's got all this key information
+here, which is cool. It's got all their
+
+570
+00:07:50,550 --> 00:07:50,560
+here, which is cool. It's got all their
+ 
+
+571
+00:07:50,560 --> 00:07:52,350
+here, which is cool. It's got all their
+Trustpilot reviews. And guys, look at
+
+572
+00:07:52,350 --> 00:07:52,360
+Trustpilot reviews. And guys, look at
+ 
+
+573
+00:07:52,360 --> 00:07:53,870
+Trustpilot reviews. And guys, look at
+this. We've even got their color
+
+574
+00:07:53,870 --> 00:07:53,880
+this. We've even got their color
+ 
+
+575
+00:07:53,880 --> 00:07:55,910
+this. We've even got their color
+palettes. How freaking amazing is that?
+
+576
+00:07:55,910 --> 00:07:55,920
+palettes. How freaking amazing is that?
+ 
+
+577
+00:07:55,920 --> 00:07:57,030
+palettes. How freaking amazing is that?
+Then we can zoom out a little bit and
+
+578
+00:07:57,030 --> 00:07:57,040
+Then we can zoom out a little bit and
+ 
+
+579
+00:07:57,040 --> 00:07:58,470
+Then we can zoom out a little bit and
+have a quick look over here. Let me just
+
+580
+00:07:58,470 --> 00:07:58,480
+have a quick look over here. Let me just
+ 
+
+581
+00:07:58,480 --> 00:08:00,110
+have a quick look over here. Let me just
+zoom out so you can see what they do
+
+582
+00:08:00,110 --> 00:08:00,120
+zoom out so you can see what they do
+ 
+
+583
+00:08:00,120 --> 00:08:01,550
+zoom out so you can see what they do
+exceptionally well. Paradise Nails is a
+
+584
+00:08:01,550 --> 00:08:01,560
+exceptionally well. Paradise Nails is a
+ 
+
+585
+00:08:01,560 --> 00:08:02,950
+exceptionally well. Paradise Nails is a
+personal touch. Owned by us, name pool
+
+586
+00:08:02,950 --> 00:08:02,960
+personal touch. Owned by us, name pool
+ 
+
+587
+00:08:02,960 --> 00:08:04,470
+personal touch. Owned by us, name pool
+designs. Here's another one. Here's
+
+588
+00:08:04,470 --> 00:08:04,480
+designs. Here's another one. Here's
+ 
+
+589
+00:08:04,480 --> 00:08:05,750
+designs. Here's another one. Here's
+their reviews, and here's what they do
+
+590
+00:08:05,750 --> 00:08:05,760
+their reviews, and here's what they do
+ 
+
+591
+00:08:05,760 --> 00:08:08,750
+their reviews, and here's what they do
+well. This is amazing. I am genuinely
+
+592
+00:08:08,750 --> 00:08:08,760
+well. This is amazing. I am genuinely
+ 
+
+593
+00:08:08,760 --> 00:08:10,310
+well. This is amazing. I am genuinely
+impressed by this. Genuinely, genuinely
+
+594
+00:08:10,310 --> 00:08:10,320
+impressed by this. Genuinely, genuinely
+ 
+
+595
+00:08:10,320 --> 00:08:11,470
+impressed by this. Genuinely, genuinely
+impressed by this. I think this is
+
+596
+00:08:11,470 --> 00:08:11,480
+impressed by this. I think this is
+ 
+
+597
+00:08:11,480 --> 00:08:13,350
+impressed by this. I think this is
+fantastic. This is really gorgeous.
+
+598
+00:08:13,350 --> 00:08:13,360
+fantastic. This is really gorgeous.
+ 
+
+599
+00:08:13,360 --> 00:08:14,630
+fantastic. This is really gorgeous.
+Again, I'll add this to the skill for
+
+600
+00:08:14,630 --> 00:08:14,640
+Again, I'll add this to the skill for
+ 
+
+601
+00:08:14,640 --> 00:08:16,150
+Again, I'll add this to the skill for
+you so that you're going to get the same
+
+602
+00:08:16,150 --> 00:08:16,160
+you so that you're going to get the same
+ 
+
+603
+00:08:16,160 --> 00:08:16,990
+you so that you're going to get the same
+thing. And if you want to show this to
+
+604
+00:08:16,990 --> 00:08:17,000
+thing. And if you want to show this to
+ 
+
+605
+00:08:17,000 --> 00:08:18,550
+thing. And if you want to show this to
+clients to grow your base or whatever,
+
+606
+00:08:18,550 --> 00:08:18,560
+clients to grow your base or whatever,
+ 
+
+607
+00:08:18,560 --> 00:08:19,190
+clients to grow your base or whatever,
+or you just want to look at it for
+
+608
+00:08:19,190 --> 00:08:19,200
+or you just want to look at it for
+ 
+
+609
+00:08:19,200 --> 00:08:20,710
+or you just want to look at it for
+yourself, you can do. Really freaking
+
+610
+00:08:20,710 --> 00:08:20,720
+yourself, you can do. Really freaking
+ 
+
+611
+00:08:20,720 --> 00:08:22,270
+yourself, you can do. Really freaking
+cool. What they do exceptionally well.
+
+612
+00:08:22,270 --> 00:08:22,280
+cool. What they do exceptionally well.
+ 
+
+613
+00:08:22,280 --> 00:08:23,710
+cool. What they do exceptionally well.
+We come down, and we get an idea for the
+
+614
+00:08:23,710 --> 00:08:23,720
+We come down, and we get an idea for the
+ 
+
+615
+00:08:23,720 --> 00:08:25,470
+We come down, and we get an idea for the
+color palette of everything. And then
+
+616
+00:08:25,470 --> 00:08:25,480
+color palette of everything. And then
+ 
+
+617
+00:08:25,480 --> 00:08:26,470
+color palette of everything. And then
+we've got the bottom, the winning
+
+618
+00:08:26,470 --> 00:08:26,480
+we've got the bottom, the winning
+ 
+
+619
+00:08:26,480 --> 00:08:28,390
+we've got the bottom, the winning
+blueprint. Page structure is hero strong
+
+620
+00:08:28,390 --> 00:08:28,400
+blueprint. Page structure is hero strong
+ 
+
+621
+00:08:28,400 --> 00:08:30,190
+blueprint. Page structure is hero strong
+headline, service categories, photo
+
+622
+00:08:30,190 --> 00:08:30,200
+headline, service categories, photo
+ 
+
+623
+00:08:30,200 --> 00:08:32,430
+headline, service categories, photo
+gallery, about us, content patterns. And
+
+624
+00:08:32,430 --> 00:08:32,440
+gallery, about us, content patterns. And
+ 
+
+625
+00:08:32,440 --> 00:08:34,589
+gallery, about us, content patterns. And
+now we can use what actually wins. And
+
+626
+00:08:34,589 --> 00:08:34,599
+now we can use what actually wins. And
+ 
+
+627
+00:08:34,599 --> 00:08:35,830
+now we can use what actually wins. And
+here's the crazy thing. This has a
+
+628
+00:08:35,830 --> 00:08:35,840
+here's the crazy thing. This has a
+ 
+
+629
+00:08:35,840 --> 00:08:37,029
+here's the crazy thing. This has a
+really intelligent algorithm about how
+
+630
+00:08:37,029 --> 00:08:37,039
+really intelligent algorithm about how
+ 
+
+631
+00:08:37,039 --> 00:08:39,430
+really intelligent algorithm about how
+it determines what the top websites are.
+
+632
+00:08:39,430 --> 00:08:39,440
+it determines what the top websites are.
+ 
+
+633
+00:08:39,440 --> 00:08:41,630
+it determines what the top websites are.
+We do that based on Google rankings. We
+
+634
+00:08:41,630 --> 00:08:41,640
+We do that based on Google rankings. We
+ 
+
+635
+00:08:41,640 --> 00:08:43,709
+We do that based on Google rankings. We
+do that based on the reviews. So, we get
+
+636
+00:08:43,709 --> 00:08:43,719
+do that based on the reviews. So, we get
+ 
+
+637
+00:08:43,719 --> 00:08:44,950
+do that based on the reviews. So, we get
+and and several other factors that are
+
+638
+00:08:44,950 --> 00:08:44,960
+and and several other factors that are
+ 
+
+639
+00:08:44,960 --> 00:08:46,670
+and and several other factors that are
+inside the uh actual skill. But it'll
+
+640
+00:08:46,670 --> 00:08:46,680
+inside the uh actual skill. But it'll
+ 
+
+641
+00:08:46,680 --> 00:08:48,790
+inside the uh actual skill. But it'll
+identify what the top players are, and
+
+642
+00:08:48,790 --> 00:08:48,800
+identify what the top players are, and
+ 
+
+643
+00:08:48,800 --> 00:08:50,430
+identify what the top players are, and
+then we can reverse engineer what makes
+
+644
+00:08:50,430 --> 00:08:50,440
+then we can reverse engineer what makes
+ 
+
+645
+00:08:50,440 --> 00:08:52,190
+then we can reverse engineer what makes
+them so great on their website, which I
+
+646
+00:08:52,190 --> 00:08:52,200
+them so great on their website, which I
+ 
+
+647
+00:08:52,200 --> 00:08:53,590
+them so great on their website, which I
+think is really freaking cool. Then
+
+648
+00:08:53,590 --> 00:08:53,600
+think is really freaking cool. Then
+ 
+
+649
+00:08:53,600 --> 00:08:55,830
+think is really freaking cool. Then
+we've got the SEO landscape. Look at
+
+650
+00:08:55,830 --> 00:08:55,840
+we've got the SEO landscape. Look at
+ 
+
+651
+00:08:55,840 --> 00:08:57,350
+we've got the SEO landscape. Look at
+this, guys. Here's what they all do.
+
+652
+00:08:57,350 --> 00:08:57,360
+this, guys. Here's what they all do.
+ 
+
+653
+00:08:57,360 --> 00:08:58,830
+this, guys. Here's what they all do.
+Here's what you do. This is like the
+
+654
+00:08:58,830 --> 00:08:58,840
+Here's what you do. This is like the
+ 
+
+655
+00:08:58,840 --> 00:09:00,590
+Here's what you do. This is like the
+kind of thing you'd expect off of a paid
+
+656
+00:09:00,590 --> 00:09:00,600
+kind of thing you'd expect off of a paid
+ 
+
+657
+00:09:00,600 --> 00:09:01,950
+kind of thing you'd expect off of a paid
+off of a paid order. I'm really
+
+658
+00:09:01,950 --> 00:09:01,960
+off of a paid order. I'm really
+ 
+
+659
+00:09:01,960 --> 00:09:03,630
+off of a paid order. I'm really
+impressed with this. Recommended website
+
+660
+00:09:03,630 --> 00:09:03,640
+impressed with this. Recommended website
+ 
+
+661
+00:09:03,640 --> 00:09:05,310
+impressed with this. Recommended website
+structure. Home, services, about, blog,
+
+662
+00:09:05,310 --> 00:09:05,320
+structure. Home, services, about, blog,
+ 
+
+663
+00:09:05,320 --> 00:09:06,550
+structure. Home, services, about, blog,
+blah, blah, blah. And then imagine
+
+664
+00:09:06,550 --> 00:09:06,560
+blah, blah, blah. And then imagine
+ 
+
+665
+00:09:06,560 --> 00:09:07,790
+blah, blah, blah. And then imagine
+sending this and be like, "And by the
+
+666
+00:09:07,790 --> 00:09:07,800
+sending this and be like, "And by the
+ 
+
+667
+00:09:07,800 --> 00:09:09,630
+sending this and be like, "And by the
+way, here you freaking go. It's yours.
+
+668
+00:09:09,630 --> 00:09:09,640
+way, here you freaking go. It's yours.
+ 
+
+669
+00:09:09,640 --> 00:09:11,670
+way, here you freaking go. It's yours.
+It's amazing." Proposed designs. Design
+
+670
+00:09:11,670 --> 00:09:11,680
+It's amazing." Proposed designs. Design
+ 
+
+671
+00:09:11,680 --> 00:09:13,790
+It's amazing." Proposed designs. Design
+structure. Fantastic. Absolutely
+
+672
+00:09:13,790 --> 00:09:13,800
+structure. Fantastic. Absolutely
+ 
+
+673
+00:09:13,800 --> 00:09:15,150
+structure. Fantastic. Absolutely
+gorgeous. And that's basically the whole
+
+674
+00:09:15,150 --> 00:09:15,160
+gorgeous. And that's basically the whole
+ 
+
+675
+00:09:15,160 --> 00:09:16,670
+gorgeous. And that's basically the whole
+plan of action. Then if we come back
+
+676
+00:09:16,670 --> 00:09:16,680
+plan of action. Then if we come back
+ 
+
+677
+00:09:16,680 --> 00:09:18,110
+plan of action. Then if we come back
+over to our wonderful Claude code, it is
+
+678
+00:09:18,110 --> 00:09:18,120
+over to our wonderful Claude code, it is
+ 
+
+679
+00:09:18,120 --> 00:09:19,670
+over to our wonderful Claude code, it is
+now ready to go ahead and build it. So,
+
+680
+00:09:19,670 --> 00:09:19,680
+now ready to go ahead and build it. So,
+ 
+
+681
+00:09:19,680 --> 00:09:20,990
+now ready to go ahead and build it. So,
+it's even got an SEO plan, trust
+
+682
+00:09:20,990 --> 00:09:21,000
+it's even got an SEO plan, trust
+ 
+
+683
+00:09:21,000 --> 00:09:22,230
+it's even got an SEO plan, trust
+signals, content strategy, page
+
+684
+00:09:22,230 --> 00:09:22,240
+signals, content strategy, page
+ 
+
+685
+00:09:22,240 --> 00:09:23,510
+signals, content strategy, page
+structure, which is awesome. So, now
+
+686
+00:09:23,510 --> 00:09:23,520
+structure, which is awesome. So, now
+ 
+
+687
+00:09:23,520 --> 00:09:24,510
+structure, which is awesome. So, now
+we're going to head and go ahead and do
+
+688
+00:09:24,510 --> 00:09:24,520
+we're going to head and go ahead and do
+ 
+
+689
+00:09:24,520 --> 00:09:25,550
+we're going to head and go ahead and do
+it. And once we've done that, we can
+
+690
+00:09:25,550 --> 00:09:25,560
+it. And once we've done that, we can
+ 
+
+691
+00:09:25,560 --> 00:09:27,910
+it. And once we've done that, we can
+then integrate our 3D animated section.
+
+692
+00:09:27,910 --> 00:09:27,920
+then integrate our 3D animated section.
+ 
+
+693
+00:09:27,920 --> 00:09:29,430
+then integrate our 3D animated section.
+Hey there, dude. That sounds great. Go
+
+694
+00:09:29,430 --> 00:09:29,440
+Hey there, dude. That sounds great. Go
+ 
+
+695
+00:09:29,440 --> 00:09:31,230
+Hey there, dude. That sounds great. Go
+ahead and build that initial website at
+
+696
+00:09:31,230 --> 00:09:31,240
+ahead and build that initial website at
+ 
+
+697
+00:09:31,240 --> 00:09:32,630
+ahead and build that initial website at
+making sure that we leave a space for me
+
+698
+00:09:32,630 --> 00:09:32,640
+making sure that we leave a space for me
+ 
+
+699
+00:09:32,640 --> 00:09:34,110
+making sure that we leave a space for me
+to give you the video to do the
+
+700
+00:09:34,110 --> 00:09:34,120
+to give you the video to do the
+ 
+
+701
+00:09:34,120 --> 00:09:35,990
+to give you the video to do the
+integrated animated structure uh for the
+
+702
+00:09:35,990 --> 00:09:36,000
+integrated animated structure uh for the
+ 
+
+703
+00:09:36,000 --> 00:09:37,310
+integrated animated structure uh for the
+pool. And then we send them off. And if
+
+704
+00:09:37,310 --> 00:09:37,320
+pool. And then we send them off. And if
+ 
+
+705
+00:09:37,320 --> 00:09:38,470
+pool. And then we send them off. And if
+you're wondering how I'm doing this, I'm
+
+706
+00:09:38,470 --> 00:09:38,480
+you're wondering how I'm doing this, I'm
+ 
+
+707
+00:09:38,480 --> 00:09:40,510
+you're wondering how I'm doing this, I'm
+using Glido as a speech-to-text service.
+
+708
+00:09:40,510 --> 00:09:40,520
+using Glido as a speech-to-text service.
+ 
+
+709
+00:09:40,520 --> 00:09:41,990
+using Glido as a speech-to-text service.
+Basically, you hit a key, you yap, and
+
+710
+00:09:41,990 --> 00:09:42,000
+Basically, you hit a key, you yap, and
+ 
+
+711
+00:09:42,000 --> 00:09:43,430
+Basically, you hit a key, you yap, and
+then the messages appear. Just saves a
+
+712
+00:09:43,430 --> 00:09:43,440
+then the messages appear. Just saves a
+ 
+
+713
+00:09:43,440 --> 00:09:44,630
+then the messages appear. Just saves a
+lot of time. Wonderful. So, now we've
+
+714
+00:09:44,630 --> 00:09:44,640
+lot of time. Wonderful. So, now we've
+ 
+
+715
+00:09:44,640 --> 00:09:46,270
+lot of time. Wonderful. So, now we've
+got a website SEO optimized and
+
+716
+00:09:46,270 --> 00:09:46,280
+got a website SEO optimized and
+ 
+
+717
+00:09:46,280 --> 00:09:47,830
+got a website SEO optimized and
+influenced. So, we've got the homepage
+
+718
+00:09:47,830 --> 00:09:47,840
+influenced. So, we've got the homepage
+ 
+
+719
+00:09:47,840 --> 00:09:48,830
+influenced. So, we've got the homepage
+where we're going to have our beautiful
+
+720
+00:09:48,830 --> 00:09:48,840
+where we're going to have our beautiful
+ 
+
+721
+00:09:48,840 --> 00:09:49,990
+where we're going to have our beautiful
+animation. Let's scroll down and see
+
+722
+00:09:49,990 --> 00:09:50,000
+animation. Let's scroll down and see
+ 
+
+723
+00:09:50,000 --> 00:09:51,830
+animation. Let's scroll down and see
+what we've got. Gorgeous images, free
+
+724
+00:09:51,830 --> 00:09:51,840
+what we've got. Gorgeous images, free
+ 
+
+725
+00:09:51,840 --> 00:09:53,790
+what we've got. Gorgeous images, free
+estimates, five-star service. This
+
+726
+00:09:53,790 --> 00:09:53,800
+estimates, five-star service. This
+ 
+
+727
+00:09:53,800 --> 00:09:56,830
+estimates, five-star service. This
+really feels like a premium brand. Cool.
+
+728
+00:09:56,830 --> 00:09:56,840
+really feels like a premium brand. Cool.
+ 
+
+729
+00:09:56,840 --> 00:09:58,830
+really feels like a premium brand. Cool.
+Pool care that protects your investment.
+
+730
+00:09:58,830 --> 00:09:58,840
+Pool care that protects your investment.
+ 
+
+731
+00:09:58,840 --> 00:10:00,270
+Pool care that protects your investment.
+Some great imagery there. Okay, this is
+
+732
+00:10:00,270 --> 00:10:00,280
+Some great imagery there. Okay, this is
+ 
+
+733
+00:10:00,280 --> 00:10:02,110
+Some great imagery there. Okay, this is
+quite tasty. Your neighbor, your pool
+
+734
+00:10:02,110 --> 00:10:02,120
+quite tasty. Your neighbor, your pool
+ 
+
+735
+00:10:02,120 --> 00:10:03,910
+quite tasty. Your neighbor, your pool
+guy. This is cool. Pools that transform.
+
+736
+00:10:03,910 --> 00:10:03,920
+guy. This is cool. Pools that transform.
+ 
+
+737
+00:10:03,920 --> 00:10:05,990
+guy. This is cool. Pools that transform.
+She's got some different ideas and proof
+
+738
+00:10:05,990 --> 00:10:06,000
+She's got some different ideas and proof
+ 
+
+739
+00:10:06,000 --> 00:10:07,950
+She's got some different ideas and proof
+uh six reasons to trust us. Okay, so
+
+740
+00:10:07,950 --> 00:10:07,960
+uh six reasons to trust us. Okay, so
+ 
+
+741
+00:10:07,960 --> 00:10:08,830
+uh six reasons to trust us. Okay, so
+this is something that we want to kind
+
+742
+00:10:08,830 --> 00:10:08,840
+this is something that we want to kind
+ 
+
+743
+00:10:08,840 --> 00:10:10,030
+this is something that we want to kind
+of fix. It's kind of like a grading
+
+744
+00:10:10,030 --> 00:10:10,040
+of fix. It's kind of like a grading
+ 
+
+745
+00:10:10,040 --> 00:10:11,550
+of fix. It's kind of like a grading
+thing. But completely fine. First draft,
+
+746
+00:10:11,550 --> 00:10:11,560
+thing. But completely fine. First draft,
+ 
+
+747
+00:10:11,560 --> 00:10:13,150
+thing. But completely fine. First draft,
+that's fine. Come down. Trusted by pool
+
+748
+00:10:13,150 --> 00:10:13,160
+that's fine. Come down. Trusted by pool
+ 
+
+749
+00:10:13,160 --> 00:10:14,550
+that's fine. Come down. Trusted by pool
+owners. This, by the way, pulls it
+
+750
+00:10:14,550 --> 00:10:14,560
+owners. This, by the way, pulls it
+ 
+
+751
+00:10:14,560 --> 00:10:15,870
+owners. This, by the way, pulls it
+directly from the website. So these
+
+752
+00:10:15,870 --> 00:10:15,880
+directly from the website. So these
+ 
+
+753
+00:10:15,880 --> 00:10:17,510
+directly from the website. So these
+should be actual reviews that exist on
+
+754
+00:10:17,510 --> 00:10:17,520
+should be actual reviews that exist on
+ 
+
+755
+00:10:17,520 --> 00:10:19,150
+should be actual reviews that exist on
+Google, which is fantastic. Come down.
+
+756
+00:10:19,150 --> 00:10:19,160
+Google, which is fantastic. Come down.
+ 
+
+757
+00:10:19,160 --> 00:10:20,870
+Google, which is fantastic. Come down.
+Your pool deserves better. Let's make it
+
+758
+00:10:20,870 --> 00:10:20,880
+Your pool deserves better. Let's make it
+ 
+
+759
+00:10:20,880 --> 00:10:22,790
+Your pool deserves better. Let's make it
+happen. Proudly serving in Texas. Lots
+
+760
+00:10:22,790 --> 00:10:22,800
+happen. Proudly serving in Texas. Lots
+ 
+
+761
+00:10:22,800 --> 00:10:24,070
+happen. Proudly serving in Texas. Lots
+of different brands there. And then
+
+762
+00:10:24,070 --> 00:10:24,080
+of different brands there. And then
+ 
+
+763
+00:10:24,080 --> 00:10:25,310
+of different brands there. And then
+ready for pool cleaner. And then we've
+
+764
+00:10:25,310 --> 00:10:25,320
+ready for pool cleaner. And then we've
+ 
+
+765
+00:10:25,320 --> 00:10:27,550
+ready for pool cleaner. And then we've
+got a nice contact form at the bottom
+
+766
+00:10:27,550 --> 00:10:27,560
+got a nice contact form at the bottom
+ 
+
+767
+00:10:27,560 --> 00:10:28,910
+got a nice contact form at the bottom
+where they can get started. So now we
+
+768
+00:10:28,910 --> 00:10:28,920
+where they can get started. So now we
+ 
+
+769
+00:10:28,920 --> 00:10:30,990
+where they can get started. So now we
+have an initial overview of the website.
+
+770
+00:10:30,990 --> 00:10:31,000
+have an initial overview of the website.
+ 
+
+771
+00:10:31,000 --> 00:10:32,510
+have an initial overview of the website.
+The next step is to take this
+
+772
+00:10:32,510 --> 00:10:32,520
+The next step is to take this
+ 
+
+773
+00:10:32,520 --> 00:10:34,790
+The next step is to take this
+interstellar by bringing a beautiful,
+
+774
+00:10:34,790 --> 00:10:34,800
+interstellar by bringing a beautiful,
+ 
+
+775
+00:10:34,800 --> 00:10:37,230
+interstellar by bringing a beautiful,
+show-stopping animation we can add
+
+776
+00:10:37,230 --> 00:10:37,240
+show-stopping animation we can add
+ 
+
+777
+00:10:37,240 --> 00:10:39,030
+show-stopping animation we can add
+directly into the website with Nano
+
+778
+00:10:39,030 --> 00:10:39,040
+directly into the website with Nano
+ 
+
+779
+00:10:39,040 --> 00:10:40,550
+directly into the website with Nano
+Banana 2. Now to do this, I'm heading
+
+780
+00:10:40,550 --> 00:10:40,560
+Banana 2. Now to do this, I'm heading
+ 
+
+781
+00:10:40,560 --> 00:10:42,470
+Banana 2. Now to do this, I'm heading
+back over to Community Scrub to Assets.
+
+782
+00:10:42,470 --> 00:10:42,480
+back over to Community Scrub to Assets.
+ 
+
+783
+00:10:42,480 --> 00:10:43,750
+back over to Community Scrub to Assets.
+I'll put these down below so you can
+
+784
+00:10:43,750 --> 00:10:43,760
+I'll put these down below so you can
+ 
+
+785
+00:10:43,760 --> 00:10:44,990
+I'll put these down below so you can
+grab these particular ones. We're going
+
+786
+00:10:44,990 --> 00:10:45,000
+grab these particular ones. We're going
+ 
+
+787
+00:10:45,000 --> 00:10:46,430
+grab these particular ones. We're going
+to look for the 3D website builder. And
+
+788
+00:10:46,430 --> 00:10:46,440
+to look for the 3D website builder. And
+ 
+
+789
+00:10:46,440 --> 00:10:48,070
+to look for the 3D website builder. And
+then we're also looking for asset
+
+790
+00:10:48,070 --> 00:10:48,080
+then we're also looking for asset
+ 
+
+791
+00:10:48,080 --> 00:10:49,790
+then we're also looking for asset
+generation. And of course, we're SEO
+
+792
+00:10:49,790 --> 00:10:49,800
+generation. And of course, we're SEO
+ 
+
+793
+00:10:49,800 --> 00:10:51,510
+generation. And of course, we're SEO
+optimizer. Little side note, by the way,
+
+794
+00:10:51,510 --> 00:10:51,520
+optimizer. Little side note, by the way,
+ 
+
+795
+00:10:51,520 --> 00:10:52,790
+optimizer. Little side note, by the way,
+you do want to be building out your
+
+796
+00:10:52,790 --> 00:10:52,800
+you do want to be building out your
+ 
+
+797
+00:10:52,800 --> 00:10:54,990
+you do want to be building out your
+skills repository of code skills. It's
+
+798
+00:10:54,990 --> 00:10:55,000
+skills repository of code skills. It's
+ 
+
+799
+00:10:55,000 --> 00:10:56,430
+skills repository of code skills. It's
+going to set you up whether you're using
+
+800
+00:10:56,430 --> 00:10:56,440
+going to set you up whether you're using
+ 
+
+801
+00:10:56,440 --> 00:10:58,310
+going to set you up whether you're using
+Open Claw or just building out systems.
+
+802
+00:10:58,310 --> 00:10:58,320
+Open Claw or just building out systems.
+ 
+
+803
+00:10:58,320 --> 00:10:59,550
+Open Claw or just building out systems.
+So, two things we want to download.
+
+804
+00:10:59,550 --> 00:10:59,560
+So, two things we want to download.
+ 
+
+805
+00:10:59,560 --> 00:11:01,070
+So, two things we want to download.
+Number one is 3D website builder. Let's
+
+806
+00:11:01,070 --> 00:11:01,080
+Number one is 3D website builder. Let's
+ 
+
+807
+00:11:01,080 --> 00:11:02,190
+Number one is 3D website builder. Let's
+come down here and just click on
+
+808
+00:11:02,190 --> 00:11:02,200
+come down here and just click on
+ 
+
+809
+00:11:02,200 --> 00:11:03,990
+come down here and just click on
+download this one real quick. And then
+
+810
+00:11:03,990 --> 00:11:04,000
+download this one real quick. And then
+ 
+
+811
+00:11:04,000 --> 00:11:05,150
+download this one real quick. And then
+we're going to go ahead and download the
+
+812
+00:11:05,150 --> 00:11:05,160
+we're going to go ahead and download the
+ 
+
+813
+00:11:05,160 --> 00:11:06,510
+we're going to go ahead and download the
+second. And then we've got our asset
+
+814
+00:11:06,510 --> 00:11:06,520
+second. And then we've got our asset
+ 
+
+815
+00:11:06,520 --> 00:11:08,110
+second. And then we've got our asset
+generator, and let's just download this
+
+816
+00:11:08,110 --> 00:11:08,120
+generator, and let's just download this
+ 
+
+817
+00:11:08,120 --> 00:11:09,310
+generator, and let's just download this
+one. So once we've downloaded them,
+
+818
+00:11:09,310 --> 00:11:09,320
+one. So once we've downloaded them,
+ 
+
+819
+00:11:09,320 --> 00:11:10,390
+one. So once we've downloaded them,
+guys, we're going to select both of
+
+820
+00:11:10,390 --> 00:11:10,400
+guys, we're going to select both of
+ 
+
+821
+00:11:10,400 --> 00:11:11,710
+guys, we're going to select both of
+these and we're going to drag them over
+
+822
+00:11:11,710 --> 00:11:11,720
+these and we're going to drag them over
+ 
+
+823
+00:11:11,720 --> 00:11:13,590
+these and we're going to drag them over
+to our folder. Yes, add folders to
+
+824
+00:11:13,590 --> 00:11:13,600
+to our folder. Yes, add folders to
+ 
+
+825
+00:11:13,600 --> 00:11:15,110
+to our folder. Yes, add folders to
+workspace. Beautiful. And we'll open a
+
+826
+00:11:15,110 --> 00:11:15,120
+workspace. Beautiful. And we'll open a
+ 
+
+827
+00:11:15,120 --> 00:11:16,390
+workspace. Beautiful. And we'll open a
+brand new thing. If you're using a
+
+828
+00:11:16,390 --> 00:11:16,400
+brand new thing. If you're using a
+ 
+
+829
+00:11:16,400 --> 00:11:17,790
+brand new thing. If you're using a
+terminal, all you do is click on this
+
+830
+00:11:17,790 --> 00:11:17,800
+terminal, all you do is click on this
+ 
+
+831
+00:11:17,800 --> 00:11:19,430
+terminal, all you do is click on this
+plus. Opens up a brand new terminal. You
+
+832
+00:11:19,430 --> 00:11:19,440
+plus. Opens up a brand new terminal. You
+ 
+
+833
+00:11:19,440 --> 00:11:20,870
+plus. Opens up a brand new terminal. You
+just come down. You select it, hit
+
+834
+00:11:20,870 --> 00:11:20,880
+just come down. You select it, hit
+ 
+
+835
+00:11:20,880 --> 00:11:21,710
+just come down. You select it, hit
+enter, and then you're rocking and
+
+836
+00:11:21,710 --> 00:11:21,720
+enter, and then you're rocking and
+ 
+
+837
+00:11:21,720 --> 00:11:22,829
+enter, and then you're rocking and
+rolling. Then we're going to select the
+
+838
+00:11:22,829 --> 00:11:22,839
+rolling. Then we're going to select the
+ 
+
+839
+00:11:22,839 --> 00:11:24,990
+rolling. Then we're going to select the
+claw to summon him. Now, let's begin the
+
+840
+00:11:24,990 --> 00:11:25,000
+claw to summon him. Now, let's begin the
+ 
+
+841
+00:11:25,000 --> 00:11:26,550
+claw to summon him. Now, let's begin the
+entire process. So, hey there, I've just
+
+842
+00:11:26,550 --> 00:11:26,560
+entire process. So, hey there, I've just
+ 
+
+843
+00:11:26,560 --> 00:11:28,150
+entire process. So, hey there, I've just
+added two initial skills to the
+
+844
+00:11:28,150 --> 00:11:28,160
+added two initial skills to the
+ 
+
+845
+00:11:28,160 --> 00:11:30,150
+added two initial skills to the
+left-hand side. A 3D website builder and
+
+846
+00:11:30,150 --> 00:11:30,160
+left-hand side. A 3D website builder and
+ 
+
+847
+00:11:30,160 --> 00:11:32,030
+left-hand side. A 3D website builder and
+then I've added a 3D website asset
+
+848
+00:11:32,030 --> 00:11:32,040
+then I've added a 3D website asset
+ 
+
+849
+00:11:32,040 --> 00:11:33,390
+then I've added a 3D website asset
+generator. What I would like you to do
+
+850
+00:11:33,390 --> 00:11:33,400
+generator. What I would like you to do
+ 
+
+851
+00:11:33,400 --> 00:11:35,430
+generator. What I would like you to do
+is create two skills in Claude for those
+
+852
+00:11:35,430 --> 00:11:35,440
+is create two skills in Claude for those
+ 
+
+853
+00:11:35,440 --> 00:11:36,950
+is create two skills in Claude for those
+two things. And I'd like to start with a
+
+854
+00:11:36,950 --> 00:11:36,960
+two things. And I'd like to start with a
+ 
+
+855
+00:11:36,960 --> 00:11:39,750
+two things. And I'd like to start with a
+3D website asset generator. You can tell
+
+856
+00:11:39,750 --> 00:11:39,760
+3D website asset generator. You can tell
+ 
+
+857
+00:11:39,760 --> 00:11:41,670
+3D website asset generator. You can tell
+what website we're building based on the
+
+858
+00:11:41,670 --> 00:11:41,680
+what website we're building based on the
+ 
+
+859
+00:11:41,680 --> 00:11:43,230
+what website we're building based on the
+information on the left, but I would
+
+860
+00:11:43,230 --> 00:11:43,240
+information on the left, but I would
+ 
+
+861
+00:11:43,240 --> 00:11:45,829
+information on the left, but I would
+like to create for this website a pool
+
+862
+00:11:45,829 --> 00:11:45,839
+like to create for this website a pool
+ 
+
+863
+00:11:45,839 --> 00:11:47,790
+like to create for this website a pool
+that basically goes from being dirty and
+
+864
+00:11:47,790 --> 00:11:47,800
+that basically goes from being dirty and
+ 
+
+865
+00:11:47,800 --> 00:11:49,910
+that basically goes from being dirty and
+filthy to completely clean. Do this to
+
+866
+00:11:49,910 --> 00:11:49,920
+filthy to completely clean. Do this to
+ 
+
+867
+00:11:49,920 --> 00:11:52,390
+filthy to completely clean. Do this to
+build out the gorgeous animation files
+
+868
+00:11:52,390 --> 00:11:52,400
+build out the gorgeous animation files
+ 
+
+869
+00:11:52,400 --> 00:11:54,030
+build out the gorgeous animation files
+for me so I can just copy and paste and
+
+870
+00:11:54,030 --> 00:11:54,040
+for me so I can just copy and paste and
+ 
+
+871
+00:11:54,040 --> 00:11:55,350
+for me so I can just copy and paste and
+make it look epic. Now, what this will
+
+872
+00:11:55,350 --> 00:11:55,360
+make it look epic. Now, what this will
+ 
+
+873
+00:11:55,360 --> 00:11:57,790
+make it look epic. Now, what this will
+do actually is generate for us three
+
+874
+00:11:57,790 --> 00:11:57,800
+do actually is generate for us three
+ 
+
+875
+00:11:57,800 --> 00:11:58,870
+do actually is generate for us three
+different prompts that we're going to
+
+876
+00:11:58,870 --> 00:11:58,880
+different prompts that we're going to
+ 
+
+877
+00:11:58,880 --> 00:12:01,350
+different prompts that we're going to
+need to use on whatever image generation
+
+878
+00:12:01,350 --> 00:12:01,360
+need to use on whatever image generation
+ 
+
+879
+00:12:01,360 --> 00:12:02,829
+need to use on whatever image generation
+we're using to create this beautiful
+
+880
+00:12:02,829 --> 00:12:02,839
+we're using to create this beautiful
+ 
+
+881
+00:12:02,839 --> 00:12:04,270
+we're using to create this beautiful
+animation. So whilst this is creating
+
+882
+00:12:04,270 --> 00:12:04,280
+animation. So whilst this is creating
+ 
+
+883
+00:12:04,280 --> 00:12:05,910
+animation. So whilst this is creating
+the asset, let's go over to Higgsfield
+
+884
+00:12:05,910 --> 00:12:05,920
+the asset, let's go over to Higgsfield
+ 
+
+885
+00:12:05,920 --> 00:12:07,550
+the asset, let's go over to Higgsfield
+to use this. Now, you don't have to use
+
+886
+00:12:07,550 --> 00:12:07,560
+to use this. Now, you don't have to use
+ 
+
+887
+00:12:07,560 --> 00:12:08,750
+to use this. Now, you don't have to use
+Higgsfield, but I'm going to use it here
+
+888
+00:12:08,750 --> 00:12:08,760
+Higgsfield, but I'm going to use it here
+ 
+
+889
+00:12:08,760 --> 00:12:10,070
+Higgsfield, but I'm going to use it here
+because it's a really easy way to
+
+890
+00:12:10,070 --> 00:12:10,080
+because it's a really easy way to
+ 
+
+891
+00:12:10,080 --> 00:12:11,230
+because it's a really easy way to
+actually generate some incredible
+
+892
+00:12:11,230 --> 00:12:11,240
+actually generate some incredible
+ 
+
+893
+00:12:11,240 --> 00:12:12,670
+actually generate some incredible
+images. So you're going to go to image
+
+894
+00:12:12,670 --> 00:12:12,680
+images. So you're going to go to image
+ 
+
+895
+00:12:12,680 --> 00:12:14,910
+images. So you're going to go to image
+higgsfield.ai. Great. You're going to
+
+896
+00:12:14,910 --> 00:12:14,920
+higgsfield.ai. Great. You're going to
+ 
+
+897
+00:12:14,920 --> 00:12:16,630
+higgsfield.ai. Great. You're going to
+sign in and or create an account. So
+
+898
+00:12:16,630 --> 00:12:16,640
+sign in and or create an account. So
+ 
+
+899
+00:12:16,640 --> 00:12:17,710
+sign in and or create an account. So
+let's get rid of this guy real quick.
+
+900
+00:12:17,710 --> 00:12:17,720
+let's get rid of this guy real quick.
+ 
+
+901
+00:12:17,720 --> 00:12:19,070
+let's get rid of this guy real quick.
+Come over and log in. Continue with
+
+902
+00:12:19,070 --> 00:12:19,080
+Come over and log in. Continue with
+ 
+
+903
+00:12:19,080 --> 00:12:20,870
+Come over and log in. Continue with
+Google. Wonderful. And so now we've got
+
+904
+00:12:20,870 --> 00:12:20,880
+Google. Wonderful. And so now we've got
+ 
+
+905
+00:12:20,880 --> 00:12:22,550
+Google. Wonderful. And so now we've got
+three prompts. Yours will look exactly
+
+906
+00:12:22,550 --> 00:12:22,560
+three prompts. Yours will look exactly
+ 
+
+907
+00:12:22,560 --> 00:12:23,829
+three prompts. Yours will look exactly
+like this cuz you've got the code. We've
+
+908
+00:12:23,829 --> 00:12:23,839
+like this cuz you've got the code. We've
+ 
+
+909
+00:12:23,839 --> 00:12:25,110
+like this cuz you've got the code. We've
+got the dirty pool. We've got the
+
+910
+00:12:25,110 --> 00:12:25,120
+got the dirty pool. We've got the
+ 
+
+911
+00:12:25,120 --> 00:12:26,630
+got the dirty pool. We've got the
+crystal clean pool and then the video
+
+912
+00:12:26,630 --> 00:12:26,640
+crystal clean pool and then the video
+ 
+
+913
+00:12:26,640 --> 00:12:28,310
+crystal clean pool and then the video
+transition. So, let's grab the dirty
+
+914
+00:12:28,310 --> 00:12:28,320
+transition. So, let's grab the dirty
+ 
+
+915
+00:12:28,320 --> 00:12:30,390
+transition. So, let's grab the dirty
+pool. Click on copy and cast. You know,
+
+916
+00:12:30,390 --> 00:12:30,400
+pool. Click on copy and cast. You know,
+ 
+
+917
+00:12:30,400 --> 00:12:32,110
+pool. Click on copy and cast. You know,
+I'm a sucker for my confetti, but we
+
+918
+00:12:32,110 --> 00:12:32,120
+I'm a sucker for my confetti, but we
+ 
+
+919
+00:12:32,120 --> 00:12:33,510
+I'm a sucker for my confetti, but we
+grab that. Now, let's head over to
+
+920
+00:12:33,510 --> 00:12:33,520
+grab that. Now, let's head over to
+ 
+
+921
+00:12:33,520 --> 00:12:34,950
+grab that. Now, let's head over to
+Higgsfield. Then, guys, you'll click on
+
+922
+00:12:34,950 --> 00:12:34,960
+Higgsfield. Then, guys, you'll click on
+ 
+
+923
+00:12:34,960 --> 00:12:36,790
+Higgsfield. Then, guys, you'll click on
+images over here on the left-hand side
+
+924
+00:12:36,790 --> 00:12:36,800
+images over here on the left-hand side
+ 
+
+925
+00:12:36,800 --> 00:12:38,110
+images over here on the left-hand side
+and click on create an image and you'll
+
+926
+00:12:38,110 --> 00:12:38,120
+and click on create an image and you'll
+ 
+
+927
+00:12:38,120 --> 00:12:40,030
+and click on create an image and you'll
+be here. Now, I've done all of the work
+
+928
+00:12:40,030 --> 00:12:40,040
+be here. Now, I've done all of the work
+ 
+
+929
+00:12:40,040 --> 00:12:41,829
+be here. Now, I've done all of the work
+for you in terms of what you actually
+
+930
+00:12:41,829 --> 00:12:41,839
+for you in terms of what you actually
+ 
+
+931
+00:12:41,839 --> 00:12:43,390
+for you in terms of what you actually
+need cuz we want a white background. So
+
+932
+00:12:43,390 --> 00:12:43,400
+need cuz we want a white background. So
+ 
+
+933
+00:12:43,400 --> 00:12:45,350
+need cuz we want a white background. So
+we're coming we're going to drop in the
+
+934
+00:12:45,350 --> 00:12:45,360
+we're coming we're going to drop in the
+ 
+
+935
+00:12:45,360 --> 00:12:47,710
+we're coming we're going to drop in the
+prompt like so, which is fantastic. Now,
+
+936
+00:12:47,710 --> 00:12:47,720
+prompt like so, which is fantastic. Now,
+ 
+
+937
+00:12:47,720 --> 00:12:50,470
+prompt like so, which is fantastic. Now,
+dimensions. Make sure that you are at 16
+
+938
+00:12:50,470 --> 00:12:50,480
+dimensions. Make sure that you are at 16
+ 
+
+939
+00:12:50,480 --> 00:12:52,670
+dimensions. Make sure that you are at 16
+by 9. Quality control, we want it to be
+
+940
+00:12:52,670 --> 00:12:52,680
+by 9. Quality control, we want it to be
+ 
+
+941
+00:12:52,680 --> 00:12:54,070
+by 9. Quality control, we want it to be
+2K. And then the model is going to be
+
+942
+00:12:54,070 --> 00:12:54,080
+2K. And then the model is going to be
+ 
+
+943
+00:12:54,080 --> 00:12:56,630
+2K. And then the model is going to be
+Nano Banana 2, which is fantastic. And
+
+944
+00:12:56,630 --> 00:12:56,640
+Nano Banana 2, which is fantastic. And
+ 
+
+945
+00:12:56,640 --> 00:12:57,430
+Nano Banana 2, which is fantastic. And
+again, just make sure we've got the
+
+946
+00:12:57,430 --> 00:12:57,440
+again, just make sure we've got the
+ 
+
+947
+00:12:57,440 --> 00:12:58,710
+again, just make sure we've got the
+right dimensions on there. Make sure the
+
+948
+00:12:58,710 --> 00:12:58,720
+right dimensions on there. Make sure the
+ 
+
+949
+00:12:58,720 --> 00:13:00,190
+right dimensions on there. Make sure the
+right quality control is 2K. And then
+
+950
+00:13:00,190 --> 00:13:00,200
+right quality control is 2K. And then
+ 
+
+951
+00:13:00,200 --> 00:13:01,990
+right quality control is 2K. And then
+literally, we want four generations so
+
+952
+00:13:01,990 --> 00:13:02,000
+literally, we want four generations so
+ 
+
+953
+00:13:02,000 --> 00:13:04,670
+literally, we want four generations so
+we can pick the perfect dirty, neglected
+
+954
+00:13:04,670 --> 00:13:04,680
+we can pick the perfect dirty, neglected
+ 
+
+955
+00:13:04,680 --> 00:13:05,990
+we can pick the perfect dirty, neglected
+pool. Come over and then click on
+
+956
+00:13:05,990 --> 00:13:06,000
+pool. Come over and then click on
+ 
+
+957
+00:13:06,000 --> 00:13:07,510
+pool. Come over and then click on
+generate. Wonderful. So now we've got
+
+958
+00:13:07,510 --> 00:13:07,520
+generate. Wonderful. So now we've got
+ 
+
+959
+00:13:07,520 --> 00:13:09,910
+generate. Wonderful. So now we've got
+some dirty pools. Oh my gosh, guys, look
+
+960
+00:13:09,910 --> 00:13:09,920
+some dirty pools. Oh my gosh, guys, look
+ 
+
+961
+00:13:09,920 --> 00:13:11,550
+some dirty pools. Oh my gosh, guys, look
+at this. Are you Are you thirsty? You
+
+962
+00:13:11,550 --> 00:13:11,560
+at this. Are you Are you thirsty? You
+ 
+
+963
+00:13:11,560 --> 00:13:13,110
+at this. Are you Are you thirsty? You
+thirsty for some pools right now? So you
+
+964
+00:13:13,110 --> 00:13:13,120
+thirsty for some pools right now? So you
+ 
+
+965
+00:13:13,120 --> 00:13:14,070
+thirsty for some pools right now? So you
+can pick the one that you want to. I
+
+966
+00:13:14,070 --> 00:13:14,080
+can pick the one that you want to. I
+ 
+
+967
+00:13:14,080 --> 00:13:15,710
+can pick the one that you want to. I
+always recommend at this stage spa that
+
+968
+00:13:15,710 --> 00:13:15,720
+always recommend at this stage spa that
+ 
+
+969
+00:13:15,720 --> 00:13:16,910
+always recommend at this stage spa that
+little bit. Find one that you like. You
+
+970
+00:13:16,910 --> 00:13:16,920
+little bit. Find one that you like. You
+ 
+
+971
+00:13:16,920 --> 00:13:18,310
+little bit. Find one that you like. You
+want little bits in there. Do you want
+
+972
+00:13:18,310 --> 00:13:18,320
+want little bits in there. Do you want
+ 
+
+973
+00:13:18,320 --> 00:13:20,390
+want little bits in there. Do you want
+those a giraffe in the last video? I
+
+974
+00:13:20,390 --> 00:13:20,400
+those a giraffe in the last video? I
+ 
+
+975
+00:13:20,400 --> 00:13:21,470
+those a giraffe in the last video? I
+don't know if my edits can pull that up
+
+976
+00:13:21,470 --> 00:13:21,480
+don't know if my edits can pull that up
+ 
+
+977
+00:13:21,480 --> 00:13:22,870
+don't know if my edits can pull that up
+right now. They disappeared in the any
+
+978
+00:13:22,870 --> 00:13:22,880
+right now. They disappeared in the any
+ 
+
+979
+00:13:22,880 --> 00:13:24,110
+right now. They disappeared in the any
+van. So if you want to add a giraffe in
+
+980
+00:13:24,110 --> 00:13:24,120
+van. So if you want to add a giraffe in
+ 
+
+981
+00:13:24,120 --> 00:13:25,750
+van. So if you want to add a giraffe in
+here, we can make anything happen. So
+
+982
+00:13:25,750 --> 00:13:25,760
+here, we can make anything happen. So
+ 
+
+983
+00:13:25,760 --> 00:13:27,550
+here, we can make anything happen. So
+very, very crazy. Let's pick one that
+
+984
+00:13:27,550 --> 00:13:27,560
+very, very crazy. Let's pick one that
+ 
+
+985
+00:13:27,560 --> 00:13:29,829
+very, very crazy. Let's pick one that
+looks really dirty. Maybe we go for
+
+986
+00:13:29,829 --> 00:13:29,839
+looks really dirty. Maybe we go for
+ 
+
+987
+00:13:29,839 --> 00:13:31,030
+looks really dirty. Maybe we go for
+Yeah, let's go for this one here. This
+
+988
+00:13:31,030 --> 00:13:31,040
+Yeah, let's go for this one here. This
+ 
+
+989
+00:13:31,040 --> 00:13:32,590
+Yeah, let's go for this one here. This
+is particularly
+
+990
+00:13:32,590 --> 00:13:32,600
+is particularly
+ 
+
+991
+00:13:32,600 --> 00:13:34,230
+is particularly
+um pungent and doesn't look very nice.
+
+992
+00:13:34,230 --> 00:13:34,240
+um pungent and doesn't look very nice.
+ 
+
+993
+00:13:34,240 --> 00:13:35,870
+um pungent and doesn't look very nice.
+Click on reference. And all we're going
+
+994
+00:13:35,870 --> 00:13:35,880
+Click on reference. And all we're going
+ 
+
+995
+00:13:35,880 --> 00:13:37,310
+Click on reference. And all we're going
+to do now is pretty much delete this
+
+996
+00:13:37,310 --> 00:13:37,320
+to do now is pretty much delete this
+ 
+
+997
+00:13:37,320 --> 00:13:39,350
+to do now is pretty much delete this
+prompt like so and get rid of this guy.
+
+998
+00:13:39,350 --> 00:13:39,360
+prompt like so and get rid of this guy.
+ 
+
+999
+00:13:39,360 --> 00:13:40,870
+prompt like so and get rid of this guy.
+And then we come back over to our
+
+1000
+00:13:40,870 --> 00:13:40,880
+And then we come back over to our
+ 
+
+1001
+00:13:40,880 --> 00:13:42,430
+And then we come back over to our
+document here. On the crystal clean pool
+
+1002
+00:13:42,430 --> 00:13:42,440
+document here. On the crystal clean pool
+ 
+
+1003
+00:13:42,440 --> 00:13:43,630
+document here. On the crystal clean pool
+one, we're just going to copy it. Then
+
+1004
+00:13:43,630 --> 00:13:43,640
+one, we're just going to copy it. Then
+ 
+
+1005
+00:13:43,640 --> 00:13:45,510
+one, we're just going to copy it. Then
+come straight back over and paste it in.
+
+1006
+00:13:45,510 --> 00:13:45,520
+come straight back over and paste it in.
+ 
+
+1007
+00:13:45,520 --> 00:13:46,829
+come straight back over and paste it in.
+And one thing you'll notice is that the
+
+1008
+00:13:46,829 --> 00:13:46,839
+And one thing you'll notice is that the
+ 
+
+1009
+00:13:46,839 --> 00:13:48,790
+And one thing you'll notice is that the
+outskirts are white. This is so that it
+
+1010
+00:13:48,790 --> 00:13:48,800
+outskirts are white. This is so that it
+ 
+
+1011
+00:13:48,800 --> 00:13:50,750
+outskirts are white. This is so that it
+will blend perfectly into your website.
+
+1012
+00:13:50,750 --> 00:13:50,760
+will blend perfectly into your website.
+ 
+
+1013
+00:13:50,760 --> 00:13:52,829
+will blend perfectly into your website.
+One option you have got, if you want, I
+
+1014
+00:13:52,829 --> 00:13:52,839
+One option you have got, if you want, I
+ 
+
+1015
+00:13:52,839 --> 00:13:53,990
+One option you have got, if you want, I
+want to throw out there so you're aware
+
+1016
+00:13:53,990 --> 00:13:54,000
+want to throw out there so you're aware
+ 
+
+1017
+00:13:54,000 --> 00:13:55,910
+want to throw out there so you're aware
+of it, is you can go more detail like
+
+1018
+00:13:55,910 --> 00:13:55,920
+of it, is you can go more detail like
+ 
+
+1019
+00:13:55,920 --> 00:13:57,070
+of it, is you can go more detail like
+this. Like you see how this one, for
+
+1020
+00:13:57,070 --> 00:13:57,080
+this. Like you see how this one, for
+ 
+
+1021
+00:13:57,080 --> 00:13:59,870
+this. Like you see how this one, for
+example, looks really freaking bad. Like
+
+1022
+00:13:59,870 --> 00:13:59,880
+example, looks really freaking bad. Like
+ 
+
+1023
+00:13:59,880 --> 00:14:02,430
+example, looks really freaking bad. Like
+look at that, how terrible that looks.
+
+1024
+00:14:02,430 --> 00:14:02,440
+look at that, how terrible that looks.
+ 
+
+1025
+00:14:02,440 --> 00:14:04,070
+look at that, how terrible that looks.
+So we can play around with that if you
+
+1026
+00:14:04,070 --> 00:14:04,080
+So we can play around with that if you
+ 
+
+1027
+00:14:04,080 --> 00:14:05,230
+So we can play around with that if you
+want to so that it's kind of a little
+
+1028
+00:14:05,230 --> 00:14:05,240
+want to so that it's kind of a little
+ 
+
+1029
+00:14:05,240 --> 00:14:06,870
+want to so that it's kind of a little
+bit more integrated. But you get the
+
+1030
+00:14:06,870 --> 00:14:06,880
+bit more integrated. But you get the
+ 
+
+1031
+00:14:06,880 --> 00:14:08,710
+bit more integrated. But you get the
+idea. It's essentially how well do you
+
+1032
+00:14:08,710 --> 00:14:08,720
+idea. It's essentially how well do you
+ 
+
+1033
+00:14:08,720 --> 00:14:10,190
+idea. It's essentially how well do you
+want it to integrate into the website?
+
+1034
+00:14:10,190 --> 00:14:10,200
+want it to integrate into the website?
+ 
+
+1035
+00:14:10,200 --> 00:14:11,190
+want it to integrate into the website?
+But you can play around with that and
+
+1036
+00:14:11,190 --> 00:14:11,200
+But you can play around with that and
+ 
+
+1037
+00:14:11,200 --> 00:14:12,790
+But you can play around with that and
+get it so it's absolutely like really
+
+1038
+00:14:12,790 --> 00:14:12,800
+get it so it's absolutely like really
+ 
+
+1039
+00:14:12,800 --> 00:14:14,270
+get it so it's absolutely like really
+filthy. So you could, for example, come
+
+1040
+00:14:14,270 --> 00:14:14,280
+filthy. So you could, for example, come
+ 
+
+1041
+00:14:14,280 --> 00:14:15,750
+filthy. So you could, for example, come
+down here and click on reference. And we
+
+1042
+00:14:15,750 --> 00:14:15,760
+down here and click on reference. And we
+ 
+
+1043
+00:14:15,760 --> 00:14:18,270
+down here and click on reference. And we
+could say something like let's just make
+
+1044
+00:14:18,270 --> 00:14:18,280
+could say something like let's just make
+ 
+
+1045
+00:14:18,280 --> 00:14:19,510
+could say something like let's just make
+sure that it's a full white border and
+
+1046
+00:14:19,510 --> 00:14:19,520
+sure that it's a full white border and
+ 
+
+1047
+00:14:19,520 --> 00:14:20,750
+sure that it's a full white border and
+cut off the stuff at the bottom. And
+
+1048
+00:14:20,750 --> 00:14:20,760
+cut off the stuff at the bottom. And
+ 
+
+1049
+00:14:20,760 --> 00:14:21,949
+cut off the stuff at the bottom. And
+then you effectively, once you've given
+
+1050
+00:14:21,949 --> 00:14:21,959
+then you effectively, once you've given
+ 
+
+1051
+00:14:21,959 --> 00:14:23,150
+then you effectively, once you've given
+it some feedback, you get two that you
+
+1052
+00:14:23,150 --> 00:14:23,160
+it some feedback, you get two that you
+ 
+
+1053
+00:14:23,160 --> 00:14:25,230
+it some feedback, you get two that you
+really like. So I really like this one
+
+1054
+00:14:25,230 --> 00:14:25,240
+really like. So I really like this one
+ 
+
+1055
+00:14:25,240 --> 00:14:28,150
+really like. So I really like this one
+here. So this one is so freaking bad,
+
+1056
+00:14:28,150 --> 00:14:28,160
+here. So this one is so freaking bad,
+ 
+
+1057
+00:14:28,160 --> 00:14:29,870
+here. So this one is so freaking bad,
+man. Is this what the average pool owner
+
+1058
+00:14:29,870 --> 00:14:29,880
+man. Is this what the average pool owner
+ 
+
+1059
+00:14:29,880 --> 00:14:31,590
+man. Is this what the average pool owner
+in Texas looks like? Maybe you Texans
+
+1060
+00:14:31,590 --> 00:14:31,600
+in Texas looks like? Maybe you Texans
+ 
+
+1061
+00:14:31,600 --> 00:14:32,710
+in Texas looks like? Maybe you Texans
+can let me know. I'd love to come out
+
+1062
+00:14:32,710 --> 00:14:32,720
+can let me know. I'd love to come out
+ 
+
+1063
+00:14:32,720 --> 00:14:33,990
+can let me know. I'd love to come out
+there one day. Maybe live. I think it'd
+
+1064
+00:14:33,990 --> 00:14:34,000
+there one day. Maybe live. I think it'd
+ 
+
+1065
+00:14:34,000 --> 00:14:35,190
+there one day. Maybe live. I think it'd
+be cool. And then this is the free
+
+1066
+00:14:35,190 --> 00:14:35,200
+be cool. And then this is the free
+ 
+
+1067
+00:14:35,200 --> 00:14:37,430
+be cool. And then this is the free
+version. Cool. The clean. This is after
+
+1068
+00:14:37,430 --> 00:14:37,440
+version. Cool. The clean. This is after
+ 
+
+1069
+00:14:37,440 --> 00:14:39,390
+version. Cool. The clean. This is after
+Diamond Pool Clean Services rock up.
+
+1070
+00:14:39,390 --> 00:14:39,400
+Diamond Pool Clean Services rock up.
+ 
+
+1071
+00:14:39,400 --> 00:14:41,470
+Diamond Pool Clean Services rock up.
+This is just what we do. This is how we
+
+1072
+00:14:41,470 --> 00:14:41,480
+This is just what we do. This is how we
+ 
+
+1073
+00:14:41,480 --> 00:14:43,430
+This is just what we do. This is how we
+roll. That's what kind of experience we
+
+1074
+00:14:43,430 --> 00:14:43,440
+roll. That's what kind of experience we
+ 
+
+1075
+00:14:43,440 --> 00:14:44,710
+roll. That's what kind of experience we
+sell. What we're going to do now is
+
+1076
+00:14:44,710 --> 00:14:44,720
+sell. What we're going to do now is
+ 
+
+1077
+00:14:44,720 --> 00:14:45,990
+sell. What we're going to do now is
+download this one here. Let's get this
+
+1078
+00:14:45,990 --> 00:14:46,000
+download this one here. Let's get this
+ 
+
+1079
+00:14:46,000 --> 00:14:47,390
+download this one here. Let's get this
+one downloaded onto the computer. And
+
+1080
+00:14:47,390 --> 00:14:47,400
+one downloaded onto the computer. And
+ 
+
+1081
+00:14:47,400 --> 00:14:48,390
+one downloaded onto the computer. And
+then we're also going to go ahead and
+
+1082
+00:14:48,390 --> 00:14:48,400
+then we're also going to go ahead and
+ 
+
+1083
+00:14:48,400 --> 00:14:50,310
+then we're also going to go ahead and
+download this guy right here. Fantastic.
+
+1084
+00:14:50,310 --> 00:14:50,320
+download this guy right here. Fantastic.
+ 
+
+1085
+00:14:50,320 --> 00:14:51,670
+download this guy right here. Fantastic.
+Then we're going to head over on the
+
+1086
+00:14:51,670 --> 00:14:51,680
+Then we're going to head over on the
+ 
+
+1087
+00:14:51,680 --> 00:14:53,750
+Then we're going to head over on the
+left-hand side onto video like so and
+
+1088
+00:14:53,750 --> 00:14:53,760
+left-hand side onto video like so and
+ 
+
+1089
+00:14:53,760 --> 00:14:55,230
+left-hand side onto video like so and
+click on create a video. And then all
+
+1090
+00:14:55,230 --> 00:14:55,240
+click on create a video. And then all
+ 
+
+1091
+00:14:55,240 --> 00:14:56,190
+click on create a video. And then all
+we're going to do, guys, is have your
+
+1092
+00:14:56,190 --> 00:14:56,200
+we're going to do, guys, is have your
+ 
+
+1093
+00:14:56,200 --> 00:14:57,270
+we're going to do, guys, is have your
+start frame and you're just going to
+
+1094
+00:14:57,270 --> 00:14:57,280
+start frame and you're just going to
+ 
+
+1095
+00:14:57,280 --> 00:14:59,510
+start frame and you're just going to
+basically click on that image. So now
+
+1096
+00:14:59,510 --> 00:14:59,520
+basically click on that image. So now
+ 
+
+1097
+00:14:59,520 --> 00:15:01,510
+basically click on that image. So now
+we've got our before photo and then
+
+1098
+00:15:01,510 --> 00:15:01,520
+we've got our before photo and then
+ 
+
+1099
+00:15:01,520 --> 00:15:03,430
+we've got our before photo and then
+we're going to have afterwards our after
+
+1100
+00:15:03,430 --> 00:15:03,440
+we're going to have afterwards our after
+ 
+
+1101
+00:15:03,440 --> 00:15:04,990
+we're going to have afterwards our after
+photo of a beautiful pool. Then we're
+
+1102
+00:15:04,990 --> 00:15:05,000
+photo of a beautiful pool. Then we're
+ 
+
+1103
+00:15:05,000 --> 00:15:06,470
+photo of a beautiful pool. Then we're
+going to go ahead and grab a prompt from
+
+1104
+00:15:06,470 --> 00:15:06,480
+going to go ahead and grab a prompt from
+ 
+
+1105
+00:15:06,480 --> 00:15:08,030
+going to go ahead and grab a prompt from
+our AI, which is over here in video
+
+1106
+00:15:08,030 --> 00:15:08,040
+our AI, which is over here in video
+ 
+
+1107
+00:15:08,040 --> 00:15:09,710
+our AI, which is over here in video
+transition. Just copy this bad boy. Come
+
+1108
+00:15:09,710 --> 00:15:09,720
+transition. Just copy this bad boy. Come
+ 
+
+1109
+00:15:09,720 --> 00:15:10,750
+transition. Just copy this bad boy. Come
+back over and then we're going to fit
+
+1110
+00:15:10,750 --> 00:15:10,760
+back over and then we're going to fit
+ 
+
+1111
+00:15:10,760 --> 00:15:13,390
+back over and then we're going to fit
+that into the model like so. Fantastic.
+
+1112
+00:15:13,390 --> 00:15:13,400
+that into the model like so. Fantastic.
+ 
+
+1113
+00:15:13,400 --> 00:15:14,870
+that into the model like so. Fantastic.
+And then you can specify everything you
+
+1114
+00:15:14,870 --> 00:15:14,880
+And then you can specify everything you
+ 
+
+1115
+00:15:14,880 --> 00:15:17,030
+And then you can specify everything you
+want to down here. Quality, 5 seconds I
+
+1116
+00:15:17,030 --> 00:15:17,040
+want to down here. Quality, 5 seconds I
+ 
+
+1117
+00:15:17,040 --> 00:15:18,630
+want to down here. Quality, 5 seconds I
+think it's going to be fine for this. We
+
+1118
+00:15:18,630 --> 00:15:18,640
+think it's going to be fine for this. We
+ 
+
+1119
+00:15:18,640 --> 00:15:20,630
+think it's going to be fine for this. We
+don't need the audio in this instance
+
+1120
+00:15:20,630 --> 00:15:20,640
+don't need the audio in this instance
+ 
+
+1121
+00:15:20,640 --> 00:15:21,910
+don't need the audio in this instance
+cuz it's not really relevant. And then
+
+1122
+00:15:21,910 --> 00:15:21,920
+cuz it's not really relevant. And then
+ 
+
+1123
+00:15:21,920 --> 00:15:23,310
+cuz it's not really relevant. And then
+we want to do multi-shot shouldn't be
+
+1124
+00:15:23,310 --> 00:15:23,320
+we want to do multi-shot shouldn't be
+ 
+
+1125
+00:15:23,320 --> 00:15:24,630
+we want to do multi-shot shouldn't be
+okay. Depends like, you know, you can
+
+1126
+00:15:24,630 --> 00:15:24,640
+okay. Depends like, you know, you can
+ 
+
+1127
+00:15:24,640 --> 00:15:25,949
+okay. Depends like, you know, you can
+play around a little bit. Usually I find
+
+1128
+00:15:25,949 --> 00:15:25,959
+play around a little bit. Usually I find
+ 
+
+1129
+00:15:25,959 --> 00:15:27,829
+play around a little bit. Usually I find
+it's quite okay, but you can experiment.
+
+1130
+00:15:27,829 --> 00:15:27,839
+it's quite okay, but you can experiment.
+ 
+
+1131
+00:15:27,839 --> 00:15:28,949
+it's quite okay, but you can experiment.
+And then click on generate. Now as you
+
+1132
+00:15:28,949 --> 00:15:28,959
+And then click on generate. Now as you
+ 
+
+1133
+00:15:28,959 --> 00:15:30,670
+And then click on generate. Now as you
+can see the one from before, this was
+
+1134
+00:15:30,670 --> 00:15:30,680
+can see the one from before, this was
+ 
+
+1135
+00:15:30,680 --> 00:15:32,350
+can see the one from before, this was
+the any van one with the giraffe. There
+
+1136
+00:15:32,350 --> 00:15:32,360
+the any van one with the giraffe. There
+ 
+
+1137
+00:15:32,360 --> 00:15:34,190
+the any van one with the giraffe. There
+he is. People say he disappeared. I
+
+1138
+00:15:34,190 --> 00:15:34,200
+he is. People say he disappeared. I
+ 
+
+1139
+00:15:34,200 --> 00:15:35,590
+he is. People say he disappeared. I
+actually think he just went into the van
+
+1140
+00:15:35,590 --> 00:15:35,600
+actually think he just went into the van
+ 
+
+1141
+00:15:35,600 --> 00:15:37,110
+actually think he just went into the van
+for a little bit of relaxing, guys. I
+
+1142
+00:15:37,110 --> 00:15:37,120
+for a little bit of relaxing, guys. I
+ 
+
+1143
+00:15:37,120 --> 00:15:38,190
+for a little bit of relaxing, guys. I
+think people are too harsh on that
+
+1144
+00:15:38,190 --> 00:15:38,200
+think people are too harsh on that
+ 
+
+1145
+00:15:38,200 --> 00:15:39,949
+think people are too harsh on that
+giraffe. He likes to hang out, chill
+
+1146
+00:15:39,949 --> 00:15:39,959
+giraffe. He likes to hang out, chill
+ 
+
+1147
+00:15:39,959 --> 00:15:41,110
+giraffe. He likes to hang out, chill
+out, and do what he likes to do.
+
+1148
+00:15:41,110 --> 00:15:41,120
+out, and do what he likes to do.
+ 
+
+1149
+00:15:41,120 --> 00:15:42,310
+out, and do what he likes to do.
+Wonderful. So now we have the whole
+
+1150
+00:15:42,310 --> 00:15:42,320
+Wonderful. So now we have the whole
+ 
+
+1151
+00:15:42,320 --> 00:15:43,670
+Wonderful. So now we have the whole
+image, which is decent. So let's go
+
+1152
+00:15:43,670 --> 00:15:43,680
+image, which is decent. So let's go
+ 
+
+1153
+00:15:43,680 --> 00:15:45,270
+image, which is decent. So let's go
+ahead and hit play and see what that one
+
+1154
+00:15:45,270 --> 00:15:45,280
+ahead and hit play and see what that one
+ 
+
+1155
+00:15:45,280 --> 00:15:46,670
+ahead and hit play and see what that one
+looks like. Just like that. All
+
+1156
+00:15:46,670 --> 00:15:46,680
+looks like. Just like that. All
+ 
+
+1157
+00:15:46,680 --> 00:15:47,829
+looks like. Just like that. All
+beautiful clean. That's the kind of
+
+1158
+00:15:47,829 --> 00:15:47,839
+beautiful clean. That's the kind of
+ 
+
+1159
+00:15:47,839 --> 00:15:49,069
+beautiful clean. That's the kind of
+effect that we have. And of course, you
+
+1160
+00:15:49,069 --> 00:15:49,079
+effect that we have. And of course, you
+ 
+
+1161
+00:15:49,079 --> 00:15:50,190
+effect that we have. And of course, you
+can play around with this as much as you
+
+1162
+00:15:50,190 --> 00:15:50,200
+can play around with this as much as you
+ 
+
+1163
+00:15:50,200 --> 00:15:52,430
+can play around with this as much as you
+want to. You can just say, for example,
+
+1164
+00:15:52,430 --> 00:15:52,440
+want to. You can just say, for example,
+ 
+
+1165
+00:15:52,440 --> 00:15:54,350
+want to. You can just say, for example,
+create a beautiful, seamless transition
+
+1166
+00:15:54,350 --> 00:15:54,360
+create a beautiful, seamless transition
+ 
+
+1167
+00:15:54,360 --> 00:15:56,190
+create a beautiful, seamless transition
+between the two. Make sure any objects
+
+1168
+00:15:56,190 --> 00:15:56,200
+between the two. Make sure any objects
+ 
+
+1169
+00:15:56,200 --> 00:15:58,470
+between the two. Make sure any objects
+that are extinct do so in a natural way.
+
+1170
+00:15:58,470 --> 00:15:58,480
+that are extinct do so in a natural way.
+ 
+
+1171
+00:15:58,480 --> 00:16:00,190
+that are extinct do so in a natural way.
+Make it a seamless, beautiful
+
+1172
+00:16:00,190 --> 00:16:00,200
+Make it a seamless, beautiful
+ 
+
+1173
+00:16:00,200 --> 00:16:01,829
+Make it a seamless, beautiful
+transition. You can play around with it.
+
+1174
+00:16:01,829 --> 00:16:01,839
+transition. You can play around with it.
+ 
+
+1175
+00:16:01,839 --> 00:16:03,069
+transition. You can play around with it.
+I encourage you to do a few of these
+
+1176
+00:16:03,069 --> 00:16:03,079
+I encourage you to do a few of these
+ 
+
+1177
+00:16:03,079 --> 00:16:04,190
+I encourage you to do a few of these
+just to make sure that you're happy with
+
+1178
+00:16:04,190 --> 00:16:04,200
+just to make sure that you're happy with
+ 
+
+1179
+00:16:04,200 --> 00:16:06,230
+just to make sure that you're happy with
+it. Model Clean 3.0 is fine. You can
+
+1180
+00:16:06,230 --> 00:16:06,240
+it. Model Clean 3.0 is fine. You can
+ 
+
+1181
+00:16:06,240 --> 00:16:07,190
+it. Model Clean 3.0 is fine. You can
+play around with different models. Of
+
+1182
+00:16:07,190 --> 00:16:07,200
+play around with different models. Of
+ 
+
+1183
+00:16:07,200 --> 00:16:08,350
+play around with different models. Of
+course, you can. It's really up to you
+
+1184
+00:16:08,350 --> 00:16:08,360
+course, you can. It's really up to you
+ 
+
+1185
+00:16:08,360 --> 00:16:09,630
+course, you can. It's really up to you
+how you want to play around with it. And
+
+1186
+00:16:09,630 --> 00:16:09,640
+how you want to play around with it. And
+ 
+
+1187
+00:16:09,640 --> 00:16:10,790
+how you want to play around with it. And
+of course, you can up quality if you
+
+1188
+00:16:10,790 --> 00:16:10,800
+of course, you can up quality if you
+ 
+
+1189
+00:16:10,800 --> 00:16:12,150
+of course, you can up quality if you
+want to. It just costs a few more
+
+1190
+00:16:12,150 --> 00:16:12,160
+want to. It just costs a few more
+ 
+
+1191
+00:16:12,160 --> 00:16:13,390
+want to. It just costs a few more
+credits. So we'll try this one with
+
+1192
+00:16:13,390 --> 00:16:13,400
+credits. So we'll try this one with
+ 
+
+1193
+00:16:13,400 --> 00:16:15,190
+credits. So we'll try this one with
+1080p. Cool. And so I've got a new one
+
+1194
+00:16:15,190 --> 00:16:15,200
+1080p. Cool. And so I've got a new one
+ 
+
+1195
+00:16:15,200 --> 00:16:16,870
+1080p. Cool. And so I've got a new one
+here. And guys, I actually I think going
+
+1196
+00:16:16,870 --> 00:16:16,880
+here. And guys, I actually I think going
+ 
+
+1197
+00:16:16,880 --> 00:16:18,750
+here. And guys, I actually I think going
+up a little bit on quality has really
+
+1198
+00:16:18,750 --> 00:16:18,760
+up a little bit on quality has really
+ 
+
+1199
+00:16:18,760 --> 00:16:20,510
+up a little bit on quality has really
+elevated the feel of this and things are
+
+1200
+00:16:20,510 --> 00:16:20,520
+elevated the feel of this and things are
+ 
+
+1201
+00:16:20,520 --> 00:16:21,829
+elevated the feel of this and things are
+just getting swept away. Things are
+
+1202
+00:16:21,829 --> 00:16:21,839
+just getting swept away. Things are
+ 
+
+1203
+00:16:21,839 --> 00:16:23,190
+just getting swept away. Things are
+falling down. I think it looks a little
+
+1204
+00:16:23,190 --> 00:16:23,200
+falling down. I think it looks a little
+ 
+
+1205
+00:16:23,200 --> 00:16:24,470
+falling down. I think it looks a little
+bit better. But play around with it.
+
+1206
+00:16:24,470 --> 00:16:24,480
+bit better. But play around with it.
+ 
+
+1207
+00:16:24,480 --> 00:16:25,750
+bit better. But play around with it.
+Create as many different things as you
+
+1208
+00:16:25,750 --> 00:16:25,760
+Create as many different things as you
+ 
+
+1209
+00:16:25,760 --> 00:16:27,030
+Create as many different things as you
+want to. And when this is answer to
+
+1210
+00:16:27,030 --> 00:16:27,040
+want to. And when this is answer to
+ 
+
+1211
+00:16:27,040 --> 00:16:28,390
+want to. And when this is answer to
+download, we're going to come over here.
+
+1212
+00:16:28,390 --> 00:16:28,400
+download, we're going to come over here.
+ 
+
+1213
+00:16:28,400 --> 00:16:29,550
+download, we're going to come over here.
+We're going to come and grab this guy
+
+1214
+00:16:29,550 --> 00:16:29,560
+We're going to come and grab this guy
+ 
+
+1215
+00:16:29,560 --> 00:16:31,230
+We're going to come and grab this guy
+like so. And just bring it onto our
+
+1216
+00:16:31,230 --> 00:16:31,240
+like so. And just bring it onto our
+ 
+
+1217
+00:16:31,240 --> 00:16:33,030
+like so. And just bring it onto our
+computer, which is fantastic. Then we
+
+1218
+00:16:33,030 --> 00:16:33,040
+computer, which is fantastic. Then we
+ 
+
+1219
+00:16:33,040 --> 00:16:34,870
+computer, which is fantastic. Then we
+head over to antigravity. And then once
+
+1220
+00:16:34,870 --> 00:16:34,880
+head over to antigravity. And then once
+ 
+
+1221
+00:16:34,880 --> 00:16:35,990
+head over to antigravity. And then once
+you've downloaded it, just come over,
+
+1222
+00:16:35,990 --> 00:16:36,000
+you've downloaded it, just come over,
+ 
+
+1223
+00:16:36,000 --> 00:16:38,110
+you've downloaded it, just come over,
+grab the file, drop it straight in, and
+
+1224
+00:16:38,110 --> 00:16:38,120
+grab the file, drop it straight in, and
+ 
+
+1225
+00:16:38,120 --> 00:16:39,350
+grab the file, drop it straight in, and
+then we're going to have a and yap to
+
+1226
+00:16:39,350 --> 00:16:39,360
+then we're going to have a and yap to
+ 
+
+1227
+00:16:39,360 --> 00:16:40,750
+then we're going to have a and yap to
+Claude and just give it the following
+
+1228
+00:16:40,750 --> 00:16:40,760
+Claude and just give it the following
+ 
+
+1229
+00:16:40,760 --> 00:16:42,110
+Claude and just give it the following
+prompt. Hey there, so I have just
+
+1230
+00:16:42,110 --> 00:16:42,120
+prompt. Hey there, so I have just
+ 
+
+1231
+00:16:42,120 --> 00:16:44,590
+prompt. Hey there, so I have just
+downloaded a file, a video, and I would
+
+1232
+00:16:44,590 --> 00:16:44,600
+downloaded a file, a video, and I would
+ 
+
+1233
+00:16:44,600 --> 00:16:47,030
+downloaded a file, a video, and I would
+like this to be at the very top of the
+
+1234
+00:16:47,030 --> 00:16:47,040
+like this to be at the very top of the
+ 
+
+1235
+00:16:47,040 --> 00:16:49,470
+like this to be at the very top of the
+website. Now, I want you to integrate it
+
+1236
+00:16:49,470 --> 00:16:49,480
+website. Now, I want you to integrate it
+ 
+
+1237
+00:16:49,480 --> 00:16:51,470
+website. Now, I want you to integrate it
+in such a way that as I scroll down,
+
+1238
+00:16:51,470 --> 00:16:51,480
+in such a way that as I scroll down,
+ 
+
+1239
+00:16:51,480 --> 00:16:53,390
+in such a way that as I scroll down,
+basically it looks like an animation.
+
+1240
+00:16:53,390 --> 00:16:53,400
+basically it looks like an animation.
+ 
+
+1241
+00:16:53,400 --> 00:16:54,990
+basically it looks like an animation.
+You need to change the top of the
+
+1242
+00:16:54,990 --> 00:16:55,000
+You need to change the top of the
+ 
+
+1243
+00:16:55,000 --> 00:16:57,270
+You need to change the top of the
+website to white and you can use this 3D
+
+1244
+00:16:57,270 --> 00:16:57,280
+website to white and you can use this 3D
+ 
+
+1245
+00:16:57,280 --> 00:16:59,550
+website to white and you can use this 3D
+website builder for best principles in
+
+1246
+00:16:59,550 --> 00:16:59,560
+website builder for best principles in
+ 
+
+1247
+00:16:59,560 --> 00:17:02,030
+website builder for best principles in
+terms of how to integrate this animate
+
+1248
+00:17:02,030 --> 00:17:02,040
+terms of how to integrate this animate
+ 
+
+1249
+00:17:02,040 --> 00:17:04,030
+terms of how to integrate this animate
+this sort of like scroll effect. As I
+
+1250
+00:17:04,030 --> 00:17:04,040
+this sort of like scroll effect. As I
+ 
+
+1251
+00:17:04,040 --> 00:17:05,510
+this sort of like scroll effect. As I
+scroll down the website, the pool gets
+
+1252
+00:17:05,510 --> 00:17:05,520
+scroll down the website, the pool gets
+ 
+
+1253
+00:17:05,520 --> 00:17:07,310
+scroll down the website, the pool gets
+clean, basically. Beautiful. So here we
+
+1254
+00:17:07,310 --> 00:17:07,320
+clean, basically. Beautiful. So here we
+ 
+
+1255
+00:17:07,320 --> 00:17:08,630
+clean, basically. Beautiful. So here we
+go. And by the way, if it doesn't work
+
+1256
+00:17:08,630 --> 00:17:08,640
+go. And by the way, if it doesn't work
+ 
+
+1257
+00:17:08,640 --> 00:17:10,030
+go. And by the way, if it doesn't work
+the first time, just come back and say,
+
+1258
+00:17:10,030 --> 00:17:10,040
+the first time, just come back and say,
+ 
+
+1259
+00:17:10,040 --> 00:17:11,189
+the first time, just come back and say,
+"Hey dude, I want it to be a little bit
+
+1260
+00:17:11,189 --> 00:17:11,199
+"Hey dude, I want it to be a little bit
+ 
+
+1261
+00:17:11,199 --> 00:17:12,710
+"Hey dude, I want it to be a little bit
+slower, a little bit faster." I've added
+
+1262
+00:17:12,710 --> 00:17:12,720
+slower, a little bit faster." I've added
+ 
+
+1263
+00:17:12,720 --> 00:17:14,110
+slower, a little bit faster." I've added
+the best practices in the skill. But
+
+1264
+00:17:14,110 --> 00:17:14,120
+the best practices in the skill. But
+ 
+
+1265
+00:17:14,120 --> 00:17:15,790
+the best practices in the skill. But
+here's Diamond D Pool Services. We
+
+1266
+00:17:15,790 --> 00:17:15,800
+here's Diamond D Pool Services. We
+ 
+
+1267
+00:17:15,800 --> 00:17:17,750
+here's Diamond D Pool Services. We
+scroll down. What do we see? And look at
+
+1268
+00:17:17,750 --> 00:17:17,760
+scroll down. What do we see? And look at
+ 
+
+1269
+00:17:17,760 --> 00:17:19,470
+scroll down. What do we see? And look at
+that. This could be your pool. Get a
+
+1270
+00:17:19,470 --> 00:17:19,480
+that. This could be your pool. Get a
+ 
+
+1271
+00:17:19,480 --> 00:17:21,510
+that. This could be your pool. Get a
+free estimate. How cool is that? That is
+
+1272
+00:17:21,510 --> 00:17:21,520
+free estimate. How cool is that? That is
+ 
+
+1273
+00:17:21,520 --> 00:17:23,350
+free estimate. How cool is that? That is
+so sick. We come down the website. We've
+
+1274
+00:17:23,350 --> 00:17:23,360
+so sick. We come down the website. We've
+ 
+
+1275
+00:17:23,360 --> 00:17:24,710
+so sick. We come down the website. We've
+got everything we had here earlier.
+
+1276
+00:17:24,710 --> 00:17:24,720
+got everything we had here earlier.
+ 
+
+1277
+00:17:24,720 --> 00:17:26,470
+got everything we had here earlier.
+Professional service, maintenance and
+
+1278
+00:17:26,470 --> 00:17:26,480
+Professional service, maintenance and
+ 
+
+1279
+00:17:26,480 --> 00:17:28,550
+Professional service, maintenance and
+repair. Pool care that protects your
+
+1280
+00:17:28,550 --> 00:17:28,560
+repair. Pool care that protects your
+ 
+
+1281
+00:17:28,560 --> 00:17:29,550
+repair. Pool care that protects your
+investment. We go all the way down the
+
+1282
+00:17:29,550 --> 00:17:29,560
+investment. We go all the way down the
+ 
+
+1283
+00:17:29,560 --> 00:17:31,190
+investment. We go all the way down the
+website looking really slick, really
+
+1284
+00:17:31,190 --> 00:17:31,200
+website looking really slick, really
+ 
+
+1285
+00:17:31,200 --> 00:17:32,590
+website looking really slick, really
+decent, and we've got everything that we
+
+1286
+00:17:32,590 --> 00:17:32,600
+decent, and we've got everything that we
+ 
+
+1287
+00:17:32,600 --> 00:17:34,470
+decent, and we've got everything that we
+wanted. Six reasons to trust us. That
+
+1288
+00:17:34,470 --> 00:17:34,480
+wanted. Six reasons to trust us. That
+ 
+
+1289
+00:17:34,480 --> 00:17:36,110
+wanted. Six reasons to trust us. That
+basically scroll thing has disappeared.
+
+1290
+00:17:36,110 --> 00:17:36,120
+basically scroll thing has disappeared.
+ 
+
+1291
+00:17:36,120 --> 00:17:37,950
+basically scroll thing has disappeared.
+We've got the reviews on Facebook.
+
+1292
+00:17:37,950 --> 00:17:37,960
+We've got the reviews on Facebook.
+ 
+
+1293
+00:17:37,960 --> 00:17:39,470
+We've got the reviews on Facebook.
+Everything we do. Free to pool cleaner
+
+1294
+00:17:39,470 --> 00:17:39,480
+Everything we do. Free to pool cleaner
+ 
+
+1295
+00:17:39,480 --> 00:17:41,350
+Everything we do. Free to pool cleaner
+and a contact form at the bottom. And
+
+1296
+00:17:41,350 --> 00:17:41,360
+and a contact form at the bottom. And
+ 
+
+1297
+00:17:41,360 --> 00:17:42,430
+and a contact form at the bottom. And
+then of course, we would just want to
+
+1298
+00:17:42,430 --> 00:17:42,440
+then of course, we would just want to
+ 
+
+1299
+00:17:42,440 --> 00:17:44,230
+then of course, we would just want to
+test the mobile optimization cuz guys, I
+
+1300
+00:17:44,230 --> 00:17:44,240
+test the mobile optimization cuz guys, I
+ 
+
+1301
+00:17:44,240 --> 00:17:45,630
+test the mobile optimization cuz guys, I
+know we love our tablets. I don't know
+
+1302
+00:17:45,630 --> 00:17:45,640
+know we love our tablets. I don't know
+ 
+
+1303
+00:17:45,640 --> 00:17:47,070
+know we love our tablets. I don't know
+who's surfing the web on a tablet in
+
+1304
+00:17:47,070 --> 00:17:47,080
+who's surfing the web on a tablet in
+ 
+
+1305
+00:17:47,080 --> 00:17:49,310
+who's surfing the web on a tablet in
+2026. If that's you, can you let me know
+
+1306
+00:17:49,310 --> 00:17:49,320
+2026. If that's you, can you let me know
+ 
+
+1307
+00:17:49,320 --> 00:17:51,030
+2026. If that's you, can you let me know
+down in the comments? I genuinely I want
+
+1308
+00:17:51,030 --> 00:17:51,040
+down in the comments? I genuinely I want
+ 
+
+1309
+00:17:51,040 --> 00:17:52,590
+down in the comments? I genuinely I want
+to know. But the point is you can see it
+
+1310
+00:17:52,590 --> 00:17:52,600
+to know. But the point is you can see it
+ 
+
+1311
+00:17:52,600 --> 00:17:53,870
+to know. But the point is you can see it
+scales well. Now, the cool thing about
+
+1312
+00:17:53,870 --> 00:17:53,880
+scales well. Now, the cool thing about
+ 
+
+1313
+00:17:53,880 --> 00:17:55,630
+scales well. Now, the cool thing about
+this image is even if you're on a mobile
+
+1314
+00:17:55,630 --> 00:17:55,640
+this image is even if you're on a mobile
+ 
+
+1315
+00:17:55,640 --> 00:17:57,430
+this image is even if you're on a mobile
+or whatever, you can still see the pool
+
+1316
+00:17:57,430 --> 00:17:57,440
+or whatever, you can still see the pool
+ 
+
+1317
+00:17:57,440 --> 00:17:59,190
+or whatever, you can still see the pool
+transforming as you come down. You can
+
+1318
+00:17:59,190 --> 00:17:59,200
+transforming as you come down. You can
+ 
+
+1319
+00:17:59,200 --> 00:18:00,830
+transforming as you come down. You can
+see. Beautiful. This pool could be
+
+1320
+00:18:00,830 --> 00:18:00,840
+see. Beautiful. This pool could be
+ 
+
+1321
+00:18:00,840 --> 00:18:02,030
+see. Beautiful. This pool could be
+yours. You don't actually need the
+
+1322
+00:18:02,030 --> 00:18:02,040
+yours. You don't actually need the
+ 
+
+1323
+00:18:02,040 --> 00:18:03,550
+yours. You don't actually need the
+external context on this, which is why
+
+1324
+00:18:03,550 --> 00:18:03,560
+external context on this, which is why
+ 
+
+1325
+00:18:03,560 --> 00:18:04,710
+external context on this, which is why
+it's great to have an image like this.
+
+1326
+00:18:04,710 --> 00:18:04,720
+it's great to have an image like this.
+ 
+
+1327
+00:18:04,720 --> 00:18:05,910
+it's great to have an image like this.
+So come. And obviously, you can change
+
+1328
+00:18:05,910 --> 00:18:05,920
+So come. And obviously, you can change
+ 
+
+1329
+00:18:05,920 --> 00:18:07,910
+So come. And obviously, you can change
+it. You can even do one for a mobile
+
+1330
+00:18:07,910 --> 00:18:07,920
+it. You can even do one for a mobile
+ 
+
+1331
+00:18:07,920 --> 00:18:09,710
+it. You can even do one for a mobile
+versus a desktop. All you do is repeat
+
+1332
+00:18:09,710 --> 00:18:09,720
+versus a desktop. All you do is repeat
+ 
+
+1333
+00:18:09,720 --> 00:18:11,550
+versus a desktop. All you do is repeat
+the same process, but make it square. Or
+
+1334
+00:18:11,550 --> 00:18:11,560
+the same process, but make it square. Or
+ 
+
+1335
+00:18:11,560 --> 00:18:13,430
+the same process, but make it square. Or
+you could make it long long sort of like
+
+1336
+00:18:13,430 --> 00:18:13,440
+you could make it long long sort of like
+ 
+
+1337
+00:18:13,440 --> 00:18:15,110
+you could make it long long sort of like
+a horizontal if you want to. And it'd be
+
+1338
+00:18:15,110 --> 00:18:15,120
+a horizontal if you want to. And it'd be
+ 
+
+1339
+00:18:15,120 --> 00:18:16,350
+a horizontal if you want to. And it'd be
+the same kind of process. And all you
+
+1340
+00:18:16,350 --> 00:18:16,360
+the same kind of process. And all you
+ 
+
+1341
+00:18:16,360 --> 00:18:17,910
+the same kind of process. And all you
+say to Claude is just change it when it
+
+1342
+00:18:17,910 --> 00:18:17,920
+say to Claude is just change it when it
+ 
+
+1343
+00:18:17,920 --> 00:18:19,470
+say to Claude is just change it when it
+hits a certain breakpoint that is
+
+1344
+00:18:19,470 --> 00:18:19,480
+hits a certain breakpoint that is
+ 
+
+1345
+00:18:19,480 --> 00:18:20,830
+hits a certain breakpoint that is
+reasonable and that'll come down and
+
+1346
+00:18:20,830 --> 00:18:20,840
+reasonable and that'll come down and
+ 
+
+1347
+00:18:20,840 --> 00:18:22,230
+reasonable and that'll come down and
+then work well for you. And this is
+
+1348
+00:18:22,230 --> 00:18:22,240
+then work well for you. And this is
+ 
+
+1349
+00:18:22,240 --> 00:18:24,030
+then work well for you. And this is
+completely mobile optimized, guys. This
+
+1350
+00:18:24,030 --> 00:18:24,040
+completely mobile optimized, guys. This
+ 
+
+1351
+00:18:24,040 --> 00:18:25,950
+completely mobile optimized, guys. This
+is a really gorgeous gorgeous gorgeous
+
+1352
+00:18:25,950 --> 00:18:25,960
+is a really gorgeous gorgeous gorgeous
+ 
+
+1353
+00:18:25,960 --> 00:18:27,950
+is a really gorgeous gorgeous gorgeous
+website that you would be happy to use.
+
+1354
+00:18:27,950 --> 00:18:27,960
+website that you would be happy to use.
+ 
+
+1355
+00:18:27,960 --> 00:18:28,870
+website that you would be happy to use.
+There are a few things we can do in
+
+1356
+00:18:28,870 --> 00:18:28,880
+There are a few things we can do in
+ 
+
+1357
+00:18:28,880 --> 00:18:30,430
+There are a few things we can do in
+terms of functionality, which is decent.
+
+1358
+00:18:30,430 --> 00:18:30,440
+terms of functionality, which is decent.
+ 
+
+1359
+00:18:30,440 --> 00:18:31,710
+terms of functionality, which is decent.
+And to fix that, we're going to use a
+
+1360
+00:18:31,710 --> 00:18:31,720
+And to fix that, we're going to use a
+ 
+
+1361
+00:18:31,720 --> 00:18:33,870
+And to fix that, we're going to use a
+UI/UX pro skill. And to do that, you can
+
+1362
+00:18:33,870 --> 00:18:33,880
+UI/UX pro skill. And to do that, you can
+ 
+
+1363
+00:18:33,880 --> 00:18:35,070
+UI/UX pro skill. And to do that, you can
+go over to this website here. And what
+
+1364
+00:18:35,070 --> 00:18:35,080
+go over to this website here. And what
+ 
+
+1365
+00:18:35,080 --> 00:18:36,390
+go over to this website here. And what
+this effectively is, guys, a lot of
+
+1366
+00:18:36,390 --> 00:18:36,400
+this effectively is, guys, a lot of
+ 
+
+1367
+00:18:36,400 --> 00:18:39,590
+this effectively is, guys, a lot of
+people, okay, that are very big nerds on
+
+1368
+00:18:39,590 --> 00:18:39,600
+people, okay, that are very big nerds on
+ 
+
+1369
+00:18:39,600 --> 00:18:41,550
+people, okay, that are very big nerds on
+UI/UX basically sat together in a room,
+
+1370
+00:18:41,550 --> 00:18:41,560
+UI/UX basically sat together in a room,
+ 
+
+1371
+00:18:41,560 --> 00:18:42,710
+UI/UX basically sat together in a room,
+I believe, and they built this
+
+1372
+00:18:42,710 --> 00:18:42,720
+I believe, and they built this
+ 
+
+1373
+00:18:42,720 --> 00:18:43,950
+I believe, and they built this
+incredible thing out, which basically
+
+1374
+00:18:43,950 --> 00:18:43,960
+incredible thing out, which basically
+ 
+
+1375
+00:18:43,960 --> 00:18:46,790
+incredible thing out, which basically
+tests it for hundreds of minute things,
+
+1376
+00:18:46,790 --> 00:18:46,800
+tests it for hundreds of minute things,
+ 
+
+1377
+00:18:46,800 --> 00:18:49,909
+tests it for hundreds of minute things,
+accessibility, design, SEO, you name it,
+
+1378
+00:18:49,909 --> 00:18:49,919
+accessibility, design, SEO, you name it,
+ 
+
+1379
+00:18:49,919 --> 00:18:51,110
+accessibility, design, SEO, you name it,
+it's in here. So what we're going to do
+
+1380
+00:18:51,110 --> 00:18:51,120
+it's in here. So what we're going to do
+ 
+
+1381
+00:18:51,120 --> 00:18:52,110
+it's in here. So what we're going to do
+now is let you come over. You're going
+
+1382
+00:18:52,110 --> 00:18:52,120
+now is let you come over. You're going
+ 
+
+1383
+00:18:52,120 --> 00:18:53,630
+now is let you come over. You're going
+to copy this code like so. Click on
+
+1384
+00:18:53,630 --> 00:18:53,640
+to copy this code like so. Click on
+ 
+
+1385
+00:18:53,640 --> 00:18:55,870
+to copy this code like so. Click on
+copy. Head back over to antigravity,
+
+1386
+00:18:55,870 --> 00:18:55,880
+copy. Head back over to antigravity,
+ 
+
+1387
+00:18:55,880 --> 00:18:56,990
+copy. Head back over to antigravity,
+which will pull up at the bottom. And
+
+1388
+00:18:56,990 --> 00:18:57,000
+which will pull up at the bottom. And
+ 
+
+1389
+00:18:57,000 --> 00:18:57,950
+which will pull up at the bottom. And
+then effectively, we're going to say the
+
+1390
+00:18:57,950 --> 00:18:57,960
+then effectively, we're going to say the
+ 
+
+1391
+00:18:57,960 --> 00:18:59,710
+then effectively, we're going to say the
+following. Hey there, I'd like you to
+
+1392
+00:18:59,710 --> 00:18:59,720
+following. Hey there, I'd like you to
+ 
+
+1393
+00:18:59,720 --> 00:19:01,630
+following. Hey there, I'd like you to
+download this skill and do a full audit
+
+1394
+00:19:01,630 --> 00:19:01,640
+download this skill and do a full audit
+ 
+
+1395
+00:19:01,640 --> 00:19:03,270
+download this skill and do a full audit
+of this website for me, making sure that
+
+1396
+00:19:03,270 --> 00:19:03,280
+of this website for me, making sure that
+ 
+
+1397
+00:19:03,280 --> 00:19:05,270
+of this website for me, making sure that
+it is fully SEO optimized and it is
+
+1398
+00:19:05,270 --> 00:19:05,280
+it is fully SEO optimized and it is
+ 
+
+1399
+00:19:05,280 --> 00:19:07,110
+it is fully SEO optimized and it is
+fully accessible based on all the
+
+1400
+00:19:07,110 --> 00:19:07,120
+fully accessible based on all the
+ 
+
+1401
+00:19:07,120 --> 00:19:08,990
+fully accessible based on all the
+requirements that are basically
+
+1402
+00:19:08,990 --> 00:19:09,000
+requirements that are basically
+ 
+
+1403
+00:19:09,000 --> 00:19:10,950
+requirements that are basically
+mentioned in this skill installed on the
+
+1404
+00:19:10,950 --> 00:19:10,960
+mentioned in this skill installed on the
+ 
+
+1405
+00:19:10,960 --> 00:19:12,630
+mentioned in this skill installed on the
+left-hand side. And once that's done,
+
+1406
+00:19:12,630 --> 00:19:12,640
+left-hand side. And once that's done,
+ 
+
+1407
+00:19:12,640 --> 00:19:14,030
+left-hand side. And once that's done,
+just give me a cool checklist of
+
+1408
+00:19:14,030 --> 00:19:14,040
+just give me a cool checklist of
+ 
+
+1409
+00:19:14,040 --> 00:19:15,630
+just give me a cool checklist of
+everything you've done and all the
+
+1410
+00:19:15,630 --> 00:19:15,640
+everything you've done and all the
+ 
+
+1411
+00:19:15,640 --> 00:19:16,990
+everything you've done and all the
+changes that you've made. As simple as
+
+1412
+00:19:16,990 --> 00:19:17,000
+changes that you've made. As simple as
+ 
+
+1413
+00:19:17,000 --> 00:19:18,470
+changes that you've made. As simple as
+that. And then drop the URL. Guys, and
+
+1414
+00:19:18,470 --> 00:19:18,480
+that. And then drop the URL. Guys, and
+ 
+
+1415
+00:19:18,480 --> 00:19:20,750
+that. And then drop the URL. Guys, and
+just like that, it's done 15 critical
+
+1416
+00:19:20,750 --> 00:19:20,760
+just like that, it's done 15 critical
+ 
+
+1417
+00:19:20,760 --> 00:19:22,510
+just like that, it's done 15 critical
+accessibility checks. It's done a skip
+
+1418
+00:19:22,510 --> 00:19:22,520
+accessibility checks. It's done a skip
+ 
+
+1419
+00:19:22,520 --> 00:19:24,510
+accessibility checks. It's done a skip
+link. It's got nav bar sorted out. It's
+
+1420
+00:19:24,510 --> 00:19:24,520
+link. It's got nav bar sorted out. It's
+ 
+
+1421
+00:19:24,520 --> 00:19:26,390
+link. It's got nav bar sorted out. It's
+done so many different things. It's done
+
+1422
+00:19:26,390 --> 00:19:26,400
+done so many different things. It's done
+ 
+
+1423
+00:19:26,400 --> 00:19:28,550
+done so many different things. It's done
+eight fixes on SEO, which is fantastic.
+
+1424
+00:19:28,550 --> 00:19:28,560
+eight fixes on SEO, which is fantastic.
+ 
+
+1425
+00:19:28,560 --> 00:19:30,270
+eight fixes on SEO, which is fantastic.
+It's done various different improvements
+
+1426
+00:19:30,270 --> 00:19:30,280
+It's done various different improvements
+ 
+
+1427
+00:19:30,280 --> 00:19:32,190
+It's done various different improvements
+on image dimensions, form and feedback,
+
+1428
+00:19:32,190 --> 00:19:32,200
+on image dimensions, form and feedback,
+ 
+
+1429
+00:19:32,200 --> 00:19:33,750
+on image dimensions, form and feedback,
+you know, touch and interaction. You
+
+1430
+00:19:33,750 --> 00:19:33,760
+you know, touch and interaction. You
+ 
+
+1431
+00:19:33,760 --> 00:19:34,990
+you know, touch and interaction. You
+think about how long it would take you
+
+1432
+00:19:34,990 --> 00:19:35,000
+think about how long it would take you
+ 
+
+1433
+00:19:35,000 --> 00:19:36,830
+think about how long it would take you
+and I sat down going through this stuff.
+
+1434
+00:19:36,830 --> 00:19:36,840
+and I sat down going through this stuff.
+ 
+
+1435
+00:19:36,840 --> 00:19:38,430
+and I sat down going through this stuff.
+This skill's done all that for us, which
+
+1436
+00:19:38,430 --> 00:19:38,440
+This skill's done all that for us, which
+ 
+
+1437
+00:19:38,440 --> 00:19:39,790
+This skill's done all that for us, which
+I think is freaking crazy. It's also
+
+1438
+00:19:39,790 --> 00:19:39,800
+I think is freaking crazy. It's also
+ 
+
+1439
+00:19:39,800 --> 00:19:40,750
+I think is freaking crazy. It's also
+installed the skill on the left-hand
+
+1440
+00:19:40,750 --> 00:19:40,760
+installed the skill on the left-hand
+ 
+
+1441
+00:19:40,760 --> 00:19:42,230
+installed the skill on the left-hand
+side. I always recommend that you just
+
+1442
+00:19:42,230 --> 00:19:42,240
+side. I always recommend that you just
+ 
+
+1443
+00:19:42,240 --> 00:19:43,990
+side. I always recommend that you just
+run this as an audit on whatever website
+
+1444
+00:19:43,990 --> 00:19:44,000
+run this as an audit on whatever website
+ 
+
+1445
+00:19:44,000 --> 00:19:45,190
+run this as an audit on whatever website
+that you're building. So now we have a
+
+1446
+00:19:45,190 --> 00:19:45,200
+that you're building. So now we have a
+ 
+
+1447
+00:19:45,200 --> 00:19:47,149
+that you're building. So now we have a
+beautiful website that is SEO optimized,
+
+1448
+00:19:47,149 --> 00:19:47,159
+beautiful website that is SEO optimized,
+ 
+
+1449
+00:19:47,159 --> 00:19:48,390
+beautiful website that is SEO optimized,
+looks gorgeous, and has a
+
+1450
+00:19:48,390 --> 00:19:48,400
+looks gorgeous, and has a
+ 
+
+1451
+00:19:48,400 --> 00:19:50,070
+looks gorgeous, and has a
+scroll-stopping animation on it. The
+
+1452
+00:19:50,070 --> 00:19:50,080
+scroll-stopping animation on it. The
+ 
+
+1453
+00:19:50,080 --> 00:19:51,790
+scroll-stopping animation on it. The
+next problem we have to solve though is
+
+1454
+00:19:51,790 --> 00:19:51,800
+next problem we have to solve though is
+ 
+
+1455
+00:19:51,800 --> 00:19:53,590
+next problem we have to solve though is
+once we give this to a client, how on
+
+1456
+00:19:53,590 --> 00:19:53,600
+once we give this to a client, how on
+ 
+
+1457
+00:19:53,600 --> 00:19:55,230
+once we give this to a client, how on
+earth do they tell us what they want to
+
+1458
+00:19:55,230 --> 00:19:55,240
+earth do they tell us what they want to
+ 
+
+1459
+00:19:55,240 --> 00:19:56,430
+earth do they tell us what they want to
+change? Maybe they want to change the
+
+1460
+00:19:56,430 --> 00:19:56,440
+change? Maybe they want to change the
+ 
+
+1461
+00:19:56,440 --> 00:19:59,150
+change? Maybe they want to change the
+copy. How do you actually solve that?
+
+1462
+00:19:59,150 --> 00:19:59,160
+copy. How do you actually solve that?
+ 
+
+1463
+00:19:59,160 --> 00:20:00,830
+copy. How do you actually solve that?
+Well, there are actually three ways. Way
+
+1464
+00:20:00,830 --> 00:20:00,840
+Well, there are actually three ways. Way
+ 
+
+1465
+00:20:00,840 --> 00:20:02,470
+Well, there are actually three ways. Way
+number one is they just pay you to do it
+
+1466
+00:20:02,470 --> 00:20:02,480
+number one is they just pay you to do it
+ 
+
+1467
+00:20:02,480 --> 00:20:03,710
+number one is they just pay you to do it
+and you're on a retainer. That is the
+
+1468
+00:20:03,710 --> 00:20:03,720
+and you're on a retainer. That is the
+ 
+
+1469
+00:20:03,720 --> 00:20:06,350
+and you're on a retainer. That is the
+best way. I cover that in my big AI
+
+1470
+00:20:06,350 --> 00:20:06,360
+best way. I cover that in my big AI
+ 
+
+1471
+00:20:06,360 --> 00:20:08,270
+best way. I cover that in my big AI
+website masterclass. The second route is
+
+1472
+00:20:08,270 --> 00:20:08,280
+website masterclass. The second route is
+ 
+
+1473
+00:20:08,280 --> 00:20:10,790
+website masterclass. The second route is
+that you build out a full CMS where they
+
+1474
+00:20:10,790 --> 00:20:10,800
+that you build out a full CMS where they
+ 
+
+1475
+00:20:10,800 --> 00:20:12,750
+that you build out a full CMS where they
+can do changes. Now, that's great cuz I
+
+1476
+00:20:12,750 --> 00:20:12,760
+can do changes. Now, that's great cuz I
+ 
+
+1477
+00:20:12,760 --> 00:20:14,550
+can do changes. Now, that's great cuz I
+have autonomy, but if they do something
+
+1478
+00:20:14,550 --> 00:20:14,560
+have autonomy, but if they do something
+ 
+
+1479
+00:20:14,560 --> 00:20:15,830
+have autonomy, but if they do something
+that breaks the website, that can
+
+1480
+00:20:15,830 --> 00:20:15,840
+that breaks the website, that can
+ 
+
+1481
+00:20:15,840 --> 00:20:17,710
+that breaks the website, that can
+complicate it. And then there's a third
+
+1482
+00:20:17,710 --> 00:20:17,720
+complicate it. And then there's a third
+ 
+
+1483
+00:20:17,720 --> 00:20:19,990
+complicate it. And then there's a third
+option. There's a really interesting
+
+1484
+00:20:19,990 --> 00:20:20,000
+option. There's a really interesting
+ 
+
+1485
+00:20:20,000 --> 00:20:21,790
+option. There's a really interesting
+middle ground makes it easy, but also
+
+1486
+00:20:21,790 --> 00:20:21,800
+middle ground makes it easy, but also
+ 
+
+1487
+00:20:21,800 --> 00:20:23,710
+middle ground makes it easy, but also
+gives them the ability to make changes
+
+1488
+00:20:23,710 --> 00:20:23,720
+gives them the ability to make changes
+ 
+
+1489
+00:20:23,720 --> 00:20:24,750
+gives them the ability to make changes
+through you. So, the way we would do
+
+1490
+00:20:24,750 --> 00:20:24,760
+through you. So, the way we would do
+ 
+
+1491
+00:20:24,760 --> 00:20:26,790
+through you. So, the way we would do
+this is we build them a page in the same
+
+1492
+00:20:26,790 --> 00:20:26,800
+this is we build them a page in the same
+ 
+
+1493
+00:20:26,800 --> 00:20:28,230
+this is we build them a page in the same
+style as our website, which you can do
+
+1494
+00:20:28,230 --> 00:20:28,240
+style as our website, which you can do
+ 
+
+1495
+00:20:28,240 --> 00:20:29,110
+style as our website, which you can do
+with the prompt I'm going to show you in
+
+1496
+00:20:29,110 --> 00:20:29,120
+with the prompt I'm going to show you in
+ 
+
+1497
+00:20:29,120 --> 00:20:30,830
+with the prompt I'm going to show you in
+a second. You can add in their names.
+
+1498
+00:20:30,830 --> 00:20:30,840
+a second. You can add in their names.
+ 
+
+1499
+00:20:30,840 --> 00:20:31,950
+a second. You can add in their names.
+They basically they can fill everything
+
+1500
+00:20:31,950 --> 00:20:31,960
+They basically they can fill everything
+ 
+
+1501
+00:20:31,960 --> 00:20:34,150
+They basically they can fill everything
+out like Diamond D, just like this. They
+
+1502
+00:20:34,150 --> 00:20:34,160
+out like Diamond D, just like this. They
+ 
+
+1503
+00:20:34,160 --> 00:20:35,950
+out like Diamond D, just like this. They
+didn't want a design tweak, a bug issue,
+
+1504
+00:20:35,950 --> 00:20:35,960
+didn't want a design tweak, a bug issue,
+ 
+
+1505
+00:20:35,960 --> 00:20:37,470
+didn't want a design tweak, a bug issue,
+new feature, other. It's a really
+
+1506
+00:20:37,470 --> 00:20:37,480
+new feature, other. It's a really
+ 
+
+1507
+00:20:37,480 --> 00:20:39,510
+new feature, other. It's a really
+gorgeous interactive section. This is so
+
+1508
+00:20:39,510 --> 00:20:39,520
+gorgeous interactive section. This is so
+ 
+
+1509
+00:20:39,520 --> 00:20:40,550
+gorgeous interactive section. This is so
+nice, you could even have this on the
+
+1510
+00:20:40,550 --> 00:20:40,560
+nice, you could even have this on the
+ 
+
+1511
+00:20:40,560 --> 00:20:41,670
+nice, you could even have this on the
+website if you wanted to. Click on
+
+1512
+00:20:41,670 --> 00:20:41,680
+website if you wanted to. Click on
+ 
+
+1513
+00:20:41,680 --> 00:20:43,270
+website if you wanted to. Click on
+about, they could do everything. And
+
+1514
+00:20:43,270 --> 00:20:43,280
+about, they could do everything. And
+ 
+
+1515
+00:20:43,280 --> 00:20:44,990
+about, they could do everything. And
+when that's submitted, that goes through
+
+1516
+00:20:44,990 --> 00:20:45,000
+when that's submitted, that goes through
+ 
+
+1517
+00:20:45,000 --> 00:20:46,910
+when that's submitted, that goes through
+to this on Notion, which is client
+
+1518
+00:20:46,910 --> 00:20:46,920
+to this on Notion, which is client
+ 
+
+1519
+00:20:46,920 --> 00:20:47,910
+to this on Notion, which is client
+requests. And this could just be the
+
+1520
+00:20:47,910 --> 00:20:47,920
+requests. And this could just be the
+ 
+
+1521
+00:20:47,920 --> 00:20:49,950
+requests. And this could just be the
+thing that you check every day. Go
+
+1522
+00:20:49,950 --> 00:20:49,960
+thing that you check every day. Go
+ 
+
+1523
+00:20:49,960 --> 00:20:51,270
+thing that you check every day. Go
+through. What do they want? Don't want
+
+1524
+00:20:51,270 --> 00:20:51,280
+through. What do they want? Don't want
+ 
+
+1525
+00:20:51,280 --> 00:20:53,470
+through. What do they want? Don't want
+X, want Y. And you can give this to
+
+1526
+00:20:53,470 --> 00:20:53,480
+X, want Y. And you can give this to
+ 
+
+1527
+00:20:53,480 --> 00:20:54,510
+X, want Y. And you can give this to
+Claude. You can give this to
+
+1528
+00:20:54,510 --> 00:20:54,520
+Claude. You can give this to
+ 
+
+1529
+00:20:54,520 --> 00:20:56,750
+Claude. You can give this to
+Anti-Gravity and say every day like go
+
+1530
+00:20:56,750 --> 00:20:56,760
+Anti-Gravity and say every day like go
+ 
+
+1531
+00:20:56,760 --> 00:20:58,030
+Anti-Gravity and say every day like go
+and check it. What are the changes?
+
+1532
+00:20:58,030 --> 00:20:58,040
+and check it. What are the changes?
+ 
+
+1533
+00:20:58,040 --> 00:21:00,190
+and check it. What are the changes?
+Approve it and build a skill that says
+
+1534
+00:21:00,190 --> 00:21:00,200
+Approve it and build a skill that says
+ 
+
+1535
+00:21:00,200 --> 00:21:01,870
+Approve it and build a skill that says
+if it's just to do with copy, we let
+
+1536
+00:21:01,870 --> 00:21:01,880
+if it's just to do with copy, we let
+ 
+
+1537
+00:21:01,880 --> 00:21:03,430
+if it's just to do with copy, we let
+that go. If it's a structural change,
+
+1538
+00:21:03,430 --> 00:21:03,440
+that go. If it's a structural change,
+ 
+
+1539
+00:21:03,440 --> 00:21:04,590
+that go. If it's a structural change,
+you can manage it. And now you can
+
+1540
+00:21:04,590 --> 00:21:04,600
+you can manage it. And now you can
+ 
+
+1541
+00:21:04,600 --> 00:21:06,190
+you can manage it. And now you can
+manage all of your clients here on the
+
+1542
+00:21:06,190 --> 00:21:06,200
+manage all of your clients here on the
+ 
+
+1543
+00:21:06,200 --> 00:21:08,110
+manage all of your clients here on the
+left-hand side, all their requests, get
+
+1544
+00:21:08,110 --> 00:21:08,120
+left-hand side, all their requests, get
+ 
+
+1545
+00:21:08,120 --> 00:21:09,870
+left-hand side, all their requests, get
+that complete, and it's a complete It
+
+1546
+00:21:09,870 --> 00:21:09,880
+that complete, and it's a complete It
+ 
+
+1547
+00:21:09,880 --> 00:21:11,830
+that complete, and it's a complete It
+just takes the back and forth of you and
+
+1548
+00:21:11,830 --> 00:21:11,840
+just takes the back and forth of you and
+ 
+
+1549
+00:21:11,840 --> 00:21:13,470
+just takes the back and forth of you and
+the and the customer way out of your
+
+1550
+00:21:13,470 --> 00:21:13,480
+the and the customer way out of your
+ 
+
+1551
+00:21:13,480 --> 00:21:15,110
+the and the customer way out of your
+hands because it all runs down the
+
+1552
+00:21:15,110 --> 00:21:15,120
+hands because it all runs down the
+ 
+
+1553
+00:21:15,120 --> 00:21:16,470
+hands because it all runs down the
+background. I've also created for you a
+
+1554
+00:21:16,470 --> 00:21:16,480
+background. I've also created for you a
+ 
+
+1555
+00:21:16,480 --> 00:21:18,630
+background. I've also created for you a
+client feedback portal setup guide. They
+
+1556
+00:21:18,630 --> 00:21:18,640
+client feedback portal setup guide. They
+ 
+
+1557
+00:21:18,640 --> 00:21:20,350
+client feedback portal setup guide. They
+just feed this to Claude code in the
+
+1558
+00:21:20,350 --> 00:21:20,360
+just feed this to Claude code in the
+ 
+
+1559
+00:21:20,360 --> 00:21:21,750
+just feed this to Claude code in the
+same chat window. Doesn't need to be the
+
+1560
+00:21:21,750 --> 00:21:21,760
+same chat window. Doesn't need to be the
+ 
+
+1561
+00:21:21,760 --> 00:21:22,630
+same chat window. Doesn't need to be the
+same chat window, but just give it to
+
+1562
+00:21:22,630 --> 00:21:22,640
+same chat window, but just give it to
+ 
+
+1563
+00:21:22,640 --> 00:21:23,630
+same chat window, but just give it to
+Claude code and it'll go ahead and
+
+1564
+00:21:23,630 --> 00:21:23,640
+Claude code and it'll go ahead and
+ 
+
+1565
+00:21:23,640 --> 00:21:25,190
+Claude code and it'll go ahead and
+develop you one of these things. The
+
+1566
+00:21:25,190 --> 00:21:25,200
+develop you one of these things. The
+ 
+
+1567
+00:21:25,200 --> 00:21:26,310
+develop you one of these things. The
+only thing you need to do is give it
+
+1568
+00:21:26,310 --> 00:21:26,320
+only thing you need to do is give it
+ 
+
+1569
+00:21:26,320 --> 00:21:28,030
+only thing you need to do is give it
+your Notion API key. If you don't know
+
+1570
+00:21:28,030 --> 00:21:28,040
+your Notion API key. If you don't know
+ 
+
+1571
+00:21:28,040 --> 00:21:29,350
+your Notion API key. If you don't know
+how to do that, just come on the top
+
+1572
+00:21:29,350 --> 00:21:29,360
+how to do that, just come on the top
+ 
+
+1573
+00:21:29,360 --> 00:21:31,150
+how to do that, just come on the top
+right, come down here to connections,
+
+1574
+00:21:31,150 --> 00:21:31,160
+right, come down here to connections,
+ 
+
+1575
+00:21:31,160 --> 00:21:33,510
+right, come down here to connections,
+click on develop integration, and on
+
+1576
+00:21:33,510 --> 00:21:33,520
+click on develop integration, and on
+ 
+
+1577
+00:21:33,520 --> 00:21:34,670
+click on develop integration, and on
+develop integration, all you're going to
+
+1578
+00:21:34,670 --> 00:21:34,680
+develop integration, all you're going to
+ 
+
+1579
+00:21:34,680 --> 00:21:36,270
+develop integration, all you're going to
+do is create a new integration. You're
+
+1580
+00:21:36,270 --> 00:21:36,280
+do is create a new integration. You're
+ 
+
+1581
+00:21:36,280 --> 00:21:37,510
+do is create a new integration. You're
+going to give it a name, and you're
+
+1582
+00:21:37,510 --> 00:21:37,520
+going to give it a name, and you're
+ 
+
+1583
+00:21:37,520 --> 00:21:39,350
+going to give it a name, and you're
+going to grab an API key. Then once you
+
+1584
+00:21:39,350 --> 00:21:39,360
+going to grab an API key. Then once you
+ 
+
+1585
+00:21:39,360 --> 00:21:41,270
+going to grab an API key. Then once you
+give that API key to Claude code, you
+
+1586
+00:21:41,270 --> 00:21:41,280
+give that API key to Claude code, you
+ 
+
+1587
+00:21:41,280 --> 00:21:42,630
+give that API key to Claude code, you
+can effectively connect that. You just
+
+1588
+00:21:42,630 --> 00:21:42,640
+can effectively connect that. You just
+ 
+
+1589
+00:21:42,640 --> 00:21:44,350
+can effectively connect that. You just
+give it a prompt just by copying this
+
+1590
+00:21:44,350 --> 00:21:44,360
+give it a prompt just by copying this
+ 
+
+1591
+00:21:44,360 --> 00:21:45,870
+give it a prompt just by copying this
+whole thing I dealt for you here, and
+
+1592
+00:21:45,870 --> 00:21:45,880
+whole thing I dealt for you here, and
+ 
+
+1593
+00:21:45,880 --> 00:21:47,150
+whole thing I dealt for you here, and
+you'll be ready to connect it and have
+
+1594
+00:21:47,150 --> 00:21:47,160
+you'll be ready to connect it and have
+ 
+
+1595
+00:21:47,160 --> 00:21:49,790
+you'll be ready to connect it and have
+the whole system ready to rock and roll.
+
+1596
+00:21:49,790 --> 00:21:49,800
+the whole system ready to rock and roll.
+ 
+
+1597
+00:21:49,800 --> 00:21:51,550
+the whole system ready to rock and roll.
+Now, a beautiful website is one thing,
+
+1598
+00:21:51,550 --> 00:21:51,560
+Now, a beautiful website is one thing,
+ 
+
+1599
+00:21:51,560 --> 00:21:53,190
+Now, a beautiful website is one thing,
+but actually building it with more
+
+1600
+00:21:53,190 --> 00:21:53,200
+but actually building it with more
+ 
+
+1601
+00:21:53,200 --> 00:21:54,910
+but actually building it with more
+detail and hosting it is something
+
+1602
+00:21:54,910 --> 00:21:54,920
+detail and hosting it is something
+ 
+
+1603
+00:21:54,920 --> 00:21:56,150
+detail and hosting it is something
+completely different. We're going to
+
+1604
+00:21:56,150 --> 00:21:56,160
+completely different. We're going to
+ 
+
+1605
+00:21:56,160 --> 00:21:58,430
+completely different. We're going to
+learn that now by watching this video
+
+1606
+00:21:58,430 --> 00:21:58,440
+learn that now by watching this video
+ 
+
+1607
+00:21:58,440 --> 00:22:01,160
+learn that now by watching this video
+right here.
+
