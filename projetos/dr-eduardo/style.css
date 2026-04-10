@@ -517,6 +517,11 @@ strong {
   margin-top: 2px;
 }
 
+.pain__item > span:not(.pain__icon) {
+  flex: 1;
+  min-width: 0;
+}
+
 .pain__conclusion {
   font-family: var(--font-display);
   font-size: 1.3rem;
@@ -870,7 +875,8 @@ strong {
 
 .author__stats {
   display: flex;
-  gap: 40px;
+  flex-wrap: wrap;
+  gap: 32px;
 }
 
 .author__stat {
