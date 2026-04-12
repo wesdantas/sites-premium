@@ -887,7 +887,6 @@ strong {
 }
 
 .deliverable-card--main {
-  grid-column: 1 / -1;
   background: linear-gradient(135deg, rgba(90,29,107,0.3), rgba(168,85,247,0.1));
   border-color: var(--border-glow);
 }
@@ -1205,6 +1204,25 @@ strong {
   box-shadow:
     0 0 80px rgba(168, 85, 247, 0.15),
     inset 0 1px 0 rgba(255,255,255,0.06);
+}
+
+.offer__urgency-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  background: rgba(220, 38, 38, 0.12);
+  border: 1px solid rgba(220, 38, 38, 0.3);
+  border-radius: 10px;
+  padding: 14px 24px;
+  margin-bottom: 32px;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.offer__urgency-stock strong,
+.offer__urgency-bonus strong {
+  color: #f87171;
 }
 
 .offer__card-badge {
@@ -1640,6 +1658,89 @@ strong {
 
 @media (max-width: 640px) {
   .forwho__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================================
+   TRANSFORMAÇÃO — Bloco 7
+============================================================ */
+.transformation {
+  padding: 100px 0;
+  background: var(--bg-section);
+  border-top: 1px solid var(--border-subtle);
+}
+
+.transformation__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+}
+
+.transformation__eyebrow {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--purple-bright);
+}
+
+.transformation__list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+  max-width: 860px;
+  margin-top: 48px;
+  text-align: left;
+}
+
+.transformation__item {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(168,85,247,0.15);
+  border-radius: 12px;
+  padding: 24px 20px;
+  transition: border-color 0.2s ease;
+}
+
+.transformation__item:hover {
+  border-color: rgba(168,85,247,0.4);
+}
+
+.transformation__check {
+  color: var(--purple-bright);
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.transformation__item div {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.transformation__item strong {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.4;
+}
+
+.transformation__item span {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+@media (max-width: 640px) {
+  .transformation__list {
     grid-template-columns: 1fr;
   }
 }

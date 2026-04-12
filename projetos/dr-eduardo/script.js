@@ -32,6 +32,18 @@ gsap.registerPlugin(ScrollTrigger);
 })();
 
 /* ============================================================
+   URGÊNCIA — prazo dos bônus (hoje às 23:59)
+============================================================ */
+(function initBonusDeadline() {
+  const el = document.getElementById('bonusDeadline');
+  if (!el) return;
+  const now = new Date();
+  const day = now.getDate().toString().padStart(2, '0');
+  const month = (now.getMonth() + 1).toString().padStart(2, '0');
+  el.textContent = `${day}/${month} às 23h59`;
+})();
+
+/* ============================================================
    STICKY BAR — esconder ao scrollar para cima no hero
 ============================================================ */
 (function initStickyBar() {
