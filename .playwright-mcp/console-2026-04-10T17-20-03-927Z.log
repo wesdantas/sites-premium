@@ -1,0 +1,21 @@
+[       2ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cliente.hostgator.com.br/inicio:0
+[     360ms] [WARNING] [SDK] Rejected message from origin: https://cliente.hostgator.com.br message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[     393ms] [WARNING] [SDK] Rejected message from origin: https://cliente.hostgator.com.br message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[     571ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[     636ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[    2498ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://survey.hostgator.io/users/2603827/hosting/14676878:0
+[    2658ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://chat.hostgator.com.br') does not match the recipient window's origin ('https://cliente.hostgator.com.br'). @ https://chat.hostgator.com.br/sdk/chat.js:0
+[   88958ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://chat.hostgator.com.br') does not match the recipient window's origin ('https://cliente.hostgator.com.br'). @ https://chat.hostgator.com.br/sdk/chat.js:0
+[   89381ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://survey.hostgator.io/users/2603827/surveys/9:0
+[ 3602969ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[ 3603081ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[ 7203815ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[ 7203935ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[10804470ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[10804579ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[14405103ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[14405214ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[18005675ms] [ERROR] Framing 'https://www.google.com/' violates the following report-only Content Security Policy directive: "frame-ancestors 'self'". The violation has been logged, but no further action has been taken.
+ @ :0
+[18005739ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0
+[18005850ms] [WARNING] [SDK] Rejected message from origin: https://www.google.com message @ https://chat.hostgator.com.br/sdk/chat.js:0

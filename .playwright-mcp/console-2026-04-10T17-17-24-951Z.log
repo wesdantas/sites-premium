@@ -1,0 +1,12 @@
+[     625ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://suporte.hostgator.com.br/hc/pt-br/articles/115000181933:0
+[    1585ms] [LOG] ❌ Acesso negado: role não autorizado ou sem permissões @ https://suporte.hostgator.com.br/hc/theming_assets/19278730/23450142343187/script.js?digest=50292885554707:347
+[    2190ms] [ERROR] Access to fetch at 'https://www.hostgator.com.br/contents/knowledgeBase/knowledgeBaseBR.json' from origin 'https://suporte.hostgator.com.br' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://suporte.hostgator.com.br/hc/pt-br/articles/30816449693459-Como-acessar-o-cPanel:0
+[    2191ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.hostgator.com.br/contents/knowledgeBase/knowledgeBaseBR.json:0
+[   34066ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://cpanel.dreduardosantos.com/:0
+[   42398ms] [LOG] ❌ Acesso negado: role não autorizado ou sem permissões @ https://suporte.hostgator.com.br/hc/theming_assets/19278730/23450142343187/script.js?digest=50292885554707:347
+[   42953ms] [ERROR] Access to fetch at 'https://www.hostgator.com.br/contents/knowledgeBase/knowledgeBaseBR.json' from origin 'https://suporte.hostgator.com.br' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://suporte.hostgator.com.br/hc/pt-br/articles/30816449693459-Como-acessar-o-cPanel:0
+[   42953ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://www.hostgator.com.br/contents/knowledgeBase/knowledgeBaseBR.json:0
+[   43554ms] [LOG] ❌ Acesso negado: role não autorizado ou sem permissões @ https://suporte.hostgator.com.br/hc/theming_assets/19278730/23450142343187/script.js?digest=50292885554707:347
+[   86348ms] [LOG] ❌ Acesso negado: role não autorizado ou sem permissões @ https://suporte.hostgator.com.br/hc/theming_assets/19278730/23450142343187/script.js?digest=50292885554707:347
+[  116369ms] [WARNING] Invalid asm.js: Unexpected token @ https://cliente.hostgator.com.br/static/js/16.b09a7639.chunk.js:0
+[  118825ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://survey.hostgator.io/users/2603827/hosting/14676878:0
